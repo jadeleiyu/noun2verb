@@ -1,0 +1,2109 @@
+utterance,year,relation,target,object,verb
+discharge_vvi his_appge duty_nn1 as_ii_csa an_at1 advocate_nn1 ,1823,agent,advocate,duty,discharge
+show_vvd colden_np1_nn1 as_ii_csa the_at advocate_nn1 ,1827,agent,advocate,colden,show
+hear_vv0 no_at complaint_nn2 from_ii the_at advocate_nn2 ,1827,location_out,advocate,complaint,hear
+jj_vvn stupidity_nn1 by_ii the_at advocate_nn2 ,1839,instrument,advocate,stupidity,jj
+take_vv0 our_appge stand_nn1 as_ii_csa the_at advocate_nn2 ,1840,agent,advocate,stand,take
+overestimate_vv0 my_appge value_nn1 as_ii_csa an_at1 advocate_nn1 ,1863,agent,advocate,value,overestimate
+walk_vvg the_at court_nn2 as_ii_csa an_at1 advocate_nn1 ,1884,agent,advocate,court,walk
+state_vvi their_appge case_nn1 by_ii an_at1 advocate_nn1 ,1891,instrument,advocate,case,state
+turn_vvi his_appge back_nn1 on_ii the_at advocate_nn2 ,1894,location_on,advocate,back,turn
+judge_vv0 advocate_nn1_vv0 on_ii the_at staff_nn ,1901,locatum_on,advocate,staff,judge
+turn_vvi the_at table_nn2 on_ii the_at advocate_nn1 ,1967,location_on,advocate,table,turn
+win_vvn regard_nn1_vv0 as_ii an_at1 advocate_nn1 ,1980,agent,advocate,regard,win
+define_vvd shapard_np1 as_ii_csa an_at1 advocate_nn1 ,1994,agent,advocate,shapard,define
+leave_vvi their_appge child_nn2 with_iw an_at1 advocate_nn1 ,1994,instrument,advocate,child,leave
+need_vv0 an_at1 advocate_nn1 on_ii the_at council_nn1 ,1995,locatum_on,advocate,council,need
+forbid_vvi the_at ban_nn2 on_ii my_appge marriage_nn1 ,1871,locatum_on,ban,marriage,forbid
+put_vvn her_appge_ppho1 ban_nn1 on_ii your_appge wife_nn1 ,1873,locatum_on,ban,wife,put
+lay_vvd_vvn a_at1 ban_nn1 on_ii the_at place_nn1 ,1896,locatum_on,ban,place,lay
+set_vvd_vv0_vvn a_at1 ban_nn1 on_ii her_appge impulse_nn1 ,1902,locatum_on,ban,impulse,set
+be_vbz a_at1 ban_nn1 on_ii every_at1 city_nn1 ,1909,locatum_on,ban,city,be
+lift_vv0_nn1 the_at ban_nn1 on_ii the_at movement_nn2 ,1922,locatum_on,ban,movement,lift
+withdraw_vvd his_appge ban_nn1 on_ii the_at oklahoma_np1 ,1923,locatum_on,ban,oklahoma,withdraw
+clutch_vvg motion_nn2 with_iw his_appge ban_nn1 ,1933,instrument,ban,motion,clutch
+place_vvn a_at1 ban_nn1 on_ii the_at use_nn1 ,1935,locatum_on,ban,use,place
+lift_vv0 their_appge ban_nn2 on_ii the_at export_nn2 ,1935,locatum_on,ban,export,lift
+clamp_vvn a_at1 ban_nn1 on_ii a_at1 newspaper_nn1 ,1937,locatum_on,ban,newspaper,clamp
+evade_vvi the_at ban_nn1 on_ii the_at use_nn1 ,1940,locatum_on,ban,use,evade
+put_vvi a_at1 ban_nn1 on_ii the_at music_nn1 ,1941,locatum_on,ban,music,put
+remove_vvi the_at ban_nn1 on_ii the_at use_nn1 ,1946,locatum_on,ban,use,remove
+confirm_vvg the_at ban_nn1 on_ii the_at basis_nn1 ,1949,locatum_on,ban,basis,confirm
+term_vvd_vvn the_at ban_nn1 on_ii the_at book_nn1 ,1949,locatum_on,ban,book,term
+withdraw_vvi their_appge ban_nn1 on_ii the_at importation_nn1 ,1949,locatum_on,ban,importation,withdraw
+lift_vvi the_at ban_nn1 on_ii the_at ground_nn2 ,1949,locatum_on,ban,ground,lift
+lift_vvg its_appge ban_nn1 on_ii the_at sale_nn1 ,1951,locatum_on,ban,sale,lift
+justify_vvi their_appge ban_nn1 on_ii the_at passage_nn1 ,1957,locatum_on,ban,passage,justify
+include_vvd_vvn a_at1 ban_nn1 on_ii a_at1 city_nn1 ,1961,locatum_on,ban,city,include
+take_vvd a_at1 ban_nn1 from_ii my_appge hand_nn1 ,1963,locatum_out,ban,hand,take
+suggest_vvi a_at1 ban_nn1 on_ii a_at1 variety_nn1 ,1969,locatum_on,ban,variety,suggest
+announce_vvd a_at1 ban_nn1 on_ii the_at use_nn1 ,1973,locatum_on,ban,use,announce
+be_vbz a_at1 ban_nn1 on_ii the_at manufacture_nn1 ,1976,locatum_on,ban,manufacture,be
+restore_vv0 the_at ban_nn1 on_ii the_at sst_np1 ,1977,locatum_on,ban,sst,restore
+restore_vv0 the_at ban_nn1 on_ii the_at sst_np1 ,1977,locatum_on,ban,sst,restore
+slap_vvi a_at1 ban_nn1 on_ii his_appge sermon_nn2 ,1978,locatum_on,ban,sermon,slap
+accept_vvi a_at1 ban_nn1 on_ii the_at test_nn1 ,1978,locatum_on,ban,test,accept
+enforce_vvg a_at1 ban_nn1 on_ii its_appge activity_nn2 ,1981,locatum_on,ban,activity,enforce
+have_vhi no_at ban_nn1 on_ii an_at1 action_nn1 ,1984,locatum_on,ban,action,have
+propose_vvn a_at1 ban_nn1 on_ii the_at fungicide_nn1 ,1985,locatum_on,ban,fungicide,propose
+put_vvi a_at1 ban_nn1 on_ii the_at jew_nn2 ,1989,locatum_on,ban,jew,put
+consider_vvg_ii a_at1 ban_nn1 on_ii the_at substance_nn1 ,1990,locatum_on,ban,substance,consider
+consider_vvi a_at1 ban_nn1 on_ii the_at use_nn1 ,1993,locatum_on,ban,use,consider
+circumvent_vvd_vvn the_at ban_nn1 on_ii the_at slave_nn1 ,1997,locatum_on,ban,slave,circumvent
+pass_vvn a_at1 moratorium_nn1 on_ii the_at ban_nn1 ,1997,location_on,ban,moratorium,pass
+include_vvd_vvn a_at1 ban_nn1 on_ii the_at persecution_nn1 ,1998,locatum_on,ban,persecution,include
+be_vbdz a_at1 ban_nn1 on_ii the_at export_nn1 ,1999,locatum_on,ban,export,be
+mean_vvd_vvn a_at1 ban_nn1 on_ii its_appge development_nn1 ,1999,locatum_on,ban,development,mean
+be_vbz a_at1 ban_nn1 on_ii the_at use_nn1 ,2005,locatum_on,ban,use,be
+be_vbz my_appge hand_nn1 on_ii your_appge bargain_nn1 ,1834,location_on,bargain,hand,be
+be_vbdz a_at1 loser_nn1 by_ii the_at bargain_nn1 ,1843,instrument,bargain,loser,be
+go_vvi share_nn2 with_iw my_appge bargain_nn1 ,1851,instrument,bargain,share,go
+regard_vvi marriage_nn1 as_ii a_at1 bargain_nn1 ,1864,agent,bargain,marriage,regard
+conclude_vvi the_at bargain_nn1 on_ii the_at spot_nn1 ,1873,locatum_on,bargain,spot,conclude
+close_vvi the_at bargain_nn1 on_ii the_at spot_nn1 ,1885,locatum_on,bargain,spot,close
+close_vvi the_at bargain_nn1 on_ii the_at spot_nn1 ,1893,locatum_on,bargain,spot,close
+make_vvi an_at1 introduction_nn1 as_ii_csa a_at1 bargain_nn1 ,1895,agent,bargain,introduction,make
+tear_vvd his_appge beard_nn1 during_ii the_at bargain_nn1 ,1903,duration,bargain,beard,tear
+shake_vv0_nn1 hand_nn2 on_ii the_at bargain_nn1 ,1912,location_on,bargain,hand,shake
+go_vvi partner_nn1 on_ii the_at bargain_nn1 ,1912,location_on,bargain,partner,go
+make_vv0 money_nn1 on_ii your_appge bargain_nn2 ,1915,location_on,bargain,money,make
+shake_vv0 hand_nn2 on_ii a_at1 bargain_nn1 ,1952,location_on,bargain,hand,shake
+be_vbi a_at1 bargain_nn1 from_ii the_at standpoint_nn1 ,1953,locatum_out,bargain,standpoint,be
+run_vvi the_at theater_nn1 like_ii a_at1 bargain_nn1 ,1965,agent,bargain,theater,run
+demand_vv0 his_appge release_nn1 from_ii the_at bargain_nn1 ,1965,location_out,bargain,release,demand
+clap_vvd hand_nn2 on_ii the_at bargain_nn1 ,1993,location_on,bargain,hand,clap
+know_vvz a_at1 bargain_nn1 from_ii a_at1 bag_nn1 ,1993,locatum_out,bargain,bag,know
+draw_vvg their_appge bid_nn2 on_ii a_at1 basis_nn1 ,1894,locatum_on,bid,basis,draw
+give_vv0 a_at1 security_nn1 with_iw the_at bid_nn1 ,1915,instrument,bid,security,give
+will_vm camp_nn1 with_iw my_appge bid_nn1 ,1917,instrument,bid,camp,will
+judge_vvi his_appge chance_nn2 on_ii the_at bid_nn1 ,1922,location_on,bid,chance,judge
+make_vvd your_appge bid_nn1 on_ii the_at job_nn1 ,1922,locatum_on,bid,job,make
+be_vbdz a_at1 bid_nn1 from_ii the_at klondike_np1 ,1936,locatum_out,bid,klondike,be
+figure_vvi their_appge bid_nn1 on_ii the_at money_nn1 ,1940,locatum_on,bid,money,figure
+weigh_vvd a_at1 bid_nn1 from_ii a_at1 union_nn1 ,1958,locatum_out,bid,union,weigh
+receive_vvn a_at1 bid_nn1 from_ii the_at white_np1 ,1958,locatum_out,bid,white,receive
+win_vvd the_at contract_nn1 with_iw a_at1 bid_nn1 ,1960,instrument,bid,contract,win
+receive_vvi a_at1 bid_nn1 from_ii his_appge brother_nn1 ,1965,locatum_out,bid,brother,receive
+have_vhd a_at1 bid_nn1 from_ii every_at1 club_nn1 ,1965,locatum_out,bid,club,have
+place_vv0 a_at1 limit_nn1 on_ii the_at bid_nn2 ,1965,location_on,bid,limit,place
+set_vvn a_at1 trap_nn1 with_iw their_appge bid_nn1 ,1973,instrument,bid,trap,set
+enter_vvd_vvn a_at1 bid_nn1 on_ii the_at job_nn1 ,1974,locatum_on,bid,job,enter
+produce_vvi a_at1 bid_nn1 on_ii the_at superdome_nn1_np1 ,1975,locatum_on,bid,superdome,produce
+require_vvi bid_nn2 on_ii the_at order_nn2 ,1975,locatum_on,bid,order,require
+bet_vv0 a_at1 dollar_nnu1 on_ii the_at bid_nn1 ,1980,location_on,bid,dollar,bet
+name_vvg_nn1 souter_np1_nn1 be_vbdz a_at1 bid_nn1 ,1990,goal,bid,souter,name
+take_vvg bid_nn2_vvz from_ii an_at1 array_nn1 ,1992,locatum_out,bid,array,take
+obtain_vvi bid_nn2 on_ii the_at car_nn1 ,1995,locatum_on,bid,car,obtain
+lose_vvd_vvn money_nn1 on_ii their_appge bid_nn2 ,1996,location_on,bid,money,lose
+take_vv0 bid_nn2 on_ii the_at work_nn1 ,1996,locatum_on,bid,work,take
+make_vvg a_at1 bid_nn1 on_ii an_at1 apartment_nn1 ,1998,locatum_on,bid,apartment,make
+receive_vvd a_at1 fax_nn1 from_ii the_at bid_nn1 ,1999,location_out,bid,fax,receive
+handle_vvi her_appge arrangement_nn2 with_iw the_at bid_nn1 ,1999,instrument,bid,arrangement,handle
+take_vvd place_nn1 with_iw a_at1 bid_nn1 ,1999,instrument,bid,place,take
+get_vvd my_appge bid_nn1 from_ii a_at1 sorority_nn1 ,2002,locatum_out,bid,sorority,get
+display_vv0 the_at bid_nn2 on_ii the_at flower_nn2 ,2004,locatum_on,bid,flower,display
+have_vhi the_at broadcast_nn1 from_ii the_at macom_np1 ,1930,locatum_out,broadcast,macom,have
+call_vv0 broadcast_nn1_vvn_vv0 from_ii the_at hut_nn1 ,1931,locatum_out,broadcast,hut,call
+reprint_vv0 excerpt_nn2 from_ii a_at1 broadcast_nn1 ,1941,location_out,broadcast,excerpt,reprint
+increase_vvi its_appge revenue_nn1 from_ii the_at broadcast_nn2 ,1943,location_out,broadcast,revenue,increase
+trade_vvi data_nn on_ii the_at broadcast_nn2 ,1957,location_on,broadcast,data,trade
+create_vvg a_at1 wave_nn1 like_ii the_at broadcast_nn2 ,1957,agent,broadcast,wave,create
+hear_vvn a_at1 broadcast_nn1 from_ii a_at1 khomeini_np1 ,1986,locatum_out,broadcast,khomeini,hear
+show_vv0 her_appge face_nn1 on_ii the_at broadcast_nn1 ,1991,location_on,broadcast,face,show
+wish_vvi broadcast_nn1_vvn on_ii the_at botany_nn1 ,2003,locatum_on,broadcast,botany,wish
+catch_vvd vieira_np1 on_ii a_at1 broadcast_nn1 ,2006,location_on,broadcast,vieira,catch
+contain_vvg scene_nn2 from_ii the_at capture_nn1 ,1839,location_out,capture,scene,contain
+witness_vvd the_at capture_nn1 from_ii a_at1 distance_nn1 ,1870,locatum_out,capture,distance,witness
+employ_vvi their_appge time_nnt1 with_iw the_at capture_nn1 ,1875,instrument,capture,time,employ
+set_vvn my_appge heart_nn1 on_ii the_at capture_nn1 ,1875,location_on,capture,heart,set
+accomplish_vvi her_appge mission_nn1 by_ii the_at capture_nn1 ,1891,instrument,capture,mission,accomplish
+connect_vv0 the_at explosion_nn1 with_iw the_at capture_nn1 ,1894,instrument,capture,explosion,connect
+signalized_vvd his_appge return_nn1 by_ii the_at capture_nn1 ,1900,instrument,capture,return,signalized
+belong_vv0 his_appge ode_nn2 on_ii the_at capture_nn1 ,1933,location_on,capture,ode,belong
+confuse_vvi the_at hunt_nn1 with_iw the_at capture_nn1 ,1956,instrument,capture,hunt,confuse
+be_vbdz a_at1 bulletin_nn1 on_ii the_at capture_nn1 ,1957,location_on,capture,bulletin,be
+witness_vvi a_at1 chase_nn1 on_ii the_at river_nn1 ,1840,locatum_on,chase,river,witness
+veil_vvn the_at chase_nn1 from_ii her_appge sight_nn1 ,1844,locatum_out,chase,sight,veil
+watch_vvg the_at chase_nn1 on_ii the_at lake_nn1 ,1868,locatum_on,chase,lake,watch
+divide_vvd the_at road_nn1 from_ii the_at chase_nn1 ,1899,location_out,chase,road,divide
+mean_vvd news_nn1 from_ii the_at chase_nn1 ,1902,location_out,chase,news,mean
+seek_vvz his_appge food_nn1 by_ii the_at chase_nn1 ,1910,instrument,chase,food,seek
+make_vvi arrangement_nn2 with_iw the_at chase_nn1 ,1934,instrument,chase,arrangement,make
+derive_vv0 substance_nn1 from_ii the_at chase_nn1 ,1938,location_out,chase,substance,derive
+open_vvi fire_nn1 with_iw her_appge chase_nn1 ,1948,instrument,chase,fire,open
+be_vbz no_at fire_nn1 as_ii_csa the_at chase_nn1 ,1950,agent,chase,fire,be
+include_vvi construction_nn1 by_ii the_at chase_nn1 ,1956,instrument,chase,construction,include
+lose_vvi his_appge meat_nn1 during_ii the_at chase_nn1 ,1979,duration,chase,meat,lose
+give_vvd chase_nn1 from_ii a_at1 stoplight_nn1 ,1983,locatum_out,chase,stoplight,give
+reach_vvi bellegarde_nn1_np1 through_ii the_at chase_nn1 ,1993,instrument,chase,bellegarde,reach
+lead_vvd_vvn police_nn2 on_ii a_at1 chase_nn1 ,1996,location_on,chase,police,lead
+speed_vvi chase_nn1_vv0 on_ii the_at news_nn1 ,2009,locatum_on,chase,news,speed
+neutralize_vvi a_at1 color_nn1 by_ii its_appge complement_nn1 ,1954,instrument,complement,color,neutralize
+bestow_vvi concern_nn1 on_ii the_at topic_nn2 ,1834,locatum_on,concern,topic,bestow
+bestow_vvi concern_nn1 on_ii the_at topic_nn2 ,1835,locatum_on,concern,topic,bestow
+bestow_vvi concern_nn1 on_ii the_at topic_nn2 ,1835,locatum_on,concern,topic,bestow
+keep_vv0 an_at1 eye_nn1 on_ii the_at concern_nn1 ,1862,location_on,concern,eye,keep
+make_vvg money_nn1 by_ii the_at concern_nn1 ,1885,instrument,concern,money,make
+sever_vvn_vvd his_appge connection_nn1 with_iw the_at concern_nn1 ,1901,instrument,concern,connection,sever
+govern_vvi his_appge action_nn2 with_iw a_at1 concern_nn1 ,1905,instrument,concern,action,govern
+relieve_vvi the_at concern_nn1 from_ii the_at payment_nn1 ,1911,locatum_out,concern,payment,relieve
+disentangle_vvi his_appge concern_nn1 from_ii the_at labor_nn1 ,1912,locatum_out,concern,labor,disentangle
+have_vhd a_at1 desk_nn1 with_iw a_at1 concern_nn1 ,1914,instrument,concern,desk,have
+be_vbdz a_at1 diversion_nn1 from_ii her_appge concern_nn1 ,1942,location_out,concern,diversion,be
+see_vvi the_at concern_nn1 on_ii a_at1 world_nn1 ,1947,locatum_on,concern,world,see
+believe_vv0 sex_nn1 be_vbz the_at concern_nn1 ,1967,goal,concern,sex,believe
+feed_vvg speculation_nn1 be_vbz the_at concern_nn1 ,1968,goal,concern,speculation,feed
+be_vbz no_at concern_nn1 on_ii our_appge part_nn1 ,1971,locatum_on,concern,part,be
+flee_vvi their_appge country_nn1 be_vbr no_at concern_nn1 ,1974,goal,concern,country,flee
+keep_vvi the_at concern_nn1 from_ii my_appge voice_nn1 ,1977,locatum_out,concern,voice,keep
+hide_vvi the_at concern_nn1 on_ii her_appge face_nn1 ,1988,locatum_on,concern,face,hide
+wear_vvi her_appge concern_nn2 on_ii the_at skin_nn1 ,1993,locatum_on,concern,skin,wear
+manage_vv0 your_appge lawn_nn1 with_iw a_at1 concern_nn1 ,1994,instrument,concern,lawn,manage
+wear_vv0 their_appge concern_nn2 on_ii their_appge face_nn2 ,1995,locatum_on,concern,face,wear
+nurture_vvd_vvn craftspeople_nn1_vv0 through_ii his_appge concern_nn1 ,1995,instrument,concern,craftspeople,nurture
+promote_vvg a_at1 theocracy_nn1 by_ii his_appge concern_nn1 ,1996,instrument,concern,theocracy,promote
+exclude_vvi their_appge child_nn2 from_ii their_appge concern_nn2 ,1999,location_out,concern,child,exclude
+throw_vvg the_at piece_nn1 on_ii the_at counter_nn1 ,1833,location_on,counter,piece,throw
+replace_vvd_vvn his_appge light_nn1_jj on_ii the_at counter_nn1 ,1835,location_on,counter,light,replace
+find_vvn the_at book_nn1 on_ii his_appge counter_nn1 ,1836,location_on,counter,book,find
+put_vvn the_at money_nn1 on_ii the_at counter_nn1 ,1848,location_on,counter,money,put
+cut_vvn a_at1 hole_nn1 through_ii the_at counter_nn1 ,1849,instrument,counter,hole,cut
+sell_vv0 candy_nn1 on_ii a_at1 counter_nn1 ,1850,location_on,counter,candy,sell
+rest_vvd his_appge elbow_nn2 on_ii the_at counter_nn1 ,1854,location_on,counter,elbow,rest
+put_vvi your_appge bill_nn1 on_ii the_at counter_nn1 ,1854,location_on,counter,bill,put
+fling_vvg his_appge paper_nn1 on_ii the_at counter_nn1 ,1857,location_on,counter,paper,fling
+make_vvg sketch_nn2 on_ii the_at counter_nn1 ,1859,location_on,counter,sketch,make
+put_vvd_vv0 her_appge book_nn2 on_ii the_at counter_nn1 ,1864,location_on,counter,book,put
+rest_vvd our_appge elbow_nn2 on_ii the_at counter_nn1 ,1867,location_on,counter,elbow,rest
+snatch_vvg his_appge package_nn1 from_ii the_at counter_nn1 ,1869,location_out,counter,package,snatch
+take_vvn the_at reduction_nn1 from_ii the_at counter_nn1 ,1871,location_out,counter,reduction,take
+rest_vvd his_appge elbow_nn1 on_ii the_at counter_nn1 ,1873,location_on,counter,elbow,rest
+toss_vvz good_nn2 on_ii the_at counter_nn1 ,1873,location_on,counter,good,toss
+make_vvd_vvn change_nn1_vv0 on_ii a_at1 counter_nn1 ,1875,location_on,counter,change,make
+put_vvd_vv0 his_appge satchel_nn1 on_ii the_at counter_nn1 ,1882,location_on,counter,satchel,put
+take_vvz bill_nn1 from_ii the_at counter_nn1 ,1887,location_out,counter,bill,take
+rest_vvg his_appge elbow_nn2 on_ii the_at counter_nn1 ,1888,location_on,counter,elbow,rest
+open_vv0 the_at magazine_nn1 on_ii the_at counter_nn1 ,1888,location_on,counter,magazine,open
+lay_vvg the_at cane_nn1 on_ii the_at counter_nn1 ,1888,location_on,counter,cane,lay
+lay_vvd her_appge bundle_nn1 on_ii the_at counter_nn1 ,1892,location_on,counter,bundle,lay
+cut_vvz a_at1 figure_nn1 on_ii the_at counter_nn2 ,1893,location_on,counter,figure,cut
+sell_vvd bread_nn1 from_ii the_at counter_nn1 ,1896,location_out,counter,bread,sell
+lay_vvd_vvn a_at1 note_nn1 on_ii the_at counter_nn1 ,1897,location_on,counter,note,lay
+keep_vvd his_appge eye_nn2 on_ii the_at counter_nn1 ,1900,location_on,counter,eye,keep
+change_vv0_nn1 fr_nnu be_vbm a_at1 counter_nn1 ,1902,goal,counter,fr,change
+place_vvd her_appge bundle_nn2 on_ii the_at counter_nn1 ,1906,location_on,counter,bundle,place
+lay_vvd the_at paper_nn1 on_ii the_at counter_nn1 ,1906,location_on,counter,paper,lay
+lay_vvd a_at1 bill_nn1 on_ii the_at counter_nn1 ,1909,location_on,counter,bill,lay
+dump_vvd the_at package_nn2 on_ii his_appge counter_nn1 ,1909,location_on,counter,package,dump
+lay_vvd_vvn a_at1 package_nn1 on_ii the_at counter_nn1 ,1909,location_on,counter,package,lay
+leave_vvi the_at money_nn1 on_ii the_at counter_nn1 ,1910,location_on,counter,money,leave
+lay_vvd_vvn his_appge card_nn1 on_ii the_at counter_nn1 ,1912,location_on,counter,card,lay
+throw_vvg his_appge money_nn1 on_ii the_at counter_nn1 ,1914,location_on,counter,money,throw
+lay_vvd_vvn his_appge watch_nn1 on_ii the_at counter_nn1 ,1914,location_on,counter,watch,lay
+find_vvd_vvn a_at1 seat_nn1 on_ii the_at counter_nn1 ,1917,location_on,counter,seat,find
+lay_vvg a_at1 bill_nn1 on_ii the_at counter_nn1 ,1917,location_on,counter,bill,lay
+put_vvd her_appge head_nn1 on_ii the_at counter_nn1 ,1919,location_on,counter,head,put
+put_vvi their_appge good_nn2 on_ii the_at counter_nn1 ,1920,location_on,counter,good,put
+put_vvi the_at penny_nnu2 on_ii the_at counter_nn1 ,1921,location_on,counter,penny,put
+stand_vvd the_at egg_nn1 on_ii the_at counter_nn1 ,1921,location_on,counter,egg,stand
+strike_vvd his_appge fist_nn1 on_ii the_at counter_nn1 ,1922,location_on,counter,fist,strike
+thump_vvd his_appge fist_nn1 on_ii the_at counter_nn1 ,1925,location_on,counter,fist,thump
+drop_vvz coin_nn2 on_ii the_at counter_nn1 ,1930,location_on,counter,coin,drop
+slam_vvz his_appge money_nn1 on_ii the_at counter_nn1 ,1931,location_on,counter,money,slam
+bounce_vvd the_at shilling_nn2 on_ii the_at counter_nn1 ,1932,location_on,counter,shilling,bounce
+put_vvz the_at card_nn1 on_ii the_at counter_nn1 ,1934,location_on,counter,card,put
+lay_vvd the_at money_nn1 on_ii the_at counter_nn1 ,1935,location_on,counter,money,lay
+light_vvd the_at lamp_nn1 on_ii the_at counter_nn1 ,1936,location_on,counter,lamp,light
+rest_vvd his_appge rifle_nn1 on_ii the_at counter_nn1 ,1936,location_on,counter,rifle,rest
+lean_vvd_vvn his_appge elbow_nn2 on_ii the_at counter_nn1 ,1938,location_on,counter,elbow,lean
+lay_vvd her_appge hat_nn1 on_ii the_at counter_nn1 ,1940,location_on,counter,hat,lay
+set_vvd_vv0 his_appge saddlebag_nn2 on_ii the_at counter_nn1 ,1941,location_on,counter,saddlebag,set
+slap_vvz the_at coin_nn1 on_ii the_at counter_nn1 ,1941,location_on,counter,coin,slap
+drop_vvz the_at coin_nn1 on_ii the_at counter_nn1 ,1941,location_on,counter,coin,drop
+slide_vvd the_at cape_nn1 onto_ii the_at counter_nn1 ,1941,location_on,counter,cape,slide
+fold_vvd his_appge arm_nn2 on_ii the_at counter_nn1 ,1941,location_on,counter,arm,fold
+put_vv0_vvd their_appge pence_nnu on_ii the_at counter_nn2 ,1941,location_on,counter,pence,put
+set_vvd_vv0 his_appge saddlebag_nn2 on_ii the_at counter_nn1 ,1941,location_on,counter,saddlebag,set
+take_vvz doll_nn1 from_ii the_at counter_nn1 ,1942,location_out,counter,doll,take
+put_vvd the_at box_nn1 on_ii the_at counter_nn1 ,1943,location_on,counter,box,put
+put_vvd_vv0_vvn the_at banana_nn1 on_ii the_at counter_nn1 ,1943,location_on,counter,banana,put
+press_vvd the_at bell_nn1 on_ii the_at counter_nn1 ,1943,location_on,counter,bell,press
+lay_vvd a_at1 bill_nn1 on_ii the_at counter_nn1 ,1943,location_on,counter,bill,lay
+put_vvi the_at money_nn1 on_ii the_at counter_nn1 ,1944,location_on,counter,money,put
+bang_vvg her_appge knuckle_nn2 on_ii the_at counter_nn1 ,1945,location_on,counter,knuckle,bang
+drop_vvz a_at1 coin_nn1 on_ii the_at counter_nn1 ,1946,location_on,counter,coin,drop
+lean_vvd his_appge arm_nn2 on_ii the_at counter_nn1 ,1947,location_on,counter,arm,lean
+put_vvd the_at pie_nn2 on_ii the_at counter_nn1 ,1947,location_on,counter,pie,put
+put_vvd her_appge hand_nn2 on_ii the_at counter_nn1 ,1947,location_on,counter,hand,put
+throw_vvd the_at camel_nn2 on_ii the_at counter_nn1 ,1948,location_on,counter,camel,throw
+put_vvd his_appge elbow_nn2 on_ii the_at counter_nn1 ,1948,location_on,counter,elbow,put
+bang_vvd a_at1 fist_nn1 on_ii the_at counter_nn1 ,1948,location_on,counter,fist,bang
+keep_vvd_vvn tobacco_nn1 on_ii the_at counter_nn1 ,1948,location_on,counter,tobacco,keep
+put_vvz a_at1 bill_nn1 on_ii the_at counter_nn1 ,1949,location_on,counter,bill,put
+slap_vvd his_appge rag_nn1 on_ii the_at counter_nn1 ,1950,location_on,counter,rag,slap
+give_vvz the_at product_nn1 on_ii his_appge counter_nn1 ,1950,location_on,counter,product,give
+deposit_vvi his_appge loot_nn1 on_ii the_at counter_nn1 ,1951,location_on,counter,loot,deposit
+throw_vvd the_at coin_nn2 on_ii the_at counter_nn1 ,1952,location_on,counter,coin,throw
+drop_vv0 his_appge nickel_nn1 on_ii the_at counter_nn1 ,1952,location_on,counter,nickel,drop
+find_vvi houseroom_nn1 on_ii the_at counter_nn1 ,1952,location_on,counter,houseroom,find
+leave_vvg the_at bolt_nn1 on_ii the_at counter_nn1 ,1953,location_on,counter,bolt,leave
+leave_vvd a_at1 dime_nn1 on_ii the_at counter_nn1 ,1953,location_on,counter,dime,leave
+lay_vvd_vvn a_at1 note_nn1 on_ii the_at counter_nn1 ,1953,location_on,counter,note,lay
+open_vvd her_appge manual_nn1_jj on_ii a_at1 counter_nn1 ,1953,location_on,counter,manual,open
+open_vvd his_appge manual_nn1_jj on_ii the_at counter_nn1 ,1953,location_on,counter,manual,open
+take_vvd the_at manual_nn1_jj from_ii the_at counter_nn1 ,1953,location_out,counter,manual,take
+lay_vvd his_appge club_nn1 on_ii the_at counter_nn1 ,1954,location_on,counter,club,lay
+put_vvz the_at box_nn1 on_ii the_at counter_nn1 ,1954,location_on,counter,box,put
+drop_vvz a_at1 bill_nn1 on_ii the_at counter_nn1 ,1954,location_on,counter,bill,drop
+rest_vvg my_appge elbow_nn2 on_ii the_at counter_nn1 ,1955,location_on,counter,elbow,rest
+put_vvg her_appge iron_nn1 on_ii the_at counter_nn1 ,1957,location_on,counter,iron,put
+drop_vvd_vvn a_at1 coin_nn1 on_ii the_at counter_nn1 ,1957,location_on,counter,coin,drop
+open_vvd the_at book_nn2 on_ii the_at counter_nn1 ,1957,location_on,counter,book,open
+leave_vv0 the_at sum_nn1 on_ii the_at counter_nn1 ,1957,location_on,counter,sum,leave
+set_vvd_vv0 her_appge pocketbook_nn1 on_ii the_at counter_nn1 ,1958,location_on,counter,pocketbook,set
+leave_vvd_vvn the_at money_nn1 on_ii the_at counter_nn1 ,1958,location_on,counter,money,leave
+lay_vvd a_at1 nickel_nn1 on_ii the_at counter_nn1 ,1960,location_on,counter,nickel,lay
+spread_vvd her_appge catalogue_nn1 on_ii the_at counter_nn1 ,1960,location_on,counter,catalogue,spread
+put_vvd the_at egg_nn1 on_ii the_at counter_nn1 ,1960,location_on,counter,egg,put
+place_vvn her_appge handbag_nn1 on_ii the_at counter_nn1 ,1960,location_on,counter,handbag,place
+lean_vvd my_appge elbow_nn2 on_ii the_at counter_nn1 ,1961,location_on,counter,elbow,lean
+put_vvd my_appge change_nn1 on_ii the_at counter_nn1 ,1962,location_on,counter,change,put
+slap_vvz a_at1 bill_nn1 on_ii the_at counter_nn1 ,1962,location_on,counter,bill,slap
+put_vvd a_at1 dime_nn1 on_ii the_at counter_nn1 ,1963,location_on,counter,dime,put
+put_vvd_vvn_vv0 a_at1 pack_nn1 on_ii the_at counter_nn1 ,1963,location_on,counter,pack,put
+put_vvd a_at1 dime_nn1 on_ii the_at counter_nn1 ,1963,location_on,counter,dime,put
+put_vvg the_at cigarette_nn2 on_ii the_at counter_nn1 ,1963,location_on,counter,cigarette,put
+put_vvz the_at camera_nn1 on_ii the_at counter_nn1 ,1964,location_on,counter,camera,put
+slap_vvz his_appge glass_nn1 on_ii the_at counter_nn1 ,1964,location_on,counter,glass,slap
+put_vvd_vv0 my_appge money_nn1 on_ii the_at counter_nn1 ,1964,location_on,counter,money,put
+put_vv0_vvd an_at1 arm_nn1 on_ii the_at counter_nn1 ,1964,location_on,counter,arm,put
+replace_vvd the_at bell_nn1 on_ii the_at counter_nn1 ,1965,location_on,counter,bell,replace
+lay_vvd his_appge lunch_nn1 on_ii the_at counter_nn1 ,1965,location_on,counter,lunch,lay
+drum_vvd his_appge finger_nn2 on_ii the_at counter_nn1 ,1966,location_on,counter,finger,drum
+put_vvd her_appge purse_nn1 on_ii the_at counter_nn1 ,1966,location_on,counter,purse,put
+throw_vvd a_at1 bill_nn1 on_ii the_at counter_nn1 ,1967,location_on,counter,bill,throw
+leave_vvd_vvn the_at money_nn1 on_ii the_at counter_nn1 ,1967,location_on,counter,money,leave
+get_vvd linoleum_nn1 on_ii the_at counter_nn1 ,1967,location_on,counter,linoleum,get
+lay_vvz the_at quarter_nn1 on_ii the_at counter_nn1 ,1968,location_on,counter,quarter,lay
+lean_vvd his_appge arm_nn2 on_ii the_at counter_nn1 ,1968,location_on,counter,arm,lean
+put_vv0_vvd the_at money_nn1 on_ii the_at counter_nn1 ,1969,location_on,counter,money,put
+empty_vvz his_appge pocket_nn2 on_ii the_at counter_nn1 ,1969,location_on,counter,pocket,empty
+slap_vvz a_at1 bill_nn1 on_ii the_at counter_nn1 ,1969,location_on,counter,bill,slap
+lean_vvd his_appge elbow_nn2 on_ii the_at counter_nn1 ,1969,location_on,counter,elbow,lean
+put_vv0_vvd the_at cane_nn1 on_ii the_at counter_nn1 ,1969,location_on,counter,cane,put
+put_vv0_vvd the_at money_nn1 on_ii the_at counter_nn1 ,1969,location_on,counter,money,put
+regard_vvz the_at deputy_nn1 as_ii a_at1 counter_nn1 ,1969,agent,counter,deputy,regard
+drop_vvd the_at money_nn1 on_ii the_at counter_nn1 ,1969,location_on,counter,money,drop
+set_vvz the_at cup_nn1 on_ii the_at counter_nn1 ,1970,location_on,counter,cup,set
+drop_vvd a_at1 quarter_nn1 on_ii the_at counter_nn1 ,1970,location_on,counter,quarter,drop
+be_vbdz a_at1 mirror_nn1 on_ii the_at counter_nn1 ,1971,location_on,counter,mirror,be
+put_vvd the_at cleat_nn2 on_ii the_at counter_nn1 ,1973,location_on,counter,cleat,put
+put_vv0_vvd_vvn the_at food_nn1 on_ii the_at counter_nn1 ,1974,location_on,counter,food,put
+stack_vvn his_appge purchase_nn2 on_ii the_at counter_nn1 ,1974,location_on,counter,purchase,stack
+drop_vvd_vvn quarter_nn2 onto_ii the_at counter_nn1 ,1974,location_on,counter,quarter,drop
+twist_vvd his_appge beer_nn1 on_ii the_at counter_nn1 ,1974,location_on,counter,beer,twist
+drop_vvd a_at1 quarter_nn1 on_ii the_at counter_nn1 ,1975,location_on,counter,quarter,drop
+toss_vvd his_appge cap_nn1 onto_ii the_at counter_nn1 ,1975,location_on,counter,cap,toss
+put_vvd his_appge glass_nn2 on_ii the_at counter_nn1 ,1975,location_on,counter,glass,put
+throw_vvd the_at package_nn1 on_ii the_at counter_nn1 ,1975,location_on,counter,package,throw
+put_vvd_vv0 his_appge wallet_nn1 on_ii the_at counter_nn1 ,1976,location_on,counter,wallet,put
+rest_vvz his_appge elbow_nn1 on_ii the_at counter_nn1 ,1976,location_on,counter,elbow,rest
+set_vvd the_at package_nn1 on_ii the_at counter_nn1 ,1976,location_on,counter,package,set
+set_vvz the_at bag_nn1 on_ii the_at counter_nn1 ,1977,location_on,counter,bag,set
+slide_vvz a_at1 quarter_nn1 onto_ii the_at counter_nn1 ,1977,location_on,counter,quarter,slide
+leave_vvd his_appge payment_nn1 on_ii the_at counter_nn1 ,1977,location_on,counter,payment,leave
+throw_vvd her_appge purse_nn1 on_ii the_at counter_nn1 ,1978,location_on,counter,purse,throw
+lean_vvg his_appge elbow_nn2 on_ii the_at counter_nn1 ,1978,location_on,counter,elbow,lean
+slap_vvd his_appge rag_nn1 on_ii the_at counter_nn1 ,1979,location_on,counter,rag,slap
+slap_vvd the_at recorder_nn1 on_ii the_at counter_nn1 ,1980,location_on,counter,recorder,slap
+set_vv0_vvd the_at container_nn2 on_ii the_at counter_nn1 ,1980,location_on,counter,container,set
+tap_vvd his_appge cigarette_nn1 on_ii the_at counter_nn1 ,1980,location_on,counter,cigarette,tap
+lay_vvd the_at guitar_nn1 on_ii the_at counter_nn1 ,1984,location_on,counter,guitar,lay
+lay_vvg the_at cartridge_nn1 on_ii a_at1 counter_nn1 ,1986,location_on,counter,cartridge,lay
+lean_vvd his_appge elbow_nn2 on_ii the_at counter_nn1 ,1989,location_on,counter,elbow,lean
+rest_vvg his_appge elbow_nn2 on_ii the_at counter_nn1 ,1990,location_on,counter,elbow,rest
+bang_vv0 my_appge hand_nn2 on_ii the_at counter_nn1 ,1991,location_on,counter,hand,bang
+leave_vvd her_appge newspaper_nn1 on_ii the_at counter_nn1 ,1991,location_on,counter,newspaper,leave
+hit_vvd_vvn the_at bell_nn1 on_ii his_appge counter_nn1 ,1992,location_on,counter,bell,hit
+slap_vvg a_at1 dollar_nnu1 on_ii the_at counter_nn1 ,1992,location_on,counter,dollar,slap
+leave_vvd the_at cigarette_nn2 on_ii the_at counter_nn1 ,1992,location_on,counter,cigarette,leave
+tap_vvd the_at scarf_nn1 on_ii the_at counter_nn1 ,1993,location_on,counter,scarf,tap
+scoop_vvd the_at key_nn1_jj from_ii the_at counter_nn1 ,1993,location_out,counter,key,scoop
+set_vvd her_appge purse_nn1 on_ii the_at counter_nn1 ,1993,location_on,counter,purse,set
+leave_vvd the_at lettuce_nn1 on_ii the_at counter_nn1 ,1993,location_on,counter,lettuce,leave
+complete_vvd the_at move_nn1 from_ii the_at counter_nn1 ,1993,location_out,counter,move,complete
+place_vvd her_appge bag_nn2 on_ii the_at counter_nn1 ,1993,location_on,counter,bag,place
+watch_vvi the_at tv_nn1 on_ii the_at counter_nn1 ,1993,location_on,counter,tv,watch
+leave_vvd money_nn1 on_ii the_at counter_nn1 ,1994,location_on,counter,money,leave
+put_vvd his_appge hand_nn1 on_ii the_at counter_nn1 ,1994,location_on,counter,hand,put
+set_vv0_vvd the_at slide_nn1 on_ii the_at counter_nn1 ,1994,location_on,counter,slide,set
+set_vv0_vvd the_at receiver_nn1 on_ii the_at counter_nn1 ,1994,location_on,counter,receiver,set
+slam_vvz a_at1 fist_nn1 on_ii the_at counter_nn1 ,1994,location_on,counter,fist,slam
+put_vvz the_at gun_nn1 on_ii the_at counter_nn1 ,1995,location_on,counter,gun,put
+prop_vvg her_appge elbow_nn2 on_ii the_at counter_nn1 ,1995,location_on,counter,elbow,prop
+break_vvg rock_nn2 on_ii the_at counter_nn1 ,1995,location_on,counter,rock,break
+slap_vvd the_at coin_nn1 onto_ii the_at counter_nn1 ,1996,location_on,counter,coin,slap
+put_vvg money_nn1 on_ii the_at counter_nn1 ,1997,location_on,counter,money,put
+write_vvi your_appge name_nn1 on_ii the_at counter_nn1 ,1997,location_on,counter,name,write
+be_vbdz a_at1 lamp_nn1 on_ii the_at counter_nn1 ,1998,location_on,counter,lamp,be
+set_vv0_vvd the_at bottle_nn1 on_ii the_at counter_nn1 ,1998,location_on,counter,bottle,set
+leave_vvn direction_nn2 on_ii the_at counter_nn1 ,1998,location_on,counter,direction,leave
+put_vvz her_appge hand_nn2 on_ii the_at counter_nn1 ,1999,location_on,counter,hand,put
+knead_vvg dough_nn1 on_ii the_at counter_nn1 ,1999,location_on,counter,dough,knead
+spot_vvn a_at1 jar_nn1 on_ii the_at counter_nn1 ,1999,location_on,counter,jar,spot
+put_vvd a_at1 coin_nn1 on_ii the_at counter_nn1 ,1999,location_on,counter,coin,put
+put_vvd the_at postcard_nn1 on_ii the_at counter_nn1 ,1999,location_on,counter,postcard,put
+set_vvd the_at kettle_nn1 on_ii the_at counter_nn1 ,2000,location_on,counter,kettle,set
+leave_vvg the_at carton_nn1 on_ii the_at counter_nn1 ,2000,location_on,counter,carton,leave
+leave_vvn_vvd a_at1 tenner_nn1 on_ii the_at counter_nn1 ,2000,location_on,counter,tenner,leave
+place_vvd my_appge hand_nn2 on_ii the_at counter_nn1 ,2001,location_on,counter,hand,place
+drop_vvg the_at envelope_nn1 on_ii the_at counter_nn1 ,2001,location_on,counter,envelope,drop
+see_vvd the_at file_nn2 on_ii the_at counter_nn1 ,2001,location_on,counter,file,see
+notice_vvd a_at1 lighter_nn1_jjr on_ii the_at counter_nn1 ,2002,location_on,counter,lighter,notice
+leave_vvi the_at key_nn2 on_ii the_at counter_nn1 ,2002,location_on,counter,key,leave
+spread_vvg_jj picture_nn2 on_ii the_at counter_nn1 ,2002,location_on,counter,picture,spread
+leave_vv0 the_at cup_nn1 on_ii the_at counter_nn1 ,2003,location_on,counter,cup,leave
+slide_vvd the_at box_nn1 from_ii the_at counter_nn1 ,2003,location_out,counter,box,slide
+be_vbdz a_at1 bell_nn1 on_ii the_at counter_nn1 ,2003,location_on,counter,bell,be
+lean_vvd her_appge elbow_nn1 on_ii the_at counter_nn1 ,2003,location_on,counter,elbow,lean
+jj_vvg slosh_nn2 onto_ii the_at counter_nn1 ,2004,location_on,counter,slosh,jj
+put_vvd_vv0 your_appge bag_nn2 on_ii the_at counter_nn1 ,2004,location_on,counter,bag,put
+put_vvd the_at stick_nn1 on_ii the_at counter_nn1 ,2006,location_on,counter,stick,put
+stack_vvi parcel_nn2 on_ii the_at counter_nn1 ,2006,location_on,counter,parcel,stack
+set_vvd the_at bag_nn2 on_ii the_at counter_nn1 ,2006,location_on,counter,bag,set
+drop_vv0 my_appge purse_nn1 on_ii the_at counter_nn1 ,2007,location_on,counter,purse,drop
+put_vvd the_at phone_nn1 on_ii the_at counter_nn1 ,2007,location_on,counter,phone,put
+drop_vvd her_appge skillet_nn1 on_ii the_at counter_nn1 ,2007,location_on,counter,skillet,drop
+throw_vvd his_appge book_nn2 on_ii the_at counter_nn1 ,2007,location_on,counter,book,throw
+set_vvd the_at grocery_nn2 on_ii the_at counter_nn1 ,2007,location_on,counter,grocery,set
+leave_vvn direction_nn2 on_ii the_at counter_nn1 ,2007,location_on,counter,direction,leave
+set_vvg the_at bundle_nn1 on_ii the_at counter_nn1 ,2007,location_on,counter,bundle,set
+put_vvd the_at box_nn1 on_ii the_at counter_nn1 ,2008,location_on,counter,box,put
+drop_vvd his_appge chart_nn2 onto_ii the_at counter_nn1 ,2008,location_on,counter,chart,drop
+drop_vvz the_at bag_nn2 on_ii the_at counter_nn1 ,2008,location_on,counter,bag,drop
+smack_vvd the_at glass_nn1 on_ii the_at counter_nn1 ,2009,location_on,counter,glass,smack
+place_vvg_nn1 napkin_nn2 on_ii the_at counter_nn1 ,2009,location_on,counter,napkin,place
+leave_vvd the_at poster_nn1 on_ii the_at counter_nn1 ,2009,location_on,counter,poster,leave
+leave_vvn her_appge sunglass_nn2 on_ii his_appge counter_nn1 ,2009,location_on,counter,sunglass,leave
+set_vvd the_at bouquet_nn1 on_ii the_at counter_nn1 ,2009,location_on,counter,bouquet,set
+set_vv0_vvd my_appge backpack_nn1 on_ii the_at counter_nn1 ,2009,location_on,counter,backpack,set
+snatch_vvd my_appge bag_nn1 from_ii the_at counter_nn1 ,2009,location_out,counter,bag,snatch
+drop_vvd her_appge key_nn1_jj onto_ii the_at counter_nn1 ,2009,location_on,counter,key,drop
+place_vvd the_at bill_nn1 on_ii the_at counter_nn1 ,2009,location_on,counter,bill,place
+be_vbz coffee_nn1 on_ii the_at counter_nn1 ,2009,location_on,counter,coffee,be
+lift_vvd his_appge head_nn1 from_ii the_at cover_nn1 ,1826,location_out,cover,head,lift
+venture_vvd_vvn his_appge head_nn1 from_ii its_appge cover_nn1 ,1826,location_out,cover,head,venture
+tear_vvd the_at cover_nn2 from_ii the_at back_nn2 ,1833,locatum_out,cover,back,tear
+cross_vvd his_appge spectacle_nn2 on_ii its_appge cover_nn1 ,1836,location_on,cover,spectacle,cross
+extricate_vvn his_appge horse_nn1 from_ii the_at cover_nn1 ,1841,location_out,cover,horse,extricate
+put_vvd the_at cover_nn1 on_ii the_at box_nn1 ,1854,locatum_on,cover,box,put
+lay_vvd her_appge finger_nn1 on_ii the_at cover_nn1 ,1854,location_on,cover,finger,lay
+lift_vvd the_at cover_nn1 from_ii the_at basket_nn1 ,1854,locatum_out,cover,basket,lift
+dislodge_vvi marjoribanks_nn2_np1 from_ii his_appge cover_nn1 ,1856,location_out,cover,marjoribanks,dislodge
+put_vv0_vvd the_at cover_nn2 on_ii the_at furniture_nn1 ,1861,locatum_on,cover,furniture,put
+sew_vv0 the_at cover_nn1 on_ii the_at handle_nn1 ,1870,locatum_on,cover,handle,sew
+use_vvi the_at term_nn1 as_ii_csa a_at1 cover_nn1 ,1871,agent,cover,term,use
+watch_vv0 her_appge light_nn1_jj from_ii his_appge cover_nn1 ,1875,location_out,cover,light,watch
+put_vvd_vv0_vvn a_at1 cover_nn1 on_ii the_at pan_nn1 ,1880,locatum_on,cover,pan,put
+read_vvi the_at title_nn1 on_ii the_at cover_nn1 ,1881,location_on,cover,title,read
+hear_vvd the_at cover_nn1 on_ii the_at crock_nn1 ,1883,locatum_on,cover,crock,hear
+write_vvd an_at1 address_nn1 on_ii the_at cover_nn1 ,1884,location_on,cover,address,write
+be_vbz a_at1 box_nn1 with_iw a_at1 cover_nn1 ,1885,instrument,cover,box,be
+slap_vvz the_at cover_nn1 on_ii the_at end_nn1 ,1888,locatum_on,cover,end,slap
+lift_vvd the_at cover_nn1 from_ii a_at1 box_nn1 ,1889,locatum_out,cover,box,lift
+observe_vvg their_appge movement_nn2 from_ii the_at cover_nn1 ,1890,location_out,cover,movement,observe
+take_vvg the_at cover_nn1 from_ii her_appge typewriter_nn1 ,1891,locatum_out,cover,typewriter,take
+clap_vvz the_at cover_nn1 on_ii the_at lens_nn1 ,1892,locatum_on,cover,lens,clap
+remove_vvd the_at cover_nn1 from_ii the_at end_nn1 ,1892,locatum_out,cover,end,remove
+replace_vvd the_at cover_nn1 on_ii the_at box_nn1 ,1893,locatum_on,cover,box,replace
+shed_vvg their_appge cover_nn2 from_ii the_at mule_nn2 ,1894,locatum_out,cover,mule,shed
+drive_vvg the_at rabbit_nn2 from_ii their_appge cover_nn2 ,1896,location_out,cover,rabbit,drive
+rouse_vvi the_at savage_nn2 from_ii their_appge cover_nn1 ,1896,location_out,cover,savage,rouse
+feel_vvd the_at cover_nn1 on_ii the_at bed_nn1 ,1900,locatum_on,cover,bed,feel
+view_vvd life_nn1 through_ii the_at cover_nn2 ,1900,instrument,cover,life,view
+fling_vvg the_at cover_nn1 on_ii the_at floor_nn1 ,1900,locatum_on,cover,floor,fling
+use_vvg the_at law_nn1 as_ii_csa the_at cover_nn1 ,1901,agent,cover,law,use
+catch_vvn a_at1 word_nn1 on_ii the_at cover_nn1 ,1907,location_on,cover,word,catch
+make_vvi the_at girl_nn1 on_ii the_at cover_nn1 ,1908,location_on,cover,girl,make
+contemplate_vvg the_at picture_nn1 on_ii the_at cover_nn1 ,1914,location_on,cover,picture,contemplate
+peel_vvg the_at cover_nn1 from_ii his_appge umbrella_nn1 ,1914,locatum_out,cover,umbrella,peel
+put_vvd the_at cover_nn1 on_ii the_at bucket_nn1 ,1916,locatum_on,cover,bucket,put
+find_vvi cover_nn1_vv0 on_ii the_at ship_nn1 ,1916,locatum_on,cover,ship,find
+wrench_vvd the_at cover_nn1 from_ii the_at box_nn1 ,1916,locatum_out,cover,box,wrench
+remove_vvd the_at cover_nn1 from_ii the_at tin_nn1 ,1917,locatum_out,cover,tin,remove
+put_vvi the_at cover_nn1 on_ii the_at sew_nn1 ,1917,locatum_on,cover,sew,put
+arrange_vv0 the_at cover_nn2 on_ii the_at couch_nn1 ,1921,locatum_on,cover,couch,arrange
+be_vbdz hell_nn1 with_iw the_at cover_nn1 ,1921,instrument,cover,hell,be
+leave_vvg the_at cover_nn1 on_ii the_at floor_nn1 ,1921,locatum_on,cover,floor,leave
+keep_vvi the_at cover_nn1 on_ii the_at sofa_nn1 ,1922,locatum_on,cover,sofa,keep
+throw_vvg the_at cover_nn1 from_ii his_appge head_nn1 ,1928,locatum_out,cover,head,throw
+push_vvd_vvn a_at1 cart_nn1 as_ii_csa a_at1 cover_nn1 ,1930,agent,cover,cart,push
+read_vvi the_at name_nn2 on_ii the_at cover_nn2 ,1931,location_on,cover,name,read
+tire_vv0 valve_nn1 on_ii the_at cover_nn1 ,1931,location_on,cover,valve,tire
+whisk_vvd_vvn the_at cover_nn2 from_ii the_at food_nn1 ,1931,locatum_out,cover,food,whisk
+change_vvi the_at cover_nn1 on_ii your_appge bunk_nn1 ,1932,locatum_on,cover,bunk,change
+write_vvz his_appge name_nn1 on_ii the_at cover_nn1 ,1934,location_on,cover,name,write
+throw_vvg the_at cover_nn1 from_ii his_appge head_nn1 ,1934,locatum_out,cover,head,throw
+throw_vvg the_at cover_nn1 from_ii his_appge head_nn1 ,1934,locatum_out,cover,head,throw
+put_vvg the_at cover_nn1 on_ii the_at engine_nn1 ,1935,locatum_on,cover,engine,put
+might_vm tree_nn1 from_ii the_at cover_nn1 ,1936,location_out,cover,tree,might
+remove_vvd the_at cover_nn1 from_ii a_at1 dish_nn1 ,1938,locatum_out,cover,dish,remove
+remove_vvd the_at cover_nn1 from_ii a_at1 dish_nn1 ,1938,locatum_out,cover,dish,remove
+strip_vvg the_at cover_nn2 from_ii the_at bed_nn1 ,1940,locatum_out,cover,bed,strip
+lift_vvd the_at cover_nn1 from_ii his_appge dish_nn1 ,1940,locatum_out,cover,dish,lift
+take_vvg cover_nn1_vv0 on_ii the_at edge_nn1 ,1941,locatum_on,cover,edge,take
+put_vv0_vvd_vvn cover_nn2 on_ii the_at cage_nn2 ,1941,locatum_on,cover,cage,put
+close_vvd the_at cover_nn1 on_ii the_at card_nn1 ,1943,locatum_on,cover,card,close
+unscrew_vvd the_at cover_nn1 from_ii the_at canteen_nn1 ,1944,locatum_out,cover,canteen,unscrew
+lift_vvd the_at cover_nn1 from_ii the_at face_nn1 ,1944,locatum_out,cover,face,lift
+have_vhi a_at1 movie_nn1 on_ii the_at cover_nn1 ,1944,location_on,cover,movie,have
+close_vvd the_at cover_nn1 on_ii the_at family_nn1 ,1944,locatum_on,cover,family,close
+put_vvn an_at1 athlete_nn1 on_ii its_appge cover_nn1 ,1945,location_on,cover,athlete,put
+hit_vvi every_at1 cover_nn1 on_ii the_at stand_nn2 ,1947,locatum_on,cover,stand,hit
+give_vvd cover_nn1 from_ii the_at sun_nn1 ,1947,locatum_out,cover,sun,give
+be_vbdz no_at cover_nn1 on_ii the_at ridge_nn1 ,1948,locatum_on,cover,ridge,be
+be_vbdz the_at cover_nn1 on_ii the_at bed_nn1 ,1948,locatum_on,cover,bed,be
+purchase_vvn a_at1 painting_nn1 as_ii_csa a_at1 cover_nn1 ,1948,agent,cover,painting,purchase
+put_vv0_vvd people_nn on_ii the_at cover_nn1 ,1949,location_on,cover,people,put
+strip_vvz_nn2 the_at cover_nn1 from_ii his_appge pipe_nn1 ,1949,locatum_out,cover,pipe,strip
+judge_vvi a_at1 book_nn1 by_ii its_appge cover_nn1 ,1949,instrument,cover,book,judge
+lift_vvd_vvn the_at cover_nn1 from_ii his_appge typewriter_nn1 ,1950,locatum_out,cover,typewriter,lift
+take_vvg cover_nn1_vv0 on_ii the_at canal_nn1 ,1952,locatum_on,cover,canal,take
+pull_vvi the_at heartstring_nn2 on_ii the_at cover_nn1 ,1952,location_on,cover,heartstring,pull
+jj_vvg oak_nn1 on_ii your_appge cover_nn1 ,1954,location_on,cover,oak,jj
+pry_vvd the_at cover_nn1 from_ii his_appge tinderbox_nn1 ,1956,locatum_out,cover,tinderbox,pry
+rip_vvd the_at cover_nn2 from_ii his_appge bed_nn1 ,1958,locatum_out,cover,bed,rip
+put_vvd the_at cover_nn1 on_ii his_appge tube_nn1 ,1958,locatum_on,cover,tube,put
+translate_vvi the_at slogan_nn1 on_ii the_at cover_nn1 ,1959,location_on,cover,slogan,translate
+lie_vvg limp_nn1_jj on_ii the_at cover_nn1 ,1960,location_on,cover,limp,lie
+lift_vvd the_at cover_nn1 from_ii the_at toast_nn1 ,1961,locatum_out,cover,toast,lift
+take_vvi the_at cover_nn1 from_ii the_at typewriter_nn1 ,1962,locatum_out,cover,typewriter,take
+knot_vvd his_appge hand_nn2 on_ii the_at cover_nn2 ,1962,location_on,cover,hand,knot
+use_vvd_vvn her_appge picture_nn1 on_ii the_at cover_nn1 ,1963,location_on,cover,picture,use
+tell_vvi the_at book_nn1 by_ii the_at cover_nn1 ,1965,instrument,cover,book,tell
+jj_vvn cover_nn2 on_ii the_at bedside_nn1 ,1965,locatum_on,cover,bedside,jj
+honor_vvg the_at craft_nn1 with_iw your_appge cover_nn1 ,1965,instrument,cover,craft,honor
+use_vvi my_appge picture_nn1 on_ii the_at cover_nn1 ,1965,location_on,cover,picture,use
+tell_vvi a_at1 book_nn1 by_ii its_appge cover_nn1 ,1965,instrument,cover,book,tell
+do_vdd the_at cover_nn1 on_ii the_at peace_nn1 ,1966,locatum_on,cover,peace,do
+put_vvi your_appge name_nn1 on_ii the_at cover_nn1 ,1966,location_on,cover,name,put
+put_vvi your_appge name_nn1 on_ii the_at cover_nn1 ,1966,location_on,cover,name,put
+lift_vvd the_at cover_nn2 from_ii his_appge body_nn1 ,1966,locatum_out,cover,body,lift
+get_vvg the_at cover_nn2 on_ii the_at ricks_nn2 ,1967,locatum_on,cover,ricks,get
+print_vvi your_appge picture_nn1 on_ii the_at cover_nn1 ,1967,location_on,cover,picture,print
+carry_vvn his_appge picture_nn1 on_ii its_appge cover_nn1 ,1967,location_on,cover,picture,carry
+place_vvd the_at tray_nn1 on_ii the_at cover_nn2 ,1969,location_on,cover,tray,place
+put_vvd the_at cover_nn1 on_ii her_appge typewriter_nn1 ,1969,locatum_on,cover,typewriter,put
+draw_vvd the_at cover_nn2 on_ii his_appge chest_nn1 ,1972,locatum_on,cover,chest,draw
+draw_vvd the_at cover_nn2 on_ii his_appge chest_nn1 ,1972,locatum_on,cover,chest,draw
+survey_vvg the_at field_nn1 from_ii the_at cover_nn1 ,1973,location_out,cover,field,survey
+be_vbn a_at1 marvel_nn1 on_ii your_appge cover_nn1 ,1975,location_on,cover,marvel,be
+use_vvg the_at reorganization_nn1 as_ii_csa a_at1 cover_nn1 ,1975,agent,cover,reorganization,use
+find_vvi cover_nn1_vv0 from_ii a_at1 rifle_nn1 ,1979,locatum_out,cover,rifle,find
+carry_vvd_vvn the_at year_nnt1 on_ii the_at cover_nn1 ,1979,location_on,cover,year,carry
+put_vvi the_at cover_nn1 on_ii her_appge jaw_nn1 ,1979,locatum_on,cover,jaw,put
+see_vvi my_appge picture_nn1 on_ii the_at cover_nn1 ,1980,location_on,cover,picture,see
+see_vvi picasso_np1 on_ii the_at cover_nn1 ,1980,location_on,cover,picasso,see
+judge_vvg book_nn2 by_ii their_appge cover_nn2 ,1981,instrument,cover,book,judge
+judge_vvg book_nn2 by_ii their_appge cover_nn2 ,1981,instrument,cover,book,judge
+bore_vv0_vvd the_at eagle_nn1 on_ii its_appge cover_nn1 ,1982,location_on,cover,eagle,bore
+put_vvg a_at1 person_nn1 on_ii its_appge cover_nn1 ,1984,location_on,cover,person,put
+put_vvd_vv0 leavitt_np1 on_ii its_appge cover_nn1 ,1984,location_on,cover,leavitt,put
+be_vbz moisture_nn1 on_ii the_at cover_nn1 ,1985,location_on,cover,moisture,be
+get_vvi cyndi_np1 on_ii the_at cover_nn1 ,1985,location_on,cover,cyndi,get
+have_vhd symbol_nn2 on_ii the_at cover_nn1 ,1986,location_on,cover,symbol,have
+lift_vvg the_at cover_nn1 from_ii the_at pan_nn1 ,1987,locatum_out,cover,pan,lift
+spill_vvn honey_nn1 on_ii the_at cover_nn1 ,1987,location_on,cover,honey,spill
+get_vvi her_appge photograph_nn1 on_ii the_at cover_nn1 ,1988,location_on,cover,photograph,get
+leave_vv0 the_at cover_nn2 on_ii the_at frame_nn2 ,1988,locatum_on,cover,frame,leave
+put_vv0_vvd the_at cover_nn1 on_ii the_at box_nn1 ,1989,locatum_on,cover,box,put
+use_vvg the_at cart_nn1 as_ii_csa a_at1 cover_nn1 ,1989,agent,cover,cart,use
+put_vvi celebrity_nn2 on_ii the_at cover_nn1 ,1989,location_on,cover,celebrity,put
+throw_vvd the_at cover_nn2 from_ii his_appge side_nn1 ,1990,locatum_out,cover,side,throw
+draw_vvn a_at1 hand_nn1 from_ii the_at cover_nn1 ,1990,location_out,cover,hand,draw
+fasten_vvg the_at snap_nn2 on_ii the_at cover_nn1 ,1992,location_on,cover,snap,fasten
+be_vbr cover_nn2 from_ii the_at new_np1 ,1992,locatum_out,cover,new,be
+use_vv0 democracy_nn1 as_ii_csa a_at1 cover_nn1 ,1992,agent,cover,democracy,use
+know_vv0 the_at place_nn1 with_iw the_at cover_nn1 ,1992,instrument,cover,place,know
+judge_vvi a_at1 book_nn1 by_ii its_appge cover_nn1 ,1993,instrument,cover,book,judge
+break_vvi cover_nn1_vv0 on_ii the_at lake_nn1 ,1993,locatum_on,cover,lake,break
+fit_vv0 the_at cover_nn1 on_ii the_at tub_nn1 ,1993,locatum_on,cover,tub,fit
+promote_vvi arminianism_nn1 as_ii_csa a_at1 cover_nn1 ,1996,agent,cover,arminianism,promote
+use_vvg journalism_nn1 as_ii_csa a_at1 cover_nn1 ,1996,agent,cover,journalism,use
+use_vvg islam_nn1 as_ii_csa a_at1 cover_nn1 ,1997,agent,cover,islam,use
+leave_vv0 the_at cover_nn1 on_ii the_at pan_nn1 ,1997,locatum_on,cover,pan,leave
+see_vvg the_at watchtower_nn1_np1 on_ii the_at cover_nn1 ,1997,location_on,cover,watchtower,see
+lift_vvd a_at1 cover_nn1 from_ii a_at1 bowl_nn1 ,1998,locatum_out,cover,bowl,lift
+love_vv0_nn1 hewitt_np1 on_ii their_appge cover_nn2 ,1998,location_on,cover,hewitt,love
+judge_vvi a_at1 lover_nn1 by_ii his_appge cover_nn1 ,1998,instrument,cover,lover,judge
+replace_vvd_vvn the_at cover_nn1 on_ii the_at pot_nn1 ,1998,locatum_on,cover,pot,replace
+see_vvi minnie_np1 on_ii your_appge cover_nn1 ,1999,location_on,cover,minnie,see
+congratulate_vvi her_appge father_nn1 on_ii his_appge cover_nn1 ,1999,location_on,cover,father,congratulate
+rest_vvz her_appge hand_nn1 on_ii the_at cover_nn1 ,2000,location_on,cover,hand,rest
+see_vvd her_appge_ppho1 face_nn1 on_ii the_at cover_nn1 ,2000,location_on,cover,face,see
+discount_vvi the_at woman_nn2 on_ii the_at cover_nn1 ,2001,location_on,cover,woman,discount
+jj_vvn religion_nn1 as_ii_csa a_at1 cover_nn1 ,2001,agent,cover,religion,jj
+know_vvd bullshit_nn1 by_ii its_appge cover_nn1 ,2002,instrument,cover,bullshit,know
+wrench_vvg the_at cover_nn1 from_ii the_at communicator_nn1 ,2002,locatum_out,cover,communicator,wrench
+see_vv0 ashley_np1 on_ii the_at cover_nn1 ,2003,location_on,cover,ashley,see
+put_vv0_vvd the_at topic_nn1 on_ii the_at cover_nn1 ,2004,location_on,cover,topic,put
+rip_vvd the_at cover_nn2 from_ii the_at bed_nn1 ,2004,locatum_out,cover,bed,rip
+separate_vv0 the_at cover_nn1 from_ii the_at body_nn1 ,2005,locatum_out,cover,body,separate
+see_vv0 the_at woman_nn1 on_ii the_at cover_nn1 ,2006,location_on,cover,woman,see
+judge_vvi a_at1 book_nn1 by_ii the_at cover_nn1 ,2006,instrument,cover,book,judge
+be_vbdz an_at1 illustration_nn1 by_ii the_at cover_nn1 ,2007,instrument,cover,illustration,be
+include_vvi her_appge name_nn1 on_ii the_at cover_nn1 ,2007,location_on,cover,name,include
+have_vhz his_appge picture_nn1 on_ii the_at cover_nn1 ,2007,location_on,cover,picture,have
+parody_vvd thomas_np1 on_ii its_appge cover_nn1 ,2007,location_on,cover,thomas,parody
+have_vhi their_appge child_nn1 on_ii our_appge cover_nn1 ,2007,location_on,cover,child,have
+tap_vvg a_at1 fingernail_nn1 on_ii the_at cover_nn1 ,2007,location_on,cover,fingernail,tap
+read_vv0_vvd the_at title_nn1 on_ii the_at cover_nn1 ,2008,location_on,cover,title,read
+judge_vvi a_at1 book_nn1 by_ii its_appge cover_nn1 ,2008,instrument,cover,book,judge
+judge_vv0 a_at1 book_nn1 by_ii its_appge cover_nn1 ,2009,instrument,cover,book,judge
+see_vvi a_at1 man_nn1 on_ii your_appge cover_nn1 ,2009,location_on,cover,man,see
+keep_vv0 pace_nn1 with_iw the_at decline_nn1 ,1851,instrument,decline,pace,keep
+vvd_vvn pace_nn1 with_iw the_at decline_nn1 ,1883,instrument,decline,pace,vvd
+make_vvi a_at1 profit_nn1 on_ii a_at1 decline_nn1 ,1900,location_on,decline,profit,make
+attack_vvg an_at1 empire_nn1 on_ii the_at decline_nn1 ,1912,location_on,decline,empire,attack
+challenge_vvi the_at imagination_nn1 like_ii the_at decline_nn1 ,1921,agent,decline,imagination,challenge
+show_vvd a_at1 decline_nn1 from_ii the_at town_nn1 ,1980,locatum_out,decline,town,show
+be_vbz crime_nn1 on_ii the_at decline_nn1 ,1983,location_on,decline,crime,be
+set_vv0_vvd the_at seal_nn1 on_ii its_appge decline_nn1 ,1984,location_on,decline,seal,set
+spur_vvg their_appge rise_nn1 be_vbdz a_at1 decline_nn1 ,1997,goal,decline,rise,spur
+buy_vvi stock_nn2 on_ii every_at1 decline_nn1 ,2000,location_on,decline,stock,buy
+worsen_vvd_vvn the_at decline_nn1 from_ii a_at1 year_nnt1 ,2001,locatum_out,decline,year,worsen
+color_vvg their_appge dog_nn2 with_iw the_at dye_nn1 ,1883,instrument,dye,dog,color
+have_vhz no_at effect_nn1 on_ii the_at dye_nn1 ,1934,location_on,dye,effect,have
+remove_vv0 the_at wool_nn1 from_ii the_at dye_nn1 ,1958,location_out,dye,wool,remove
+empty_vvi the_at dye_nn1 from_ii the_at bladder_nn1 ,1980,locatum_out,dye,bladder,empty
+put_vv0_vvd my_appge dye_nn1 on_ii his_appge shoe_nn1 ,1993,locatum_on,dye,shoe,put
+use_vvg a_at1 paddle_nn1 with_iw the_at ease_nn1 ,1845,instrument,ease,paddle,use
+maintain_vvg his_appge balance_nn1 with_iw the_at ease_nn1 ,1858,instrument,ease,balance,maintain
+be_vbdz the_at change_nn1 from_ii the_at ease_nn1 ,1861,location_out,ease,change,be
+play_vvi its_appge part_nn1 with_iw the_at ease_nn1 ,1864,instrument,ease,part,play
+direct_vvg the_at animal_nn1 with_iw the_at ease_nn1 ,1873,instrument,ease,animal,direct
+rest_vvi the_at ease_nn1 on_ii the_at report_nn1 ,1875,locatum_on,ease,report,rest
+take_vvg his_appge ease_nn1 on_ii the_at sofa_nn1 ,1878,locatum_on,ease,sofa,take
+draw_vv0 company_nn1 from_ii their_appge ease_nn1 ,1881,location_out,ease,company,draw
+draw_vv0 company_nn1 from_ii their_appge ease_nn1 ,1882,location_out,ease,company,draw
+perform_vvn miracle_nn2 with_iw the_at ease_nn1 ,1896,instrument,ease,miracle,perform
+tap_vvi the_at floor_nn1 with_iw the_at ease_nn1 ,1897,instrument,ease,floor,tap
+wear_vvn his_appge laurel_nn2 with_iw an_at1 ease_nn1 ,1899,instrument,ease,laurel,wear
+find_vvg no_at ease_nn1 from_ii the_at pang_nn2 ,1899,locatum_out,ease,pang,find
+cause_vvz its_appge spread_nn1 be_vbz the_at ease_nn1 ,1909,goal,ease,spread,cause
+touch_vvd his_appge hat_nn1 with_iw the_at ease_nn1 ,1916,instrument,ease,hat,touch
+put_vv0_vvd the_at ease_nn1 on_ii the_at basis_nn1 ,1921,locatum_on,ease,basis,put
+collect_vvg the_at specimen_nn2 be_vbdz the_at ease_nn1 ,1928,goal,ease,specimen,collect
+take_vvg your_appge ease_nn1 on_ii the_at flat_nn1 ,1932,locatum_on,ease,flat,take
+take_vvg his_appge ease_nn1 on_ii a_at1 cottage_nn1 ,1939,locatum_on,ease,cottage,take
+lose_vvn money_nn1 with_iw an_at1 ease_nn1 ,1939,instrument,ease,money,lose
+take_vvg his_appge ease_nn1 on_ii a_at1 street_nn1 ,1945,locatum_on,ease,street,take
+handle_vvg the_at car_nn1 with_iw the_at ease_nn1 ,1952,instrument,ease,car,handle
+manipulate_vvg his_appge control_nn2 with_iw the_at ease_nn1 ,1957,instrument,ease,control,manipulate
+destroy_vvd_vvn kennedy_np1 with_iw the_at ease_nn1 ,1963,instrument,ease,kennedy,destroy
+handle_vvi his_appge material_nn2 with_iw their_appge ease_nn1 ,1972,instrument,ease,material,handle
+take_vvg their_appge ease_nn1 on_ii the_at pier_nn1 ,1973,locatum_on,ease,pier,take
+remove_vvg her_appge clothing_nn1 with_iw the_at ease_nn1 ,1986,instrument,ease,clothing,remove
+sit_vvg his_appge saddle_nn1 with_iw the_at ease_nn1 ,1999,instrument,ease,saddle,sit
+skim_vvd the_at wave_nn2 with_iw the_at ease_nn1 ,2002,instrument,ease,wave,skim
+control_vvd his_appge irritation_nn1 with_iw the_at ease_nn1 ,2003,instrument,ease,irritation,control
+handle_vvd the_at weapon_nn1 with_iw an_at1 ease_nn1 ,2009,instrument,ease,weapon,handle
+be_vbi the_at case_nn1 with_iw their_appge endeavor_nn2 ,1851,instrument,endeavor,case,be
+manifest_vv0 no_at sympathy_nn1 with_iw the_at endeavor_nn1 ,1862,instrument,endeavor,sympathy,manifest
+prove_vvd_vvn his_appge truth_nn1 by_ii his_appge endeavor_nn1 ,1864,instrument,endeavor,truth,prove
+prevent_vvi war_nn1 be_vbdz their_appge endeavor_nn1 ,1917,goal,endeavor,war,prevent
+welcome_vvg the_at exhibition_nn1 as_ii_csa an_at1 endeavor_nn1 ,1925,agent,endeavor,exhibition,welcome
+support_vvi nansei_np1 be_vbz every_at1 endeavor_nn1 ,2002,goal,endeavor,nansei,support
+wield_vvg power_nn1 through_ii the_at esteem_nn1 ,1818,instrument,esteem,power,wield
+enjoy_vvn the_at esteem_nn1 on_ii the_at continent_nn1 ,1990,locatum_on,esteem,continent,enjoy
+write_vvd observation_nn2 on_ii the_at finance_nn2 ,1832,location_on,finance,observation,write
+read_vvn your_appge speech_nn1 on_ii the_at finance_nn2 ,1869,location_on,finance,speech,read
+receive_vvd a_at1 reply_nn1 from_ii the_at finance_nn1 ,1896,location_out,finance,reply,receive
+help_vvn the_at appropriation_nn1 through_ii the_at finance_nn1 ,1896,instrument,finance,appropriation,help
+tell_vvd_vvn the_at officer_nn2 on_ii the_at finance_nn1 ,1908,location_on,finance,officer,tell
+have_vhg its_appge effect_nn1 on_ii the_at finance_nn2 ,1913,location_on,finance,effect,have
+base_vvi its_appge finance_nn1 on_ii a_at1 rate_nn1 ,1917,locatum_on,finance,rate,base
+lay_vvd hold_nn1_vv0 on_ii the_at finance_nn2 ,1921,location_on,finance,hold,lay
+surround_vvd_vvn the_at world_nn1 with_iw its_appge finance_nn1 ,1932,instrument,finance,world,surround
+rank_vvg_nn1 democrat_nn1 on_ii the_at finance_nn1 ,1932,location_on,finance,democrat,rank
+push_vvi the_at bill_nn1 through_ii the_at finance_nn1 ,1932,instrument,finance,bill,push
+rank_vvg_nn1 democrat_nn1 on_ii the_at finance_nn1 ,1933,location_on,finance,democrat,rank
+put_vvd_vv0 its_appge finance_nn2 on_ii a_at1 cash_nn1 ,1942,locatum_on,finance,cash,put
+file_vvi information_nn1 on_ii their_appge finance_nn2 ,1944,location_on,finance,information,file
+supply_vvn data_nn on_ii the_at finance_nn2 ,1952,location_on,finance,data,supply
+rank_vvg_nn1 democrat_nn1 on_ii the_at finance_nn1 ,1953,location_on,finance,democrat,rank
+make_vvi no_at suggestion_nn2 on_ii the_at finance_nn1 ,1956,location_on,finance,suggestion,make
+make_vvi news_nn1 with_iw his_appge finance_nn2 ,1959,instrument,finance,news,make
+demand_vvd action_nn1 from_ii his_appge finance_nn1 ,1959,location_out,finance,action,demand
+defeat_vvg their_appge government_nn1 through_ii the_at finance_nn1 ,1964,instrument,finance,government,defeat
+speed_vvi the_at plan_nn1 through_ii the_at finance_nn1 ,1974,instrument,finance,plan,speed
+get_vvi a_at1 job_nn1 with_iw a_at1 finance_nn1 ,1977,instrument,finance,job,get
+wreak_vv0 havoc_nn1 on_ii your_appge finance_nn2 ,1999,location_on,finance,havoc,wreak
+be_vbi a_at1 problem_nn1 with_iw my_appge finance_nn2 ,2004,instrument,finance,problem,be
+have_vh0 an_at1 appointment_nn1 with_iw the_at finance_nn1 ,2006,instrument,finance,appointment,have
+keep_vvi an_at1 eye_nn1 on_ii their_appge finance_nn2 ,2006,location_on,finance,eye,keep
+be_vbn its_appge gain_nn1 from_ii a_at1 father_nn1 ,1836,locatum_out,gain,father,be
+sully_vv0 his_appge hand_nn2 with_iw the_at gain_nn2 ,1840,instrument,gain,hand,sully
+derive_vvi gain_nn1_vv0 from_ii the_at industry_nn1 ,1842,locatum_out,gain,industry,derive
+derive_vvi gain_nn1_vv0 from_ii the_at connection_nn1 ,1863,locatum_out,gain,connection,derive
+make_vv0 war_nn1 on_ii our_appge gain_nn2 ,1865,location_on,gain,war,make
+depreciate_vvi the_at currency_nn1 be_vbz the_at gain_nn1 ,1868,goal,gain,currency,depreciate
+neutralize_vv0 the_at gain_nn1 on_ii the_at sale_nn1 ,1868,locatum_on,gain,sale,neutralize
+show_vvd no_at gain_nn1 on_ii the_at day_nnt1 ,1929,locatum_on,gain,day,show
+represent_vvd_vvn a_at1 gain_nn1 on_ii the_at year_nnt1 ,1941,locatum_on,gain,year,represent
+increase_vvi the_at gain_nn2 from_ii the_at use_nn1 ,1942,locatum_out,gain,use,increase
+be_vbi gain_nn1 from_ii an_at1 attempt_nn1 ,1945,locatum_out,gain,attempt,be
+derive_vvd gain_nn1 from_ii the_at development_nn1 ,1956,locatum_out,gain,development,derive
+complete_vvi the_at year_nnt1 with_iw a_at1 gain_nn1 ,1957,instrument,gain,year,complete
+market_vvi trader_nn2 be_vbdz the_at gain_nn1 ,1959,goal,gain,trader,market
+incur_vvz a_at1 tax_nn1 on_ii a_at1 gain_nn1 ,1959,location_on,gain,tax,incur
+ii_vvg gain_nn2 on_ii the_at sale_nn1 ,1985,locatum_on,gain,sale,ii
+pay_vvi tax_nn2 on_ii your_appge gain_nn2 ,1991,location_on,gain,tax,pay
+pay_vv0 no_at tax_nn2 on_ii your_appge gain_nn2 ,2007,location_on,gain,tax,pay
+pluck_vvd her_appge gown_nn1 from_ii his_appge grasp_nn1 ,1822,location_out,grasp,gown,pluck
+extricate_vvg the_at limb_nn1 from_ii his_appge grasp_nn1 ,1826,location_out,grasp,limb,extricate
+withdraw_vvd her_appge hand_nn1 from_ii the_at grasp_nn1 ,1831,location_out,grasp,hand,withdraw
+wrest_vvn the_at sceptre_nn1 from_ii the_at grasp_nn1 ,1832,location_out,grasp,sceptre,wrest
+seize_vvg the_at child_nn1 with_iw a_at1 grasp_nn1 ,1833,instrument,grasp,child,seize
+snatch_vvi the_at treasure_nn1 from_ii his_appge grasp_nn1 ,1833,location_out,grasp,treasure,snatch
+wrest_vvi the_at weapon_nn1 from_ii his_appge grasp_nn1 ,1834,location_out,grasp,weapon,wrest
+loose_vvg the_at talisman_nn1 from_ii his_appge grasp_nn1 ,1834,location_out,grasp,talisman,loose
+leave_vvg his_appge grasp_nn1 on_ii the_at throat_nn1 ,1835,locatum_on,grasp,throat,leave
+remove_vvg the_at rapier_nn1 from_ii his_appge grasp_nn1 ,1835,location_out,grasp,rapier,remove
+withdraw_vvd her_appge arm_nn1 from_ii his_appge grasp_nn1 ,1837,location_out,grasp,arm,withdraw
+wrench_vvd his_appge sword_nn1 from_ii his_appge grasp_nn1 ,1838,location_out,grasp,sword,wrench
+snatch_vvi the_at citadel_nn1 from_ii their_appge grasp_nn1 ,1838,location_out,grasp,citadel,snatch
+wrest_vvi the_at cutlass_nn1 from_ii his_appge grasp_nn1 ,1839,location_out,grasp,cutlass,wrest
+strike_vvd_vvn the_at weapon_nn1 from_ii her_appge grasp_nn1 ,1839,location_out,grasp,weapon,strike
+go_vvi his_appge grasp_nn1 on_ii the_at point_nn1 ,1839,locatum_on,grasp,point,go
+relax_vvd her_appge hand_nn1 from_ii its_appge grasp_nn1 ,1839,location_out,grasp,hand,relax
+hurl_vvz the_at sceptre_nn1 from_ii her_appge grasp_nn1 ,1839,location_out,grasp,sceptre,hurl
+lift_vvn_vvd arm_nn1 with_iw a_at1 grasp_nn1 ,1840,instrument,grasp,arm,lift
+rescue_vvg his_appge sister_nn1 from_ii the_at grasp_nn1 ,1840,location_out,grasp,sister,rescue
+hold_vvg his_appge grasp_nn1 on_ii the_at vine_nn1 ,1840,locatum_on,grasp,vine,hold
+wrench_vvg his_appge gun_nn1 from_ii the_at grasp_nn1 ,1840,location_out,grasp,gun,wrench
+take_vvd the_at weapon_nn1 from_ii its_appge grasp_nn1 ,1842,location_out,grasp,weapon,take
+hold_vvd his_appge arm_nn1 with_iw the_at grasp_nn1 ,1842,instrument,grasp,arm,hold
+wrest_vvd the_at weapon_nn1 from_ii his_appge grasp_nn1 ,1843,location_out,grasp,weapon,wrest
+dismiss_vvd_vvn her_appge hand_nn1 from_ii his_appge grasp_nn1 ,1843,location_out,grasp,hand,dismiss
+tear_vvn the_at criminal_nn1_jj from_ii their_appge grasp_nn1 ,1843,location_out,grasp,criminal,tear
+unwind_vvd the_at dagger_nn1 from_ii the_at grasp_nn1 ,1844,location_out,grasp,dagger,unwind
+force_vvg a_at1 musket_nn1 from_ii the_at grasp_nn1 ,1844,location_out,grasp,musket,force
+snatch_vvg the_at stick_nn1 from_ii the_at grasp_nn1 ,1845,location_out,grasp,stick,snatch
+hold_vv0 principle_nn1 with_iw a_at1 grasp_nn1 ,1845,instrument,grasp,principle,hold
+wrest_vvi his_appge sceptre_nn1 from_ii his_appge grasp_nn1 ,1847,location_out,grasp,sceptre,wrest
+wrench_vvd the_at weapon_nn1 from_ii his_appge grasp_nn1 ,1847,location_out,grasp,weapon,wrench
+clutch_vvd his_appge throat_nn1 with_iw a_at1 grasp_nn1 ,1847,instrument,grasp,throat,clutch
+dash_vvd her_appge arm_nn2 from_ii his_appge grasp_nn1 ,1848,location_out,grasp,arm,dash
+dash_vvd_vvn the_at phial_nn1 from_ii my_appge grasp_nn1 ,1848,location_out,grasp,phial,dash
+withdraw_vvi her_appge hand_nn1 from_ii his_appge grasp_nn1 ,1848,location_out,grasp,hand,withdraw
+draw_vvd his_appge hand_nn1 from_ii her_appge grasp_nn1 ,1848,location_out,grasp,hand,draw
+free_vvi his_appge knee_nn2 from_ii the_at grasp_nn1 ,1849,location_out,grasp,knee,free
+tear_vvd his_appge wrist_nn1 from_ii the_at grasp_nn1 ,1849,location_out,grasp,wrist,tear
+rescue_vvi liberty_nn1 from_ii the_at grasp_nn1 ,1852,location_out,grasp,liberty,rescue
+wrench_vvg the_at weapon_nn1 from_ii her_appge grasp_nn1 ,1852,location_out,grasp,weapon,wrench
+rescue_vvd_vvn the_at bill_nn1 from_ii his_appge grasp_nn1 ,1852,location_out,grasp,bill,rescue
+clench_vvd their_appge pistol_nn2 with_iw the_at grasp_nn1 ,1852,instrument,grasp,pistol,clench
+shake_vvg her_appge grasp_nn1 from_ii my_appge knee_nn2 ,1853,locatum_out,grasp,knee,shake
+tear_vvd her_appge hand_nn1 from_ii my_appge grasp_nn1 ,1853,location_out,grasp,hand,tear
+have_vhz slipt_nn1 from_ii the_at grasp_nn1 ,1853,location_out,grasp,slipt,have
+snatch_vvd_vvn his_appge prize_nn1 from_ii his_appge grasp_nn1 ,1853,location_out,grasp,prize,snatch
+rescue_vvd lucy_np1 from_ii his_appge grasp_nn1 ,1855,location_out,grasp,lucy,rescue
+withdraw_vvd my_appge arm_nn1 from_ii her_appge grasp_nn1 ,1855,location_out,grasp,arm,withdraw
+wring_vvd her_appge hand_nn1 from_ii his_appge grasp_nn1 ,1855,location_out,grasp,hand,wring
+withdraw_vvd her_appge hand_nn1 from_ii his_appge grasp_nn1 ,1856,location_out,grasp,hand,withdraw
+relieve_vvd our_appge angler_nn1 from_ii his_appge grasp_nn1 ,1856,location_out,grasp,angler,relieve
+hold_vvd his_appge arm_nn1 with_iw the_at grasp_nn1 ,1856,instrument,grasp,arm,hold
+wrench_vvd her_appge wrist_nn1 from_ii his_appge grasp_nn1 ,1857,location_out,grasp,wrist,wrench
+snatch_vv0 the_at prize_nn1 from_ii my_appge grasp_nn1 ,1859,location_out,grasp,prize,snatch
+extricate_vvi his_appge arm_nn1 from_ii the_at grasp_nn1 ,1859,location_out,grasp,arm,extricate
+rescue_vvg his_appge friend_nn1 from_ii the_at grasp_nn1 ,1860,location_out,grasp,friend,rescue
+withdraw_vvg her_appge hand_nn1 from_ii his_appge grasp_nn1 ,1861,location_out,grasp,hand,withdraw
+relinquish_vvg his_appge grasp_nn1 on_ii the_at collar_nn1 ,1863,locatum_on,grasp,collar,relinquish
+loosen_vvd her_appge_ppho1 grasp_nn1 on_ii her_appge husband_nn1 ,1864,locatum_on,grasp,husband,loosen
+wrench_vvd the_at weapon_nn1 from_ii his_appge grasp_nn1 ,1864,location_out,grasp,weapon,wrench
+withdraw_vvd her_appge hand_nn1 from_ii his_appge grasp_nn1 ,1865,location_out,grasp,hand,withdraw
+hev_vh0 slipt_nn1 from_ii our_appge grasp_nn1 ,1867,location_out,grasp,slipt,hev
+wrench_vvi the_at weapon_nn1 from_ii his_appge grasp_nn1 ,1867,location_out,grasp,weapon,wrench
+wrench_vvd the_at cowhide_nn1 from_ii his_appge grasp_nn1 ,1868,location_out,grasp,cowhide,wrench
+wrench_vvg the_at cowhide_nn1 from_ii my_appge grasp_nn1 ,1868,location_out,grasp,cowhide,wrench
+keep_vvd_vvn his_appge grasp_nn1 on_ii the_at rein_nn1 ,1868,locatum_on,grasp,rein,keep
+seize_vvg the_at flower_nn2 with_iw a_at1 grasp_nn1 ,1869,instrument,grasp,flower,seize
+free_vvd her_appge finger_nn2 from_ii his_appge grasp_nn1 ,1869,location_out,grasp,finger,free
+loosen_vvd his_appge grasp_nn1 on_ii the_at man_nn1 ,1871,locatum_on,grasp,man,loosen
+drag_vvg her_appge shawl_nn1 from_ii the_at grasp_nn1 ,1871,location_out,grasp,shawl,drag
+snatch_vvd_vvn the_at spade_nn1 from_ii his_appge grasp_nn1 ,1871,location_out,grasp,spade,snatch
+extricate_vvd his_appge arm_nn1 from_ii her_appge grasp_nn1 ,1871,location_out,grasp,arm,extricate
+release_vvd the_at grasp_nn1 on_ii his_appge master_nn1 ,1872,locatum_on,grasp,master,release
+tear_vvi your_appge prey_nn1 from_ii your_appge grasp_nn1 ,1872,location_out,grasp,prey,tear
+wrest_vvd a_at1 pistol_nn1 from_ii his_appge grasp_nn1 ,1873,location_out,grasp,pistol,wrest
+tighten_vvg the_at grasp_nn1 on_ii his_appge stick_nn1 ,1873,locatum_on,grasp,stick,tighten
+wrest_vvd the_at pistol_nn1 from_ii his_appge grasp_nn1 ,1874,location_out,grasp,pistol,wrest
+extricate_vvi his_appge foot_nn1 from_ii the_at grasp_nn1 ,1875,location_out,grasp,foot,extricate
+weaken_vvz its_appge grasp_nn1 on_ii its_appge adherent_nn2 ,1876,locatum_on,grasp,adherent,weaken
+rescue_vvi the_at executive_nn1 from_ii their_appge grasp_nn1 ,1876,location_out,grasp,executive,rescue
+tear_vvd the_at instrument_nn1 from_ii his_appge grasp_nn1 ,1877,location_out,grasp,instrument,tear
+relax_vvn his_appge grasp_nn1 on_ii the_at plough_nn1 ,1879,locatum_on,grasp,plough,relax
+strengthen_vvg his_appge grasp_nn1 on_ii the_at chair_nn1 ,1879,locatum_on,grasp,chair,strengthen
+relax_vvd his_appge grasp_nn1 on_ii the_at chair_nn1 ,1879,locatum_on,grasp,chair,relax
+lose_vvz his_appge grasp_nn1 on_ii the_at reality_nn1 ,1880,locatum_on,grasp,reality,lose
+clutch_vvg his_appge treasure_nn2 from_ii his_appge grasp_nn1 ,1881,location_out,grasp,treasure,clutch
+wrest_vvi the_at peninsula_nn1 from_ii the_at grasp_nn1 ,1882,location_out,grasp,peninsula,wrest
+snatch_vvg her_appge hand_nn1 from_ii his_appge grasp_nn1 ,1883,location_out,grasp,hand,snatch
+tighten_vvd his_appge grasp_nn1 on_ii his_appge shoulder_nn1 ,1886,locatum_on,grasp,shoulder,tighten
+tighten_vvd_vvn its_appge grasp_nn1 on_ii her_appge shoulder_nn1 ,1886,locatum_on,grasp,shoulder,tighten
+tighten_vvd_vvn their_appge grasp_nn1 on_ii his_appge shoulder_nn1 ,1886,locatum_on,grasp,shoulder,tighten
+loose_vvd her_appge arm_nn1 from_ii my_appge grasp_nn1 ,1886,location_out,grasp,arm,loose
+owe_vvd his_appge exemption_nn1 from_ii the_at grasp_nn1 ,1887,location_out,grasp,exemption,owe
+wrest_vvd a_at1 knife_nn1 from_ii his_appge grasp_nn1 ,1887,location_out,grasp,knife,wrest
+twist_vvn his_appge guii_nn2_ from_ii his_appge grasp_nn1 ,1888,location_out,grasp,guii,twist
+slip_vvd her_appge hand_nn1 from_ii the_at grasp_nn1 ,1889,location_out,grasp,hand,slip
+free_vvn my_appge arm_nn1 from_ii his_appge grasp_nn1 ,1889,location_out,grasp,arm,free
+gather_vvd strength_nn1 from_ii the_at grasp_nn1 ,1889,location_out,grasp,strength,gather
+wring_vvd the_at knife_nn1 from_ii the_at grasp_nn1 ,1889,location_out,grasp,knife,wring
+tighten_vvd her_appge_ppho1 grasp_nn1 on_ii the_at handle_nn1 ,1889,locatum_on,grasp,handle,tighten
+withdraw_vvi his_appge hand_nn1 from_ii the_at grasp_nn1 ,1889,location_out,grasp,hand,withdraw
+withdraw_vvi his_appge hand_nn1 from_ii the_at grasp_nn1 ,1889,location_out,grasp,hand,withdraw
+relax_vvi his_appge grasp_nn1 on_ii the_at rein_nn2 ,1890,locatum_on,grasp,rein,relax
+free_vvi her_appge hand_nn1 from_ii his_appge grasp_nn1 ,1892,location_out,grasp,hand,free
+writhe_vvi her_appge hand_nn1 from_ii his_appge grasp_nn1 ,1893,location_out,grasp,hand,writhe
+snatch_vvz the_at basket_nn1 from_ii his_appge grasp_nn1 ,1895,location_out,grasp,basket,snatch
+jerk_vvi the_at bridle_nn1 from_ii his_appge grasp_nn1 ,1896,location_out,grasp,bridle,jerk
+jerk_vvd the_at bridle_nn1 from_ii the_at grasp_nn1 ,1896,location_out,grasp,bridle,jerk
+tighten_vvd his_appge grasp_nn1 on_ii the_at collar_nn1 ,1896,locatum_on,grasp,collar,tighten
+seize_vvz the_at pistol_nn1 from_ii her_appge grasp_nn1 ,1896,location_out,grasp,pistol,seize
+tighten_vvd_vvn his_appge grasp_nn1 on_ii the_at rein_nn2 ,1897,locatum_on,grasp,rein,tighten
+shake_vvg his_appge grasp_nn1 from_ii my_appge arm_nn1 ,1899,locatum_out,grasp,arm,shake
+drag_vvi the_at pistol_nn1 from_ii his_appge grasp_nn1 ,1899,location_out,grasp,pistol,drag
+knock_vvd his_appge crutch_nn1 from_ii his_appge grasp_nn1 ,1900,location_out,grasp,crutch,knock
+tear_vvg her_appge hair_nn1 from_ii his_appge grasp_nn1 ,1900,location_out,grasp,hair,tear
+free_vvd my_appge hand_nn2 from_ii his_appge grasp_nn1 ,1900,location_out,grasp,hand,free
+tear_vvd inza_np1 from_ii his_appge grasp_nn1 ,1902,location_out,grasp,inza,tear
+clutch_vvi his_appge shoulder_nn1 with_iw a_at1 grasp_nn1 ,1902,instrument,grasp,shoulder,clutch
+tighten_vvg his_appge grasp_nn1 on_ii the_at spoke_nn2 ,1903,locatum_on,grasp,spoke,tighten
+strengthen_vvn his_appge grasp_nn1 on_ii the_at assembly_nn1 ,1903,locatum_on,grasp,assembly,strengthen
+loosen_vvd my_appge sword_nn1 from_ii its_appge grasp_nn1 ,1904,location_out,grasp,sword,loosen
+pull_vvd her_appge hand_nn1 from_ii his_appge grasp_nn1 ,1905,location_out,grasp,hand,pull
+retain_vvd her_appge_ppho1 grasp_nn1 on_ii the_at mainsheet_nn1 ,1905,locatum_on,grasp,mainsheet,retain
+free_vvi the_at people_nn from_ii the_at grasp_nn1 ,1906,location_out,grasp,people,free
+drop_vvd the_at locket_nn1 from_ii his_appge grasp_nn1 ,1906,location_out,grasp,locket,drop
+wrest_vvg america_np1 from_ii her_appge grasp_nn1 ,1907,location_out,grasp,america,wrest
+wrench_vvi his_appge hand_nn1 from_ii my_appge grasp_nn1 ,1909,location_out,grasp,hand,wrench
+take_vvd her_appge hand_nn1 from_ii his_appge grasp_nn1 ,1909,location_out,grasp,hand,take
+wrench_vvd the_at weapon_nn1 from_ii his_appge grasp_nn1 ,1911,location_out,grasp,weapon,wrench
+feel_vvd the_at grasp_nn1 on_ii his_appge arm_nn1 ,1911,locatum_on,grasp,arm,feel
+pry_vvd its_appge grasp_nn1 from_ii the_at boat_nn1 ,1912,locatum_out,grasp,boat,pry
+tear_vvg the_at paper_nn1 from_ii his_appge grasp_nn1 ,1912,location_out,grasp,paper,tear
+wrench_vvd the_at sword_nn1 from_ii my_appge grasp_nn1 ,1912,location_out,grasp,sword,wrench
+find_vvd_vvn his_appge grasp_nn1 on_ii the_at principle_nn2 ,1915,locatum_on,grasp,principle,find
+wrench_vvd the_at revolver_nn1 from_ii his_appge grasp_nn1 ,1915,location_out,grasp,revolver,wrench
+tighten_vvd his_appge grasp_nn1 on_ii a_at1 handful_nn1 ,1917,locatum_on,grasp,handful,tighten
+loose_vvn its_appge grasp_nn1 on_ii his_appge imagination_nn1 ,1920,locatum_on,grasp,imagination,loose
+relinquish_vvn her_appge_ppho1 grasp_nn1 on_ii his_appge arm_nn1 ,1920,locatum_on,grasp,arm,relinquish
+pull_vvd_vvn the_at curtain_nn1 from_ii their_appge grasp_nn1 ,1921,location_out,grasp,curtain,pull
+permit_vvd_vvn his_appge grasp_nn1 on_ii his_appge rifle_nn1 ,1921,locatum_on,grasp,rifle,permit
+tear_vvd the_at weapon_nn1 from_ii his_appge grasp_nn1 ,1922,location_out,grasp,weapon,tear
+pull_vvd_vvn the_at play_nn1 from_ii the_at grasp_nn1 ,1925,location_out,grasp,play,pull
+wrest_vvz the_at whip_nn1 from_ii her_appge grasp_nn1 ,1929,location_out,grasp,whip,wrest
+loosen_vvn its_appge grasp_nn1 on_ii her_appge wrist_nn1 ,1941,locatum_on,grasp,wrist,loosen
+tear_vvi her_appge arm_nn1 from_ii his_appge grasp_nn1 ,1944,location_out,grasp,arm,tear
+get_vvg the_at horse_nn1 from_ii the_at grasp_nn1 ,1946,location_out,grasp,horse,get
+cling_vvg her_appge grasp_nn1 on_ii my_appge arm_nn1 ,1949,locatum_on,grasp,arm,cling
+wrench_vvi the_at wheel_nn1 from_ii his_appge grasp_nn1 ,1950,location_out,grasp,wheel,wrench
+maintain_vvi their_appge grasp_nn1 on_ii the_at prisoner_nn2 ,1953,locatum_on,grasp,prisoner,maintain
+get_vvi a_at1 grasp_nn1 on_ii his_appge thought_nn2 ,1954,locatum_on,grasp,thought,get
+wrench_vvz_nn2 gun_nn1 from_ii his_appge grasp_nn1 ,1955,location_out,grasp,gun,wrench
+remove_vvg his_appge sleeve_nn1 from_ii her_appge grasp_nn1 ,1957,location_out,grasp,sleeve,remove
+withdraw_vvi his_appge hand_nn2 from_ii her_appge grasp_nn1 ,1957,location_out,grasp,hand,withdraw
+lose_vvz his_appge grasp_nn1 on_ii the_at driftwood_nn1 ,1959,locatum_on,grasp,driftwood,lose
+retain_vvi a_at1 grasp_nn1 on_ii the_at land_nn1 ,1963,locatum_on,grasp,land,retain
+wrest_vvz the_at book_nn1 from_ii my_appge grasp_nn1 ,1967,location_out,grasp,book,wrest
+strike_vvd the_at scimitar_nn1 from_ii his_appge grasp_nn1 ,1967,location_out,grasp,scimitar,strike
+consolidate_vvg their_appge grasp_nn1 on_ii the_at country_nn1 ,1968,locatum_on,grasp,country,consolidate
+have_vhi a_at1 grasp_nn1 on_ii the_at pole_nn1 ,1972,locatum_on,grasp,pole,have
+snatch_vvd her_appge hair_nn1 from_ii his_appge grasp_nn1 ,1972,location_out,grasp,hair,snatch
+shift_vvg his_appge grasp_nn1 from_ii her_appge throat_nn1 ,1977,locatum_out,grasp,throat,shift
+impress_vvz teacher_nn2 with_iw his_appge grasp_nn1 ,1977,instrument,grasp,teacher,impress
+strengthen_vvd_vvn a_at1 grasp_nn1 on_ii the_at intent_nn1 ,1978,locatum_on,grasp,intent,strengthen
+twitch_vvd her_appge hand_nn1 from_ii my_appge grasp_nn1 ,1985,location_out,grasp,hand,twitch
+yank_vvz her_appge elbow_nn1 from_ii his_appge grasp_nn1 ,1987,location_out,grasp,elbow,yank
+twist_vvd the_at pitchfork_nn1 from_ii his_appge grasp_nn1 ,1988,location_out,grasp,pitchfork,twist
+get_vvz a_at1 grasp_nn1 on_ii the_at land_nn1 ,1990,locatum_on,grasp,land,get
+knock_vvg the_at ball_nn1 from_ii his_appge grasp_nn1 ,1993,location_out,grasp,ball,knock
+shift_vvd his_appge grasp_nn1 from_ii my_appge person_nn1 ,1993,locatum_out,grasp,person,shift
+get_vvi a_at1 grasp_nn1 on_ii the_at situation_nn1 ,1995,locatum_on,grasp,situation,get
+release_vvz her_appge grasp_nn1 on_ii his_appge throat_nn1 ,1997,locatum_on,grasp,throat,release
+loosen_vvz the_at grasp_nn1 on_ii her_appge mouth_nn1 ,1997,locatum_on,grasp,mouth,loosen
+jerk_vvd the_at cylinder_nn1 from_ii her_appge grasp_nn1 ,2002,location_out,grasp,cylinder,jerk
+pull_vvg my_appge hand_nn1 from_ii his_appge grasp_nn1 ,2003,location_out,grasp,hand,pull
+shift_vvd_vvn his_appge grasp_nn1 on_ii the_at professor_nn1 ,2005,locatum_on,grasp,professor,shift
+knock_vvg the_at stopgun_nn1 from_ii his_appge grasp_nn1 ,2005,location_out,grasp,stopgun,knock
+weaken_vvn his_appge grasp_nn1 on_ii the_at place_nn1 ,2006,locatum_on,grasp,place,weaken
+pull_vvd his_appge hand_nn1 from_ii her_appge grasp_nn1 ,2007,location_out,grasp,hand,pull
+release_vvd his_appge grasp_nn1 from_ii the_at metal_nn1 ,2007,locatum_out,grasp,metal,release
+tighten_vvd her_appge_ppho1 grasp_nn1 on_ii the_at wheel_nn1 ,2009,locatum_on,grasp,wheel,tighten
+make_vvd his_appge saying_nn2 like_ii a_at1 house_nn1 ,1815,agent,house,saying,make
+take_vvi your_appge house_nn1 on_ii my_appge way_nn1 ,1823,locatum_on,house,way,take
+enter_vv0 mary_np1 from_ii the_at house_nn1 ,1826,location_out,house,mary,enter
+apprehend_vvi expulsion_nn1 from_ii her_appge house_nn1 ,1827,location_out,house,expulsion,apprehend
+could_vm my_appge passage_nn1 from_ii the_at house_nn1 ,1827,location_out,house,passage,could
+get_vvn_vvd a_at1 bill_nn1 through_ii the_at house_nn1 ,1827,instrument,house,bill,get
+include_vvn the_at house_nn2 on_ii the_at right_nn1_jj ,1830,locatum_on,house,right,include
+rize_vv0 spread_nn1_vvn_vv0 through_ii the_at house_nn1 ,1830,instrument,house,spread,rize
+build_vvz his_appge house_nn1 on_ii the_at sea_nn1 ,1831,locatum_on,house,sea,build
+withdraw_vvg his_appge residence_nn1 from_ii her_appge house_nn1 ,1831,location_out,house,residence,withdraw
+make_vvd no_at impression_nn1 on_ii the_at house_nn1 ,1831,location_on,house,impression,make
+see_vvi a_at1 tiler_nn1 on_ii a_at1 house_nn1 ,1832,location_on,house,tiler,see
+approach_vvi the_at house_nn1 from_ii the_at quarter_nn1 ,1832,locatum_out,house,quarter,approach
+approach_vvg the_at house_nn1 from_ii a_at1 distance_nn1 ,1832,locatum_out,house,distance,approach
+organize_vvi the_at house_nn1 on_ii a_at1 system_nn1 ,1832,locatum_on,house,system,organize
+spread_vv0_nn1 confusion_nn1 through_ii the_at house_nn1 ,1832,instrument,house,confusion,spread
+obtain_vvn leave_nn1_vv0 from_ii the_at house_nn1 ,1833,location_out,house,leave,obtain
+receive_vvi notice_nn1 from_ii the_at house_nn1 ,1833,location_out,house,notice,receive
+form_vvg a_at1 convention_nn1 with_iw the_at house_nn1 ,1833,instrument,house,convention,form
+change_vvd work_nn with_iw the_at house_nn1 ,1833,instrument,house,work,change
+be_vbn a_at1 house_nn1 on_ii the_at shore_nn1 ,1833,locatum_on,house,shore,be
+march_vvd_vvn the_at prisoner_nn1 through_ii the_at house_nn1 ,1834,instrument,house,prisoner,march
+change_vvd work_nn with_iw the_at house_nn1 ,1834,instrument,house,work,change
+pursue_vvd_vvn their_appge way_nn1 from_ii the_at house_nn1 ,1835,location_out,house,way,pursue
+divide_vvg the_at road_nn1 from_ii the_at house_nn2 ,1835,location_out,house,road,divide
+have_vhd house_nn2 on_ii the_at island_nn1 ,1835,locatum_on,house,island,have
+exclude_vvg_ii randolph_np1 from_ii his_appge house_nn1 ,1835,location_out,house,randolph,exclude
+rescue_vvi the_at house_nn1 from_ii its_appge fury_nn1 ,1835,locatum_out,house,fury,rescue
+enter_vv0 dennis_np1 from_ii the_at house_nn1 ,1836,location_out,house,dennis,enter
+purchase_vvd fur_nn2 from_ii the_at house_nn2 ,1836,location_out,house,fur,purchase
+have_vhz no_at kindred_nn1_jj with_iw the_at house_nn2 ,1837,instrument,house,kindred,have
+purchase_vvd fur_nn2 from_ii the_at house_nn2 ,1837,location_out,house,fur,purchase
+address_vvi the_at house_nn1 on_ii a_at1 point_nn1 ,1838,locatum_on,house,point,address
+be_vbdz a_at1 flutter_nn1 through_ii the_at house_nn1 ,1838,instrument,house,flutter,be
+remove_vvd his_appge baggage_nn1 from_ii the_at house_nn1 ,1839,location_out,house,baggage,remove
+make_vvi a_at1 requisition_nn1 on_ii the_at house_nn1 ,1839,location_on,house,requisition,make
+address_vvi the_at house_nn1 from_ii the_at tribune_nn1 ,1839,locatum_out,house,tribune,address
+ruin_vvn my_appge prospect_nn2 with_iw the_at house_nn1 ,1839,instrument,house,prospect,ruin
+enter_vv0 roundtree_nn1_np1 from_ii the_at house_nn1 ,1839,location_out,house,roundtree,enter
+make_vvd my_appge retreat_nn1 from_ii the_at house_nn1 ,1840,location_out,house,retreat,make
+be_vbz the_at matter_nn1 with_iw the_at house_nn1 ,1843,instrument,house,matter,be
+find_vv0 no_at fault_nn1 with_iw the_at house_nn1 ,1843,instrument,house,fault,find
+take_vvz a_at1 mortgage_nn1 on_ii a_at1 house_nn1 ,1843,location_on,house,mortgage,take
+represent_vv0 the_at church_nn1 as_ii_csa the_at house_nn1 ,1844,agent,house,church,represent
+effect_vvi her_appge escape_nn1 from_ii the_at house_nn1 ,1844,location_out,house,escape,effect
+enter_vvg a_at1 house_nn1 on_ii the_at rue_np1 ,1844,locatum_on,house,rue,enter
+expel_vv0 rum_nn1 from_ii our_appge house_nn2 ,1845,location_out,house,rum,expel
+follow_vvg her_appge scholar_nn2 from_ii the_at house_nn1 ,1845,location_out,house,scholar,follow
+give_vvg a_at1 mortgage_nn1 on_ii the_at house_nn1 ,1845,location_on,house,mortgage,give
+form_vvd the_at communication_nn1 from_ii his_appge house_nn1 ,1845,location_out,house,communication,form
+bring_vvi suspicion_nn1 on_ii my_appge house_nn1 ,1846,location_on,house,suspicion,bring
+enter_vv0 mary_np1 from_ii the_at house_nn1 ,1846,location_out,house,mary,enter
+abandon_vvi my_appge scheme_nn1 on_ii the_at house_nn1 ,1847,location_on,house,scheme,abandon
+carry_vv0 our_appge house_nn1 on_ii our_appge back_nn1 ,1847,locatum_on,house,back,carry
+bring_vvi the_at money_nn1 from_ii the_at house_nn1 ,1848,location_out,house,money,bring
+divide_vvd the_at city_nn1 from_ii the_at house_nn2 ,1848,location_out,house,city,divide
+obtain_vvn egress_nn1 from_ii the_at house_nn1 ,1848,location_out,house,egress,obtain
+be_vbdz no_at house_nn1 on_ii my_appge way_nn1 ,1849,locatum_on,house,way,be
+effect_vvd his_appge escape_nn1 from_ii the_at house_nn1 ,1849,location_out,house,escape,effect
+make_vvi his_appge escape_nn1 from_ii the_at house_nn1 ,1849,location_out,house,escape,make
+succeed_vvd his_appge exit_nn1 from_ii the_at house_nn1 ,1849,location_out,house,exit,succeed
+take_vvd his_appge departure_nn1 from_ii the_at house_nn1 ,1849,location_out,house,departure,take
+make_vvd_vvn his_appge escape_nn1 from_ii the_at house_nn1 ,1849,location_out,house,escape,make
+build_vvd his_appge house_nn1 on_ii the_at spot_nn1 ,1850,locatum_on,house,spot,build
+close_vv0_jj attendance_nn1 on_ii the_at house_nn1 ,1850,location_on,house,attendance,close
+confer_vvd_vvn the_at sovereignty_nn1 on_ii the_at house_nn1 ,1851,location_on,house,sovereignty,confer
+take_vvi the_at girl_nn1 from_ii the_at house_nn1 ,1852,location_out,house,girl,take
+search_vvn the_at house_nn1 from_ii the_at loft_nn1 ,1852,locatum_out,house,loft,search
+leave_vvg the_at house_nn1 on_ii the_at morning_nnt1 ,1853,locatum_on,house,morning,leave
+pass_vvd_vvn our_appge house_nn1 on_ii his_appge way_nn1 ,1853,locatum_on,house,way,pass
+break_vvg faith_nn1 with_iw the_at house_nn1 ,1854,instrument,house,faith,break
+be_vbz a_at1 house_nn1 on_ii the_at hill_nn1 ,1854,locatum_on,house,hill,be
+divide_vvi the_at house_nn1 on_ii the_at report_nn1 ,1854,locatum_on,house,report,divide
+learn_vvn minister_nn2 from_ii their_appge house_nn2 ,1854,location_out,house,minister,learn
+know_vvi the_at moon_nn1 from_ii a_at1 house_nn1 ,1855,location_out,house,moon,know
+approach_vvg the_at house_nn1 on_ii the_at east_nd1 ,1855,locatum_on,house,east,approach
+obtain_vvn arm_nn2 from_ii the_at house_nn1 ,1855,location_out,house,arm,obtain
+make_vvd my_appge retreat_nn1 from_ii the_at house_nn1 ,1855,location_out,house,retreat,make
+take_vvd her_appge departure_nn1 from_ii the_at house_nn1 ,1855,location_out,house,departure,take
+build_vvi house_nn2 on_ii our_appge land_nn1 ,1857,locatum_on,house,land,build
+spread_vv0_vvd sunshine_nn1 through_ii the_at house_nn1 ,1857,instrument,house,sunshine,spread
+protect_vvi his_appge house_nn1 from_ii the_at attack_nn2 ,1859,locatum_out,house,attack,protect
+find_vvi favor_nn1_vv0 with_iw the_at house_nn1 ,1860,instrument,house,favor,find
+make_vvz a_at1 murmur_nn1 through_ii the_at house_nn1 ,1860,instrument,house,murmur,make
+cleanse_vvi the_at house_nn1 from_ii every_at1 thing_nn1 ,1860,locatum_out,house,thing,cleanse
+approach_vvd the_at house_nn1 from_ii the_at shore_nn1 ,1860,locatum_out,house,shore,approach
+avert_vvi a_at1 collision_nn1 with_iw the_at house_nn1 ,1861,instrument,house,collision,avert
+be_vbi partner_nn2 with_iw the_at house_nn1 ,1861,instrument,house,partner,be
+address_vvd the_at house_nn1 on_ii a_at1 topic_nn1 ,1861,locatum_on,house,topic,address
+drive_vvd his_appge team_nn1 through_ii the_at house_nn1 ,1862,instrument,house,team,drive
+jj_vv0 aristocracy_nn1 on_ii the_at house_nn1 ,1863,location_on,house,aristocracy,jj
+approach_vvg the_at house_nn1 from_ii the_at wood_nn2 ,1863,locatum_out,house,wood,approach
+leave_vvn my_appge house_nn1 on_ii his_appge account_nn1 ,1864,locatum_on,house,account,leave
+be_vbdz a_at1 mile_nnu1 from_ii the_at house_nn1 ,1866,location_out,house,mile,be
+take_vvn the_at crown_nn1 from_ii his_appge house_nn1 ,1867,location_out,house,crown,take
+demolish_vvn the_at family_nn1 with_iw the_at house_nn1 ,1867,instrument,house,family,demolish
+see_vvd your_appge light_nn1_jj from_ii my_appge house_nn1 ,1867,location_out,house,light,see
+pass_vvn the_at house_nn1 on_ii its_appge way_nn1 ,1868,locatum_on,house,way,pass
+have_vhd a_at1 house_nn1 on_ii the_at palatine_np1 ,1868,locatum_on,house,palatine,have
+eject_vvg romer_np1 from_ii the_at house_nn1 ,1868,location_out,house,romer,eject
+conduct_vvd the_at israelite_nn2 from_ii the_at house_nn1 ,1868,location_out,house,israelite,conduct
+express_vvd sympathy_nn1 with_iw the_at house_nn1 ,1869,instrument,house,sympathy,express
+be_vbz a_at1 debt_nn1 on_ii the_at house_nn1 ,1869,location_on,house,debt,be
+force_vvi his_appge measure_nn2 through_ii the_at house_nn1 ,1870,instrument,house,measure,force
+force_vvg its_appge measure_nn2 through_ii the_at house_nn1 ,1870,instrument,house,measure,force
+turn_vv0 an_at1 eye_nn1 on_ii the_at house_nn1 ,1871,location_on,house,eye,turn
+seek_vvg vengeance_nn1 on_ii our_appge house_nn1 ,1871,location_on,house,vengeance,seek
+have_vhi her_appge house_nn1 on_ii her_appge hand_nn2 ,1871,locatum_on,house,hand,have
+produce_vv0 house_nn1 on_ii the_at levee_nn1 ,1872,locatum_on,house,levee,produce
+enter_vvd the_at house_nn1 on_ii his_appge return_nn1 ,1872,locatum_on,house,return,enter
+pass_vvd the_at senate_nn1 be_vbz the_at house_nn1 ,1872,goal,house,senate,pass
+build_vvn a_at1 house_nn1 on_ii the_at corner_nn2 ,1873,locatum_on,house,corner,build
+want_vv0 a_at1 change_nn1 from_ii your_appge house_nn1 ,1873,location_out,house,change,want
+be_vbdz an_at1 attack_nn1 on_ii the_at house_nn1 ,1873,location_on,house,attack,be
+get_vvi the_at amendment_nn1 through_ii the_at house_nn1 ,1873,instrument,house,amendment,get
+gain_vvi glory_nn1 from_ii the_at house_nn1 ,1873,location_out,house,glory,gain
+reach_vvn the_at store_nn1 from_ii his_appge house_nn1 ,1874,location_out,house,store,reach
+do_vdn philosophy_nn1 be_vbz a_at1 house_nn1 ,1874,goal,house,philosophy,do
+leave_vvi the_at house_nn1 on_ii the_at day_nnt1 ,1874,locatum_on,house,day,leave
+hide_vvd the_at house_nn1 from_ii the_at avenue_nn1 ,1874,locatum_out,house,avenue,hide
+follow_vvd her_appge father_nn1 from_ii the_at house_nn1 ,1875,location_out,house,father,follow
+exterminate_vvi the_at disease_nn1 from_ii the_at house_nn1 ,1875,location_out,house,disease,exterminate
+pass_vvn their_appge house_nn1 on_ii his_appge journey_nn2 ,1875,locatum_on,house,journey,pass
+furnish_vvi the_at house_nn1 from_ii the_at saving_nn2 ,1875,locatum_out,house,saving,furnish
+keep_vvi money_nn1 from_ii the_at house_nn1 ,1875,location_out,house,money,keep
+take_vvd a_at1 mortgage_nn1 on_ii his_appge house_nn1 ,1875,location_on,house,mortgage,take
+cross_vvg the_at house_nn1 on_ii a_at1 line_nn1 ,1876,locatum_on,house,line,cross
+liberate_vv0 slade_np1 from_ii the_at house_nn1 ,1876,location_out,house,slade,liberate
+meet_vvi the_at house_nn2 on_ii their_appge assembly_nn1 ,1877,locatum_on,house,assembly,meet
+receive_vvn instruction_nn2 from_ii the_at house_nn1 ,1877,location_out,house,instruction,receive
+elect_vvg a_at1 president_nn1 by_ii the_at house_nn1 ,1877,instrument,house,president,elect
+cover_vv0 the_at interest_nn1 on_ii the_at house_nn2 ,1877,location_on,house,interest,cover
+keep_vvi house_nn1 on_ii the_at farm_nn1 ,1877,locatum_on,house,farm,keep
+seek_vvi an_at1 exit_nn1 from_ii the_at house_nn1 ,1877,location_out,house,exit,seek
+enter_vvi the_at house_nn1 on_ii the_at night_nnt1 ,1878,locatum_on,house,night,enter
+reach_vvd the_at house_nn1 from_ii the_at appropriation_np1_nn2 ,1879,locatum_out,house,appropriation,reach
+illuminate_vvn his_appge house_nn1 on_ii the_at evening_nnt1 ,1880,locatum_on,house,evening,illuminate
+take_vvg liberty_nn2 with_iw his_appge house_nn1 ,1880,instrument,house,liberty,take
+get_vvi a_at1 railroad_nn1 through_ii the_at house_nn1 ,1880,instrument,house,railroad,get
+desire_vvd a_at1 draft_nn1 on_ii a_at1 house_nn1 ,1880,location_on,house,draft,desire
+keep_vvd a_at1 lookout_nn1 from_ii a_at1 house_nn1 ,1880,location_out,house,lookout,keep
+hide_vvd the_at house_nn1 from_ii our_appge view_nn1 ,1880,locatum_out,house,view,hide
+make_vvz house_nn2 on_ii the_at sand_nn1 ,1880,locatum_on,house,sand,make
+drive_vvd rip_np1 from_ii his_appge house_nn1 ,1880,location_out,house,rip,drive
+protect_vvz a_at1 house_nn1 from_ii a_at1 mob_nn1 ,1881,locatum_out,house,mob,protect
+have_vhi a_at1 sign_nn1 on_ii her_appge house_nn1 ,1881,location_on,house,sign,have
+occupy_vvi a_at1 house_nn1 on_ii the_at bank_nn1 ,1882,locatum_on,house,bank,occupy
+push_vvi the_at bill_nn1 through_ii the_at house_nn1 ,1882,instrument,house,bill,push
+put_vvz an_at1 addition_nn1 on_ii his_appge house_nn1 ,1882,location_on,house,addition,put
+carry_vvg a_at1 child_nn1 from_ii the_at house_nn1 ,1883,location_out,house,child,carry
+impress_vvi his_appge opinion_nn1 on_ii the_at house_nn1 ,1883,location_on,house,opinion,impress
+take_vvi a_at1 tour_nn1 through_ii the_at house_nn1 ,1883,instrument,house,tour,take
+make_vvi a_at1 raid_nn1 on_ii the_at house_nn1 ,1883,location_on,house,raid,make
+get_vvi the_at bill_nn1 through_ii the_at house_nn1 ,1884,instrument,house,bill,get
+make_vvd his_appge way_nn1 from_ii the_at house_nn1 ,1884,location_out,house,way,make
+carry_vvd a_at1 hoe_nn1 through_ii the_at house_nn1 ,1884,instrument,house,hoe,carry
+lead_vvd the_at way_nn1 from_ii the_at house_nn1 ,1884,location_out,house,way,lead
+hold_vvz his_appge house_nn1 on_ii a_at1 lease_nn1 ,1885,locatum_on,house,lease,hold
+separate_vv0 the_at house_nn2 from_ii the_at street_nn1 ,1885,locatum_out,house,street,separate
+crost_vv0_nn1 the_at street_nn1 from_ii our_appge house_nn1 ,1885,location_out,house,street,crost
+make_vvg their_appge escape_nn1 from_ii the_at house_nn1 ,1885,location_out,house,escape,make
+see_vvd a_at1 bill_nn1 on_ii a_at1 house_nn1 ,1885,location_on,house,bill,see
+be_vbz the_at matter_nn1 with_iw the_at house_nn1 ,1885,instrument,house,matter,be
+enter_vvn her_appge house_nn1 on_ii the_at recommendation_nn1 ,1885,locatum_on,house,recommendation,enter
+announce_vvd_vvn his_appge departure_nn1 from_ii the_at house_nn1 ,1885,location_out,house,departure,announce
+exclude_vvg_ii contractor_nn2 from_ii the_at house_nn1 ,1886,location_out,house,contractor,exclude
+pay_vvd_vvn the_at mortgage_nn1 on_ii his_appge house_nn1 ,1886,location_on,house,mortgage,pay
+make_vvg his_appge exit_nn1 from_ii the_at house_nn1 ,1886,location_out,house,exit,make
+take_vvg place_nn1 from_ii my_appge house_nn1 ,1886,location_out,house,place,take
+remove_vvi the_at soldier_nn2 from_ii his_appge house_nn1 ,1887,location_out,house,soldier,remove
+learn_vvg his_appge duty_nn2 as_ii_csa a_at1 house_nn1 ,1888,agent,house,duty,learn
+pass_vvg the_at house_nn1 on_ii my_appge way_nn1 ,1888,locatum_on,house,way,pass
+take_vvd a_at1 mortgage_nn1 on_ii a_at1 house_nn1 ,1889,location_on,house,mortgage,take
+build_vvn its_appge house_nn1 on_ii the_at sand_nn2 ,1889,locatum_on,house,sand,build
+watch_vvi his_appge triumph_nn1 with_iw the_at house_nn1 ,1889,instrument,house,triumph,watch
+sound_vvg my_appge name_nn1 through_ii the_at house_nn1 ,1889,instrument,house,name,sound
+pass_vvd_vvn the_at house_nn2 on_ii the_at road_nn1 ,1890,locatum_on,house,road,pass
+build_vvi house_nn2 on_ii the_at saskatchewan_np1 ,1890,locatum_on,house,saskatchewan,build
+visit_vvd the_at house_nn1 on_ii a_at1 day_nnt1 ,1890,locatum_on,house,day,visit
+be_vbdz a_at1 roar_nn1 from_ii the_at house_nn1 ,1892,location_out,house,roar,be
+drive_vvd the_at party_nn1 from_ii the_at house_nn1 ,1892,location_out,house,party,drive
+force_vvd_vvn their_appge way_nn1 through_ii the_at house_nn1 ,1892,instrument,house,way,force
+enter_vv0 coverley_nn1_np1 from_ii the_at house_nn1 ,1892,location_out,house,coverley,enter
+enter_vv0 blandina_nn1_np1 from_ii the_at house_nn1 ,1892,location_out,house,blandina,enter
+lead_vvd his_appge company_nn1 by_ii the_at house_nn2 ,1893,instrument,house,company,lead
+approach_vvg the_at house_nn1 from_ii the_at garden_nn1 ,1893,locatum_out,house,garden,approach
+found_vvg the_at house_nn1 on_ii the_at bed_nn1 ,1894,locatum_on,house,bed,found
+make_vvd_vvn a_at1 descent_nn1 on_ii the_at house_nn1 ,1894,location_on,house,descent,make
+enter_vvi the_at house_nn1 from_ii the_at back_nn1 ,1895,locatum_out,house,back,enter
+buy_vvn the_at house_nn1 from_ii the_at thatcher_np1 ,1895,locatum_out,house,thatcher,buy
+approach_vvd the_at house_nn1 from_ii the_at garden_nn1 ,1895,locatum_out,house,garden,approach
+build_vv0 our_appge house_nn2 on_ii the_at mountain_nn1 ,1896,locatum_on,house,mountain,build
+resist_vvi a_at1 proposition_nn1 from_ii the_at house_nn1 ,1896,location_out,house,proposition,resist
+bring_vvd_vvn the_at casket_nn1 from_ii the_at house_nn1 ,1896,location_out,house,casket,bring
+drive_vvi the_at farmer_nn1 from_ii his_appge house_nn1 ,1896,location_out,house,farmer,drive
+pass_vvi the_at house_nn1 on_ii the_at slat_nn1_np1_ ,1897,locatum_on,house,slat,pass
+take_vvz a_at1 drink_nn1 on_ii the_at house_nn1 ,1897,location_on,house,drink,take
+take_vvz a_at1 drink_nn1 on_ii the_at house_nn1 ,1897,location_on,house,drink,take
+take_vvi no_at step_nn1 from_ii the_at house_nn1 ,1897,location_out,house,step,take
+approach_vvg the_at house_nn1 from_ii the_at direction_nn1 ,1897,locatum_out,house,direction,approach
+secure_vvi its_appge passage_nn1 through_ii the_at house_nn1 ,1897,instrument,house,passage,secure
+make_vvi a_at1 raid_nn1 on_ii your_appge house_nn1 ,1898,location_on,house,raid,make
+find_vvd kitchell_np1 on_ii the_at house_nn1 ,1898,location_on,house,kitchell,find
+search_vvi the_at house_nn1 from_ii the_at garret_nn1 ,1898,locatum_out,house,garret,search
+divert_vvi the_at fluid_nn1 from_ii the_at house_nn1 ,1898,location_out,house,fluid,divert
+claim_vvi kinship_nn1 with_iw the_at house_nn1 ,1899,instrument,house,kinship,claim
+enlighten_vvi the_at house_nn1 on_ii the_at subject_nn1 ,1899,locatum_on,house,subject,enlighten
+have_vhd a_at1 house_nn1 on_ii the_at thames_np1 ,1900,locatum_on,house,thames,have
+make_vvd a_at1 break_nn1 from_ii the_at house_nn1 ,1900,location_out,house,break,make
+have_vh0 a_at1 house_nn1 on_ii the_at north_nd1 ,1900,locatum_on,house,north,have
+get_vvi her_appge bundle_nn1 from_ii the_at house_nn1 ,1900,location_out,house,bundle,get
+want_vv0 a_at1 secretary_nn1 from_ii the_at house_nn1 ,1900,location_out,house,secretary,want
+need_vvg a_at1 change_nn1 from_ii the_at house_nn1 ,1900,location_out,house,change,need
+enter_vv0 bridget_np1 from_ii the_at house_nn1 ,1901,location_out,house,bridget,enter
+leave_vvd her_appge house_nn1 on_ii the_at sunday_npd1 ,1901,locatum_on,house,sunday,leave
+get_vvi audience_nn1 with_iw his_appge house_nn1 ,1901,instrument,house,audience,get
+build_vv0 their_appge house_nn2 on_ii the_at lake_nn1 ,1901,locatum_on,house,lake,build
+set_vvd a_at1 watch_nn1 on_ii the_at house_nn1 ,1901,location_on,house,watch,set
+extend_vvg the_at house_nn1 on_ii the_at side_nn1 ,1901,locatum_on,house,side,extend
+take_vvi his_appge house_nn1 from_ii his_appge widow_nn1 ,1902,locatum_out,house,widow,take
+build_vvd his_appge house_nn1 on_ii the_at island_nn1 ,1902,locatum_on,house,island,build
+enter_vv0 bradford_np1 from_ii the_at house_nn1 ,1902,location_out,house,bradford,enter
+come_vvd the_at exodus_nn1 from_ii the_at house_nn2 ,1902,location_out,house,exodus,come
+hide_vvz the_at house_nn1 from_ii the_at boat_nn1 ,1902,locatum_out,house,boat,hide
+search_vvn the_at house_nn1 from_ii the_at cellar_nn1 ,1902,locatum_out,house,cellar,search
+lead_vvd_vvn the_at raid_nn1 on_ii the_at house_nn1 ,1903,location_on,house,raid,lead
+receive_vvn no_at word_nn1 from_ii the_at house_nn1 ,1903,location_out,house,word,receive
+have_vhd my_appge house_nn1 on_ii the_at hill_nn1 ,1904,locatum_on,house,hill,have
+track_vvi the_at snow_nn1 through_ii her_appge house_nn1 ,1904,instrument,house,snow,track
+play_vvz the_at piano_nn1 like_ii a_at1 house_nn1 ,1905,agent,house,piano,play
+leave_vvd_vvn our_appge house_nn1 on_ii a_at1 run_nn1 ,1905,locatum_on,house,run,leave
+buy_vvi an_at1 option_nn1 on_ii a_at1 house_nn1 ,1905,location_on,house,option,buy
+get_vvg good_nn2 from_ii the_at house_nn2 ,1905,location_out,house,good,get
+get_vvd a_at1 telegram_nn1 from_ii the_at house_nn1 ,1905,location_out,house,telegram,get
+receive_vvn a_at1 letter_nn1 from_ii the_at house_nn1 ,1905,location_out,house,letter,receive
+sign_vvi a_at1 contract_nn1 with_iw the_at house_nn1 ,1905,instrument,house,contract,sign
+send_vvd his_appge stock_nn1 with_iw the_at house_nn1 ,1905,instrument,house,stock,send
+rock_vvd_vvn house_nn2 from_ii their_appge foundation_nn2 ,1905,locatum_out,house,foundation,rock
+build_vvz his_appge house_nn1 on_ii the_at rock_nn2 ,1905,locatum_on,house,rock,build
+be_vbdr the_at house_nn2 on_ii the_at west_nd1 ,1905,locatum_on,house,west,be
+build_vvi a_at1 wing_nn1 on_ii his_appge house_nn1 ,1906,location_on,house,wing,build
+be_vbdz their_appge escort_nn1 from_ii the_at house_nn1 ,1906,location_out,house,escort,be
+take_vvi her_appge departure_nn1 from_ii their_appge house_nn1 ,1906,location_out,house,departure,take
+see_vvd the_at house_nn1 from_ii the_at train_nn1 ,1907,locatum_out,house,train,see
+pass_vvd his_appge house_nn1 on_ii his_appge way_nn1 ,1907,locatum_on,house,way,pass
+bring_vvi the_at oar_nn2 from_ii the_at house_nn1 ,1907,location_out,house,oar,bring
+hear_vvi a_at1 whistle_nn1 from_ii his_appge house_nn1 ,1907,location_out,house,whistle,hear
+bring_vvd_vvn her_appge daughter_nn1 from_ii the_at house_nn1 ,1907,location_out,house,daughter,bring
+drive_vvi a_at1 mile_nnu1 from_ii his_appge house_nn1 ,1908,location_out,house,mile,drive
+banish_vvi discontent_nn1 from_ii her_appge house_nn1 ,1909,location_out,house,discontent,banish
+draw_vvn wilson_np1 from_ii the_at house_nn1 ,1909,location_out,house,wilson,draw
+jj_vv0 house_nn2 on_ii the_at prairie_nn1 ,1909,locatum_on,house,prairie,jj
+hate_vvd the_at house_nn1 on_ii the_at hill_nn1 ,1910,locatum_on,house,hill,hate
+build_vvz her_appge house_nn2 on_ii her_appge flank_nn2 ,1910,locatum_on,house,flank,build
+be_vbz the_at news_nn1 from_ii the_at house_nn1 ,1910,location_out,house,news,be
+expose_vvd_vvn the_at house_nn1 on_ii the_at slope_nn1 ,1911,locatum_on,house,slope,expose
+keep_vvi an_at1 eye_nn1 on_ii the_at house_nn1 ,1911,location_on,house,eye,keep
+drive_vvg the_at man_nn1 from_ii the_at house_nn1 ,1911,location_out,house,man,drive
+be_vbdz no_at reply_nn1 from_ii the_at house_nn1 ,1911,location_out,house,reply,be
+get_vvd the_at shoe_nn2 from_ii the_at house_nn1 ,1911,location_out,house,shoe,get
+frequent_vvi absence_nn2 from_ii the_at house_nn1 ,1911,location_out,house,absence,frequent
+hide_vvz the_at house_nn1 from_ii the_at roadway_nn1 ,1912,locatum_out,house,roadway,hide
+buy_vvn a_at1 house_nn1 on_ii the_at shore_np1 ,1912,locatum_on,house,shore,buy
+get_vvd a_at1 lease_nn1 on_ii his_appge house_nn1 ,1912,location_on,house,lease,get
+shake_vvn the_at house_nn1 from_ii its_appge foundation_nn2 ,1913,locatum_out,house,foundation,shake
+put_vvi a_at1 mortgage_nn1 on_ii the_at house_nn1 ,1913,location_on,house,mortgage,put
+get_vvn a_at1 house_nn1 on_ii our_appge lake_nn1 ,1913,locatum_on,house,lake,get
+know_vvz the_at way_nn1 from_ii the_at house_nn1 ,1914,location_out,house,way,know
+take_vvi a_at1 look_nn1 through_ii the_at house_nn1 ,1914,instrument,house,look,take
+enter_vvd your_appge house_nn1 on_ii a_at1 wager_nn1 ,1914,locatum_on,house,wager,enter
+stop_vvn work_nn1_vv0 on_ii the_at house_nn1 ,1914,location_on,house,work,stop
+take_vvd place_nn1 from_ii the_at house_nn1 ,1914,location_out,house,place,take
+pass_vvd his_appge house_nn1 on_ii her_appge way_nn1 ,1915,locatum_on,house,way,pass
+enter_vvi the_at house_nn1 from_ii the_at kitchen_nn1 ,1915,locatum_out,house,kitchen,enter
+make_vvd their_appge way_nn1 from_ii the_at house_nn1 ,1915,location_out,house,way,make
+rent_vvi a_at1 house_nn1 from_ii the_at municipality_nn1 ,1916,locatum_out,house,municipality,rent
+shelter_vvi the_at house_nn2 from_ii the_at blizzard_nn2 ,1916,locatum_out,house,blizzard,shelter
+have_vh0 a_at1 farm_nn1 with_iw a_at1 house_nn1 ,1916,instrument,house,farm,have
+send_vvd_vvn its_appge reverberation_nn2 through_ii the_at house_nn1 ,1916,instrument,house,reverberation,send
+vvn_vvd house_nn1 on_ii the_at moor_nn2 ,1917,locatum_on,house,moor,vvn
+leave_vvd the_at house_nn1 on_ii the_at trot_nn1 ,1917,locatum_on,house,trot,leave
+garner_vvd the_at note_nn1 from_ii the_at house_nn1 ,1918,location_out,house,note,garner
+build_vvn a_at1 house_nn1 on_ii a_at1 hill_nn1 ,1918,locatum_on,house,hill,build
+know_vv0 your_appge way_nn1 through_ii the_at house_nn1 ,1918,instrument,house,way,know
+come_vvd house_nn2 on_ii the_at bank_nn2 ,1919,locatum_on,house,bank,come
+drive_vvd her_appge car_nn1 from_ii the_at house_nn1 ,1919,location_out,house,car,drive
+address_vvi the_at house_nn1 on_ii a_at1 question_nn1 ,1919,locatum_on,house,question,address
+separate_vvg the_at house_nn1 from_ii the_at precipice_nn1 ,1919,locatum_out,house,precipice,separate
+see_vvd a_at1 house_nn1 on_ii the_at riverside_nn1 ,1919,locatum_on,house,riverside,see
+buy_vvg a_at1 house_nn1 on_ii the_at installment_nn1 ,1919,locatum_on,house,installment,buy
+have_vhi a_at1 house_nn1 on_ii your_appge hand_nn2 ,1920,locatum_on,house,hand,have
+build_vvi house_nn2 on_ii the_at sand_nn1 ,1920,locatum_on,house,sand,build
+put_vv0_vvd our_appge house_nn2 on_ii the_at top_nn2 ,1920,locatum_on,house,top,put
+be_vbdr the_at house_nn2 on_ii the_at cliff_nn1 ,1920,locatum_on,house,cliff,be
+frequent_vvd the_at house_nn1 on_ii the_at hill_nn1 ,1920,locatum_on,house,hill,frequent
+have_vhd friend_nn2 by_ii the_at house_nn1 ,1920,instrument,house,friend,have
+build_vvn the_at house_nn1 on_ii a_at1 scale_nn1 ,1920,locatum_on,house,scale,build
+enter_vvd the_at house_nn1 on_ii a_at1 level_nn1_jj ,1920,locatum_on,house,level,enter
+put_vvg the_at amendment_nn1 through_ii the_at house_nn1 ,1920,instrument,house,amendment,put
+put_vvg the_at amendment_nn1 through_ii the_at house_nn1 ,1920,instrument,house,amendment,put
+lead_vvd eunice_np1 from_ii the_at house_nn1 ,1920,location_out,house,eunice,lead
+set_vv0_vvd a_at1 watch_nn1 on_ii my_appge house_nn1 ,1921,location_on,house,watch,set
+be_vbdz a_at1 scream_nn1 from_ii the_at house_nn1 ,1921,location_out,house,scream,be
+carry_vvg their_appge house_nn2 on_ii their_appge back_nn2 ,1921,locatum_on,house,back,carry
+drive_vvd your_appge mother_nn1 from_ii my_appge house_nn1 ,1921,location_out,house,mother,drive
+bring_vvi ruin_nn1_vv0 on_ii the_at house_nn1 ,1921,location_on,house,ruin,bring
+get_vvn a_at1 mortgage_nn1 on_ii your_appge house_nn1 ,1921,location_on,house,mortgage,get
+be_vbdz a_at1 house_nn1 on_ii the_at street_nn1 ,1921,locatum_on,house,street,be
+help_vvi her_appge mother_nn1 with_iw the_at house_nn1 ,1921,instrument,house,mother,help
+approach_vvn the_at house_nn1 from_ii his_appge side_nn1 ,1921,locatum_out,house,side,approach
+hear_vvd a_at1 screech_nn1 from_ii the_at house_nn1 ,1922,location_out,house,screech,hear
+have_vhd a_at1 house_nn1 on_ii the_at edge_nn1 ,1922,locatum_on,house,edge,have
+reach_vvg the_at house_nn1 on_ii the_at hill_nn1 ,1922,locatum_on,house,hill,reach
+suspect_vvd a_at1 watch_nn1 on_ii the_at house_nn1 ,1922,location_on,house,watch,suspect
+poke_vvd its_appge pipe_nn1 through_ii the_at house_nn1 ,1922,instrument,house,pipe,poke
+forget_vvn his_appge day_nnt2 as_ii_csa a_at1 house_nn1 ,1922,agent,house,day,forget
+be_vbdz the_at house_nn1 on_ii the_at bend_nn1 ,1922,locatum_on,house,bend,be
+be_vbi no_at election_nn1 by_ii the_at house_nn1 ,1924,instrument,house,election,be
+place_vv0_nn1 their_appge hold_nn1 on_ii the_at house_nn1 ,1924,location_on,house,hold,place
+prevent_vvi control_nn1 by_ii the_at house_nn1 ,1924,instrument,house,control,prevent
+approach_vvd the_at house_nn1 from_ii the_at side_nn1 ,1925,locatum_out,house,side,approach
+reveal_vvi the_at house_nn1 on_ii the_at corner_nn1 ,1925,locatum_on,house,corner,reveal
+include_vvi the_at sign_nn1 on_ii the_at house_nn1 ,1925,location_on,house,sign,include
+make_vvg his_appge escape_nn1 from_ii the_at house_nn1 ,1925,location_out,house,escape,make
+strike_vvd_vvn a_at1 house_nn1 on_ii the_at ground_nn2 ,1926,locatum_on,house,ground,strike
+leave_vvn his_appge house_nn1 on_ii the_at hill_nn1 ,1926,locatum_on,house,hill,leave
+be_vbdr his_appge dealing_nn2 with_iw the_at house_nn1 ,1926,instrument,house,dealing,be
+build_vv0 your_appge house_nn1 on_ii the_at sand_nn1 ,1926,locatum_on,house,sand,build
+tear_vvd house_nn2 from_ii their_appge foundation_nn2 ,1926,locatum_out,house,foundation,tear
+bring_vvd my_appge bench_nn1 from_ii the_at house_nn1 ,1927,location_out,house,bench,bring
+obtain_vv0 adoption_nn1 by_ii the_at house_nn1 ,1928,instrument,house,adoption,obtain
+support_vvi the_at measure_nn1 on_ii the_at house_nn1 ,1929,location_on,house,measure,support
+include_vvd_vvn a_at1 house_nn1 from_ii the_at city_nn1 ,1929,locatum_out,house,city,include
+sell_vvi the_at house_nn1 on_ii the_at hill_nn1 ,1929,locatum_on,house,hill,sell
+see_vvi the_at rock_nn1 from_ii our_appge house_nn1 ,1930,location_out,house,rock,see
+assume_vvz an_at1 air_nn1 with_iw a_at1 house_nn1 ,1930,instrument,house,air,assume
+leave_vvi the_at house_nn1 on_ii an_at1 errand_nn1 ,1930,locatum_on,house,errand,leave
+feed_vvn_vvd dust_nn1 through_ii the_at house_nn1 ,1930,instrument,house,dust,feed
+rank_vvg_nn1 republican_nn1 on_ii the_at house_nn1 ,1931,location_on,house,republican,rank
+be_vbz the_at house_nn1 from_ii the_at entrance_nn1 ,1931,locatum_out,house,entrance,be
+adjoin_vvd the_at house_nn1 on_ii the_at east_nd1 ,1931,locatum_on,house,east,adjoin
+hear_vvd_vvn the_at commotion_nn1 from_ii the_at house_nn1 ,1931,location_out,house,commotion,hear
+approach_vvi the_at house_nn1 from_ii the_at west_nd1 ,1932,locatum_out,house,west,approach
+turn_vvd his_appge back_nn1 on_ii the_at house_nn1 ,1932,location_on,house,back,turn
+approach_vvd_vvn the_at kitchen_nn1 from_ii the_at house_nn1 ,1932,location_out,house,kitchen,approach
+bring_vvd food_nn1 from_ii their_appge house_nn2 ,1932,location_out,house,food,bring
+send_vvn the_at measure_nn1 through_ii the_at house_nn1 ,1932,instrument,house,measure,send
+have_vh0 lease_nn2 on_ii our_appge house_nn2 ,1933,location_on,house,lease,have
+override_vvg the_at veto_nn1 as_ii_csa the_at house_nn1 ,1933,agent,house,veto,override
+repair_vvg their_appge house_nn2 from_ii the_at damage_nn1 ,1933,locatum_out,house,damage,repair
+see_vv0 the_at number_nn1 on_ii the_at house_nn1 ,1933,location_on,house,number,see
+runt_vv0 the_at house_nn1 on_ii the_at hill_nn1 ,1933,locatum_on,house,hill,runt
+take_vv0 a_at1 house_nn1 on_ii the_at mediterranean_np1_jj ,1933,locatum_on,house,mediterranean,take
+raise_vvd the_at mortgage_nn1 on_ii her_appge house_nn1 ,1933,location_on,house,mortgage,raise
+have_vhi a_at1 drink_nn1 on_ii the_at house_nn1 ,1933,location_on,house,drink,have
+indicate_vvd the_at roadway_nn1 from_ii the_at house_nn1 ,1933,location_out,house,roadway,indicate
+build_vvd a_at1 house_nn1 on_ii a_at1 piece_nn1 ,1934,locatum_on,house,piece,build
+reconcile_vvi the_at hungarian_nn2 with_iw the_at house_nn1 ,1934,instrument,house,hungarian,reconcile
+owe_vvz a_at1 mortgage_nn1 on_ii his_appge house_nn1 ,1934,location_on,house,mortgage,owe
+run_vvg_jj_nn1 errand_nn2_vvz through_ii the_at house_nn1 ,1934,instrument,house,errand,run
+make_vvn their_appge exit_nn1 from_ii the_at house_nn1 ,1934,location_out,house,exit,make
+write_vvg_nn1 material_nn1 from_ii his_appge house_nn1 ,1935,location_out,house,material,write
+put_vvn her_appge house_nn1 on_ii the_at market_nn1 ,1935,locatum_on,house,market,put
+buy_vvi the_at place_nn1 with_iw the_at house_nn1 ,1935,instrument,house,place,buy
+push_vvi the_at measure_nn1 through_ii the_at house_nn1 ,1935,instrument,house,measure,push
+engineer_vvd_vvn the_at bill_nn1 through_ii the_at house_nn1 ,1935,instrument,house,bill,engineer
+leave_vvd_vvn the_at house_nn1 on_ii the_at rue_np1 ,1936,locatum_on,house,rue,leave
+visit_vvg the_at house_nn1 on_ii the_at rue_np1 ,1936,locatum_on,house,rue,visit
+visit_vvg the_at house_nn1 on_ii the_at rue_np1 ,1936,locatum_on,house,rue,visit
+leave_vvn the_at house_nn1 on_ii the_at rue_np1 ,1936,locatum_on,house,rue,leave
+keep_vvn house_nn1 on_ii a_at1 scale_nn1 ,1936,locatum_on,house,scale,keep
+live_vvd_vvn a_at1 block_nn1 from_ii my_appge house_nn1 ,1937,location_out,house,block,live
+see_vvi the_at light_nn1_jj from_ii the_at house_nn1 ,1937,location_out,house,light,see
+be_vbi the_at house_nn1 on_ii the_at street_nn1 ,1937,locatum_on,house,street,be
+build_vvn house_nn2 from_ii the_at beginning_nn1 ,1937,locatum_out,house,beginning,build
+plunk_vvd a_at1 bomb_nn1 on_ii the_at house_nn1 ,1937,location_on,house,bomb,plunk
+put_vv0_vvd the_at screw_nn2 on_ii the_at house_nn1 ,1937,location_on,house,screw,put
+build_vvn their_appge house_nn1 on_ii a_at1 rise_nn1 ,1937,locatum_on,house,rise,build
+carry_vvi the_at piano_nn1 from_ii the_at house_nn1 ,1937,location_out,house,piano,carry
+tear_vvn the_at kingdom_nn1 from_ii the_at house_nn1 ,1938,location_out,house,kingdom,tear
+be_vbdz no_at sound_nn1 through_ii the_at house_nn1 ,1938,instrument,house,sound,be
+build_vvi house_nn2 on_ii a_at1 belt_nn1 ,1938,locatum_on,house,belt,build
+set_vvn a_at1 chimney_nn1 on_ii a_at1 house_nn1 ,1938,location_on,house,chimney,set
+light_vvi his_appge way_nn1 from_ii the_at house_nn1 ,1938,location_out,house,way,light
+light_vvi his_appge way_nn1 from_ii the_at house_nn1 ,1938,location_out,house,way,light
+have_vhi the_at mortgage_nn1 on_ii the_at house_nn1 ,1938,location_on,house,mortgage,have
+have_vh0 a_at1 drink_nn1 on_ii the_at house_nn1 ,1938,location_on,house,drink,have
+follow_vvd freddie_np1 from_ii the_at house_nn1 ,1939,location_out,house,freddie,follow
+report_vvd_vvn a_at1 bill_nn1 from_ii the_at house_nn1 ,1939,location_out,house,bill,report
+have_vhn a_at1 mortgage_nn1 on_ii my_appge house_nn1 ,1939,location_on,house,mortgage,have
+remove_vvn his_appge effect_nn2 from_ii the_at house_nn1 ,1939,location_out,house,effect,remove
+build_vvi a_at1 house_nn1 on_ii the_at north_nd1 ,1939,locatum_on,house,north,build
+lay_vvd his_appge hand_nn1 on_ii the_at house_nn1 ,1939,location_on,house,hand,lay
+empty_vvi house_nn2 on_ii the_at abolition_nn1 ,1939,locatum_on,house,abolition,empty
+leave_vvd the_at house_nn1 on_ii an_at1 errand_nn1 ,1939,locatum_on,house,errand,leave
+protect_vvi the_at house_nn1 from_ii the_at rabble_nn1 ,1940,locatum_out,house,rabble,protect
+have_vh0 a_at1 drink_nn1 on_ii the_at house_nn1 ,1940,location_on,house,drink,have
+seek_vvi a_at1 place_nn1 on_ii the_at house_nn1 ,1941,location_on,house,place,seek
+shove_vvd the_at bill_nn1 through_ii the_at house_nn1 ,1941,instrument,house,bill,shove
+leave_vvd_vvn the_at house_nn1 on_ii the_at spot_nn1 ,1941,locatum_on,house,spot,leave
+expect_vvg question_nn2 on_ii the_at house_nn1 ,1941,location_on,house,question,expect
+necessitate_vvi a_at1 reconsideration_nn1 by_ii the_at house_nn1 ,1941,instrument,house,reconsideration,necessitate
+see_vvi our_appge house_nn1 from_ii the_at river_nn1 ,1941,locatum_out,house,river,see
+admit_vvi his_appge absence_nn1 from_ii the_at house_nn1 ,1942,location_out,house,absence,admit
+take_vvn a_at1 house_nn1 on_ii the_at strength_nn1 ,1942,locatum_on,house,strength,take
+know_vv0 the_at mortgage_nn1 on_ii the_at house_nn1 ,1943,location_on,house,mortgage,know
+be_vbi no_at vote_nn1 by_ii the_at house_nn1 ,1943,instrument,house,vote,be
+be_vbdz the_at approval_nn1 by_ii the_at house_nn1 ,1943,instrument,house,approval,be
+be_vbn a_at1 shimmer_nn1 on_ii the_at house_nn1 ,1943,location_on,house,shimmer,be
+be_vbdz a_at1 house_nn1 on_ii the_at stage_nn1 ,1943,locatum_on,house,stage,be
+put_vvi the_at house_nn1 on_ii the_at market_nn1 ,1944,locatum_on,house,market,put
+push_vvg the_at bill_nn1 through_ii the_at house_nn1 ,1944,instrument,house,bill,push
+play_vvd their_appge hose_nn2 on_ii the_at house_nn2 ,1944,location_on,house,hose,play
+drive_vvd man_nn2 from_ii the_at house_nn1 ,1944,location_out,house,man,drive
+keep_vvg a_at1 case_nn1 on_ii the_at house_nn1 ,1944,location_on,house,case,keep
+burn_vv0 every_at1 house_nn1 on_ii the_at place_nn1 ,1944,locatum_on,house,place,burn
+burn_vv0 every_at1 house_nn1 on_ii the_at place_nn1 ,1944,locatum_on,house,place,burn
+get_vvn_vvd a_at1 shot_nn1 on_ii the_at house_nn1 ,1944,location_on,house,shot,get
+push_vvd_vvn the_at boy_nn2 from_ii the_at house_nn1 ,1945,location_out,house,boy,push
+see_vvi the_at light_nn1_jj from_ii the_at house_nn1 ,1945,location_out,house,light,see
+take_vvd a_at1 bedsheet_nn1 from_ii a_at1 house_nn1 ,1945,location_out,house,bedsheet,take
+face_vvi opposition_nn1 on_ii the_at house_nn1 ,1946,location_on,house,opposition,face
+keep_vvi an_at1 eye_nn1 on_ii the_at house_nn1 ,1946,location_on,house,eye,keep
+take_vvd the_at house_nn1 on_ii a_at1 tour_nn1 ,1946,locatum_on,house,tour,take
+rule_vvn england_np1 through_ii a_at1 house_nn1 ,1947,instrument,house,england,rule
+recall_vvd a_at1 house_nn1 on_ii the_at coast_nn1 ,1947,locatum_on,house,coast,recall
+have_vhi payment_nn2 on_ii a_at1 house_nn1 ,1947,location_on,house,payment,have
+buy_vvn the_at house_nn1 on_ii the_at corner_nn1 ,1947,locatum_on,house,corner,buy
+see_vv0 the_at house_nn1 on_ii its_appge way_nn1 ,1947,locatum_on,house,way,see
+see_vv0 the_at house_nn1 on_ii its_appge way_nn1 ,1947,locatum_on,house,way,see
+order_vvd the_at student_nn1 from_ii his_appge house_nn1 ,1948,location_out,house,student,order
+give_vvg a_at1 mortgage_nn1 on_ii the_at house_nn1 ,1948,location_on,house,mortgage,give
+be_vbz the_at recommendation_nn1 by_ii the_at house_nn1 ,1949,instrument,house,recommendation,be
+favor_vvd a_at1 compromise_nn1 with_iw the_at house_nn1 ,1949,instrument,house,compromise,favor
+accept_vvi amendment_nn2 by_ii the_at house_nn1 ,1949,instrument,house,amendment,accept
+leave_vvd my_appge house_nn1 on_ii the_at night_nnt1 ,1949,locatum_on,house,night,leave
+announce_vvi his_appge resignation_nn1 from_ii the_at house_nn1 ,1949,location_out,house,resignation,announce
+throng_vvd_vvn the_at space_nn1 on_ii the_at house_nn1 ,1949,location_on,house,space,throng
+be_vbi a_at1 vote_nn1 by_ii the_at house_nn1 ,1949,instrument,house,vote,be
+drink_vvd champagne_nn1 on_ii the_at house_nn1 ,1950,location_on,house,champagne,drink
+supply_vvg his_appge house_nn1 on_ii a_at1 hilltop_nn1 ,1950,locatum_on,house,hilltop,supply
+rank_vvg_nn1 republican_nn1 on_ii the_at house_nn1 ,1950,location_on,house,republican,rank
+keep_vv0 my_appge eye_nn2 on_ii the_at house_nn1 ,1950,location_on,house,eye,keep
+have_vhg a_at1 drink_nn1 on_ii the_at house_nn1 ,1951,location_on,house,drink,have
+betray_vvd their_appge familiarity_nn1 with_iw the_at house_nn1 ,1951,instrument,house,familiarity,betray
+make_vvi their_appge way_nn1 from_ii the_at house_nn1 ,1951,location_out,house,way,make
+get_vv0 a_at1 drink_nn1 on_ii the_at house_nn1 ,1952,location_on,house,drink,get
+keep_vvi their_appge eye_nn2 on_ii the_at house_nn1 ,1952,location_on,house,eye,keep
+make_vvd his_appge way_nn1 through_ii the_at house_nn1 ,1952,instrument,house,way,make
+build_vvi a_at1 house_nn1 on_ii the_at ruin_nn2 ,1952,locatum_on,house,ruin,build
+pass_vvd the_at house_nn1 on_ii their_appge way_nn1 ,1953,locatum_on,house,way,pass
+keep_vv0 an_at1 eye_nn1 on_ii the_at house_nn1 ,1953,location_on,house,eye,keep
+enter_vvg the_at house_nn1 from_ii the_at rear_nn1_jj ,1953,locatum_out,house,rear,enter
+be_vbz a_at1 cry_nn1 from_ii the_at house_nn1 ,1954,location_out,house,cry,be
+jj_vvg path_nn2 from_ii the_at house_nn2 ,1954,location_out,house,path,jj
+push_vvd his_appge bill_nn1 through_ii the_at house_nn1 ,1954,instrument,house,bill,push
+sell_vvn the_at house_nn1 on_ii the_at river_nn1 ,1954,locatum_on,house,river,sell
+see_vvi time_nnt1 as_ii_csa a_at1 house_nn1 ,1954,agent,house,time,see
+fix_vvi seal_nn2 on_ii the_at house_nn1 ,1954,location_on,house,seal,fix
+have_vhz sidewalk_nn1 from_ii the_at house_nn1 ,1954,location_out,house,sidewalk,have
+approach_vvd the_at house_nn1 from_ii a_at1 lane_nn1 ,1955,locatum_out,house,lane,approach
+bring_vvd a_at1 curse_nn1 on_ii the_at house_nn1 ,1955,location_on,house,curse,bring
+serve_vvd_vvn beer_nn1 on_ii the_at house_nn1 ,1955,location_on,house,beer,serve
+pass_vvi a_at1 house_nn1 on_ii your_appge walk_nn1 ,1955,locatum_on,house,walk,pass
+build_vvi your_appge house_nn1 on_ii a_at1 rock_nn1 ,1955,locatum_on,house,rock,build
+lose_vvi money_nn1 on_ii the_at house_nn1 ,1955,location_on,house,money,lose
+reach_vvd_vvn its_appge climax_nn1 as_ii_csa the_at house_nn1 ,1955,agent,house,climax,reach
+represent_vvd house_nn2 on_ii a_at1 city_nn1 ,1956,locatum_on,house,city,represent
+waste_vvg your_appge money_nn1 on_ii a_at1 house_nn1 ,1956,location_on,house,money,waste
+have_vhg a_at1 shot_nn1 on_ii the_at house_nn1 ,1956,location_on,house,shot,have
+ask_vvn a_at1 blessing_nn1 on_ii the_at house_nn1 ,1956,location_on,house,blessing,ask
+borrow_vvd_vvn money_nn1 on_ii their_appge house_nn1 ,1956,location_on,house,money,borrow
+cross_vv0 the_at street_nn1 from_ii my_appge house_nn1 ,1956,location_out,house,street,cross
+do_vd0 house_nn2 on_ii the_at site_nn1 ,1957,locatum_on,house,site,do
+cross_vvd the_at distance_nn1 from_ii the_at house_nn1 ,1957,location_out,house,distance,cross
+help_vvg_nn1 denny_np1 with_iw his_appge house_nn2 ,1958,instrument,house,denny,help
+buy_vvn_vvd a_at1 house_nn1 on_ii the_at island_nn1 ,1958,locatum_on,house,island,buy
+get_vvd_vvn a_at1 bill_nn1 through_ii the_at house_nn1 ,1958,instrument,house,bill,get
+send_vvn a_at1 letter_nn1 from_ii the_at house_nn1 ,1959,location_out,house,letter,send
+show_vvi the_at house_nn1 on_ii the_at day_nnt1 ,1959,locatum_on,house,day,show
+buy_vvd_vvn a_at1 door_nn1 from_ii a_at1 house_nn1 ,1959,location_out,house,door,buy
+buy_vvn the_at house_nn1 from_ii the_at thatcher_np1 ,1960,locatum_out,house,thatcher,buy
+carry_vvg bag_nn2 from_ii the_at house_nn1 ,1960,location_out,house,bag,carry
+get_vvi action_nn1 by_ii the_at house_nn1 ,1961,instrument,house,action,get
+rank_vvg_nn1 republican_nn1 on_ii the_at house_nn1 ,1961,location_on,house,republican,rank
+run_vvi the_at house_nn1 from_ii the_at speaker_nn1 ,1961,locatum_out,house,speaker,run
+have_vhd no_at word_nn1 from_ii the_at house_nn1 ,1961,location_out,house,word,have
+get_vvg interference_nn1 from_ii the_at house_nn1 ,1961,location_out,house,interference,get
+keep_vvi house_nn1 on_ii a_at1 bar_nn1 ,1961,locatum_on,house,bar,keep
+put_vvn the_at house_nn1 on_ii the_at market_nn1 ,1961,locatum_on,house,market,put
+provide_vvg the_at queen_nn1 with_iw a_at1 house_nn1 ,1962,instrument,house,queen,provide
+await_vvg action_nn1 by_ii the_at house_nn1 ,1962,instrument,house,action,await
+shield_vvd_vvn the_at house_nn1 from_ii the_at road_nn1 ,1962,locatum_out,house,road,shield
+have_vh0 a_at1 drink_nn1 on_ii the_at house_nn1 ,1962,location_on,house,drink,have
+open_vvd the_at attack_nn1 on_ii the_at house_nn1 ,1962,location_on,house,attack,open
+rank_vvg_nn1 republican_nn1 on_ii the_at house_nn1 ,1962,location_on,house,republican,rank
+assault_vvi the_at bill_nn1 on_ii the_at house_nn1 ,1963,location_on,house,bill,assault
+rank_vvg_nn1 republican_nn1 on_ii the_at house_nn1 ,1963,location_on,house,republican,rank
+be_vbi no_at fight_nn1 on_ii the_at house_nn1 ,1963,location_on,house,fight,be
+push_vvg the_at measure_nn1 through_ii the_at house_nn1 ,1964,instrument,house,measure,push
+buzz_vvd the_at kitchen_nn1 on_ii the_at house_nn1 ,1964,location_on,house,kitchen,buzz
+have_vhz a_at1 watch_nn1 on_ii the_at house_nn1 ,1965,location_on,house,watch,have
+place_vvn a_at1 binder_nn1 on_ii the_at house_nn1 ,1966,location_on,house,binder,place
+pass_vvi the_at house_nn1 on_ii his_appge way_nn1 ,1966,locatum_on,house,way,pass
+use_vvz the_at body_nn1 as_ii_csa a_at1 house_nn1 ,1966,agent,house,body,use
+obtain_vvg leave_nn1_vv0 from_ii the_at house_nn1 ,1966,location_out,house,leave,obtain
+make_vvd my_appge way_nn1 through_ii a_at1 house_nn1 ,1966,instrument,house,way,make
+reach_vvd_vvn a_at1 compromise_nn1 on_ii a_at1 house_nn1 ,1967,location_on,house,compromise,reach
+help_vvd_vvn my_appge wife_nn1 with_iw the_at house_nn1 ,1967,instrument,house,wife,help
+enter_vvg the_at house_nn1 on_ii the_at shoulder_nn2 ,1968,locatum_on,house,shoulder,enter
+be_vbdz no_at light_nn1_jj from_ii the_at house_nn2 ,1968,location_out,house,light,be
+move_vvi the_at house_nn2 on_ii the_at hill_nn1 ,1968,locatum_on,house,hill,move
+get_vv0 a_at1 sherry_nn1 on_ii the_at house_nn1 ,1968,location_on,house,sherry,get
+give_vvg an_at1 order_nn1 on_ii the_at house_nn1 ,1969,location_on,house,order,give
+collect_vvd the_at hit_nn2 from_ii the_at house_nn1 ,1969,location_out,house,hit,collect
+be_vbdz the_at case_nn1 as_csa the_at house_nn1 ,1969,agent,house,case,be
+request_vv0 a_at1 conference_nn1 with_iw the_at house_nn1 ,1969,instrument,house,conference,request
+be_vbdz the_at symbol_nn1 on_ii the_at house_nn1 ,1970,location_on,house,symbol,be
+vote_vv0_nn1 an_at1 attempt_nn1 by_ii the_at house_nn1 ,1970,instrument,house,attempt,vote
+expel_vvi lyon_np1 from_ii the_at house_nn1 ,1970,location_out,house,lyon,expel
+take_vvz her_appge eye_nn2 from_ii the_at house_nn1 ,1970,location_out,house,eye,take
+buy_vvg a_at1 house_nn1 on_ii the_at height_nn2 ,1970,locatum_on,house,height,buy
+consider_vvd_vvn radical_nn1_jj by_ii the_at house_nn1 ,1971,instrument,house,radical,consider
+be_vbz your_appge house_nn1 from_ii the_at freeway_nn1 ,1971,locatum_out,house,freeway,be
+call_vvi a_at1 cab_nn1 from_ii the_at house_nn1 ,1971,location_out,house,cab,call
+rank_vvg_nn1 republican_nn1 on_ii the_at house_nn1 ,1971,location_on,house,republican,rank
+have_vh0 a_at1 drink_nn1 on_ii the_at house_nn1 ,1971,location_on,house,drink,have
+serve_vvg drink_nn2 on_ii the_at house_nn1 ,1971,location_on,house,drink,serve
+take_vvz place_nn1 on_ii the_at house_nn1 ,1971,location_on,house,place,take
+have_vhi the_at bill_nn1 through_ii the_at house_nn1 ,1971,instrument,house,bill,have
+freeze_vv0_nn1 frame_nn1 on_ii the_at house_nn1 ,1972,location_on,house,frame,freeze
+get_vvi a_at1 job_nn1 with_iw the_at house_nn1 ,1972,instrument,house,job,get
+light_vvd_vvn the_at house_nn2 on_ii the_at east_nd1 ,1972,locatum_on,house,east,light
+want_vv0 no_at tie_nn1 with_iw your_appge house_nn1 ,1972,instrument,house,tie,want
+turn_vvn my_appge back_nn1 on_ii the_at house_nn1 ,1973,location_on,house,back,turn
+connect_vvg the_at store_nn1 with_iw the_at house_nn1 ,1973,instrument,house,store,connect
+buy_vvd_vvn a_at1 house_nn1 on_ii the_at beach_nn1 ,1973,locatum_on,house,beach,buy
+have_vhi a_at1 house_nn1 on_ii the_at vineyard_nn1 ,1973,locatum_on,house,vineyard,have
+put_vv0_vvd their_appge house_nn2 on_ii the_at market_nn1 ,1974,locatum_on,house,market,put
+place_vvd the_at house_nn1 on_ii a_at1 map_nn1 ,1974,locatum_on,house,map,place
+separate_vvi terry_np1 from_ii her_appge house_nn1 ,1974,location_out,house,terry,separate
+blow_vvz_nn2 air_nn1 from_ii the_at house_nn1 ,1974,location_out,house,air,blow
+rank_vvg_nn1 republican_nn1 on_ii the_at house_nn1 ,1975,location_on,house,republican,rank
+approach_vvg the_at house_nn1 from_ii the_at highway_nn1 ,1975,locatum_out,house,highway,approach
+run_vvg a_at1 cable_nn1 from_ii the_at house_nn1 ,1975,location_out,house,cable,run
+swab_vvd my_appge way_nn1 through_ii his_appge house_nn1 ,1976,instrument,house,way,swab
+be_vbdz no_at sound_nn1 from_ii the_at house_nn1 ,1976,location_out,house,sound,be
+call_vvi justine_np1 from_ii our_appge house_nn1 ,1976,location_out,house,justine,call
+call_vvi leonard_np1 from_ii the_at house_nn1 ,1976,location_out,house,leonard,call
+hide_vvg the_at house_nn1 from_ii the_at road_nn1 ,1976,locatum_out,house,road,hide
+pay_vvi the_at mortgage_nn1 on_ii the_at house_nn1 ,1976,location_on,house,mortgage,pay
+unfurl_vvd_vvn a_at1 banner_nn1 from_ii the_at house_nn1 ,1977,location_out,house,banner,unfurl
+remove_vv0 warmth_nn1 from_ii the_at house_nn1 ,1977,location_out,house,warmth,remove
+buy_vvd_vvn the_at house_nn1 from_ii her_appge executor_nn1 ,1978,locatum_out,house,executor,buy
+await_vv0 the_at bill_nn1 on_ii the_at house_nn1 ,1978,location_on,house,bill,await
+make_vvn a_at1 deposit_nn1 on_ii a_at1 house_nn1 ,1978,location_on,house,deposit,make
+steal_vvg chicken_nn2 from_ii the_at house_nn2 ,1978,location_out,house,chicken,steal
+rebuild_vvg the_at door_nn1 on_ii his_appge house_nn1 ,1979,location_on,house,door,rebuild
+order_vvn vasili_nn1_jj_np1 from_ii his_appge house_nn1 ,1979,location_out,house,vasili,order
+ignore_vvd order_nn2 from_ii the_at house_nn1 ,1979,location_out,house,order,ignore
+hev_vh0 a_at1 drink_nn1 on_ii the_at house_nn1 ,1979,location_on,house,drink,hev
+have_vhi a_at1 drink_nn1 on_ii the_at house_nn1 ,1979,location_on,house,drink,have
+wrench_vvi the_at amendment_nn1 from_ii the_at house_nn1 ,1979,location_out,house,amendment,wrench
+have_vh0 a_at1 stake_nn1 on_ii the_at house_nn1 ,1979,location_on,house,stake,have
+have_vhd a_at1 house_nn1 on_ii the_at ile_np1_jj_nn1 ,1980,locatum_on,house,ile,have
+have_vhi a_at1 house_nn1 on_ii the_at vineyard_nn1 ,1980,locatum_on,house,vineyard,have
+take_vv0 the_at throne_nn1 be_vbz a_at1 house_nn1 ,1980,goal,house,throne,take
+lease_vvd_vvn his_appge house_nn1 from_ii the_at grosvenor_np1 ,1980,locatum_out,house,grosvenor,lease
+take_vvi a_at1 coat_nn1 from_ii his_appge house_nn1 ,1980,location_out,house,coat,take
+paint_vv0_nn1 number_nn2 on_ii the_at house_nn2 ,1981,location_on,house,number,paint
+put_vvg her_appge house_nn1 on_ii the_at market_nn1 ,1981,locatum_on,house,market,put
+push_vvn his_appge program_nn2 through_ii the_at house_nn1 ,1981,instrument,house,program,push
+keep_vvi pressure_nn1 on_ii the_at house_nn1 ,1981,location_on,house,pressure,keep
+make_vvn arrangement_nn2 with_iw the_at house_nn1 ,1982,instrument,house,arrangement,make
+discuss_vvi the_at matter_nn1 with_iw a_at1 house_nn1 ,1982,instrument,house,matter,discuss
+lead_vvd david_np1 through_ii the_at house_nn1 ,1982,instrument,house,david,lead
+become_vvi the_at conservative_nn1_jj with_iw a_at1 house_nn1 ,1982,instrument,house,conservative,become
+get_vvi the_at house_nn1 on_ii the_at plane_nn1 ,1983,locatum_on,house,plane,get
+commission_vvd a_at1 house_nn1 from_ii an_at1 architect_nn1 ,1983,locatum_out,house,architect,commission
+open_vvd_vvn fire_nn1 on_ii the_at house_nn1 ,1983,location_on,house,fire,open
+rent_vvd the_at house_nn1 from_ii every_at1 year_nnt1 ,1983,locatum_out,house,year,rent
+make_vvg improvement_nn2 on_ii their_appge house_nn2 ,1983,location_on,house,improvement,make
+be_vbi the_at investigation_nn1 by_ii the_at house_nn1 ,1983,instrument,house,investigation,be
+forestal_vvd action_nn1 on_ii the_at house_nn1 ,1983,location_on,house,action,forestal
+put_vvi the_at house_nn2 on_ii the_at market_nn1 ,1983,locatum_on,house,market,put
+have_vhd a_at1 house_nn1 on_ii the_at beach_nn1 ,1984,locatum_on,house,beach,have
+put_vvd his_appge house_nn1 on_ii the_at market_nn1 ,1984,locatum_on,house,market,put
+carry_vvd_vvn luggage_nn1 from_ii the_at house_nn1 ,1985,location_out,house,luggage,carry
+build_vvi a_at1 house_nn1 from_ii her_appge profit_nn2 ,1985,locatum_out,house,profit,build
+buy_vvd a_at1 house_nn1 on_ii the_at hudson_np1 ,1985,locatum_on,house,hudson,buy
+install_vvi a_at1 bracket_nn1 on_ii your_appge house_nn1 ,1985,location_on,house,bracket,install
+keep_vvd his_appge binoculars_nn2 on_ii the_at house_nn1 ,1986,location_on,house,binoculars,keep
+slant_vvg the_at house_nn1 on_ii an_at1 angle_nn1 ,1986,locatum_on,house,angle,slant
+be_vbz the_at situation_nn1 with_iw the_at house_nn1 ,1986,instrument,house,situation,be
+be_vbdz its_appge manager_nn1 on_ii the_at house_nn1 ,1986,location_on,house,manager,be
+engulf_vvi stout_nn1 on_ii the_at house_nn1 ,1987,location_on,house,stout,engulf
+hear_vvd a_at1 noise_nn1 from_ii the_at house_nn1 ,1987,location_out,house,noise,hear
+run_vvi the_at channel_nn1 through_ii the_at house_nn1 ,1987,instrument,house,channel,run
+run_vvi the_at channel_nn1 through_ii the_at house_nn1 ,1987,instrument,house,channel,run
+involve_vvg figure_nn2 from_ii every_at1 house_nn1 ,1987,location_out,house,figure,involve
+watch_vv0 the_at scene_nn2 by_ii our_appge house_nn1 ,1987,instrument,house,scene,watch
+drop_vvd_vvn a_at1 bomb_nn1 on_ii a_at1 house_nn1 ,1987,location_on,house,bomb,drop
+see_vvi a_at1 thing_nn1 from_ii the_at house_nn1 ,1988,location_out,house,thing,see
+jj_vvg water_nn1 from_ii the_at house_nn1 ,1988,location_out,house,water,jj
+take_vvg her_appge solace_nn1 from_ii the_at house_nn1 ,1989,location_out,house,solace,take
+hear_vvd a_at1 talk_nn1 by_ii his_appge house_nn1 ,1989,instrument,house,talk,hear
+rank_vvg_nn1 republican_nn1 on_ii the_at house_nn1 ,1989,location_on,house,republican,rank
+be_vbdz no_at number_nn1 on_ii the_at house_nn1 ,1989,location_on,house,number,be
+enter_vv0 petra_nn1_np1 from_ii the_at house_nn1 ,1990,location_out,house,petra,enter
+give_vvg a_at1 mortgage_nn1 on_ii a_at1 house_nn1 ,1990,location_on,house,mortgage,give
+clap_vvz their_appge hand_nn2 as_ii_csa the_at house_nn1 ,1991,agent,house,hand,clap
+buy_vvd_vvn a_at1 house_nn1 from_ii his_appge brother_nn1 ,1991,locatum_out,house,brother,buy
+visit_vv0_nn1 the_at house_nn1 on_ii the_at way_nn1 ,1992,locatum_on,house,way,visit
+put_vvi the_at house_nn1 on_ii the_at market_nn1 ,1992,locatum_on,house,market,put
+put_vv0_vvd_vvn addition_nn2 on_ii their_appge house_nn2 ,1992,location_on,house,addition,put
+work_vvg its_appge way_nn1 through_ii the_at house_nn1 ,1993,instrument,house,way,work
+keep_vvg an_at1 eye_nn1 on_ii the_at house_nn1 ,1993,location_on,house,eye,keep
+be_vbz the_at degeneration_nn1 from_ii the_at house_nn1 ,1993,location_out,house,degeneration,be
+park_vvn_vvd a_at1 block_nn1 from_ii her_appge house_nn1 ,1993,location_out,house,block,park
+drop_vvn a_at1 house_nn1 on_ii a_at1 witch_nn1 ,1993,locatum_on,house,witch,drop
+build_vvd_vvn a_at1 room_nn1 onto_ii the_at house_nn1 ,1993,location_on,house,room,build
+loosen_vvz shingle_nn2 on_ii our_appge house_nn1 ,1993,location_on,house,shingle,loosen
+cast_vvi a_at1 shadow_nn1 on_ii the_at house_nn1 ,1993,location_on,house,shadow,cast
+take_vvi addy_nn1_jj_np1 from_ii the_at house_nn1 ,1993,location_out,house,addy,take
+deliver_vvz speech_nn2 on_ii the_at house_nn1 ,1994,location_on,house,speech,deliver
+spend_vvd hour_nnt2 on_ii the_at house_nn1 ,1994,location_on,house,hour,spend
+get_vv0 seat_nn2 on_ii the_at house_nn1 ,1994,location_on,house,seat,get
+need_vvd a_at1 pass_nn1 from_ii the_at house_nn1 ,1994,location_out,house,pass,need
+shield_vvd_vvn the_at house_nn1 from_ii the_at street_nn1 ,1995,locatum_out,house,street,shield
+remove_vvd_vvn bag_nn2 from_ii the_at house_nn1 ,1995,location_out,house,bag,remove
+lick_vvd the_at gutter_nn1 on_ii your_appge house_nn1 ,1995,location_on,house,gutter,lick
+put_vvn the_at house_nn1 on_ii the_at market_nn1 ,1995,locatum_on,house,market,put
+buy_vvd a_at1 house_nn1 on_ii the_at property_nn1 ,1995,locatum_on,house,property,buy
+get_vvi a_at1 house_nn1 on_ii a_at1 lake_nn1 ,1995,locatum_on,house,lake,get
+get_vvz a_at1 drink_nn1 on_ii the_at house_nn1 ,1995,location_on,house,drink,get
+go_vvg halve_nn2_vvz on_ii a_at1 house_nn1 ,1996,location_on,house,halve,go
+be_vbdr a_at1 mile_nnu1 from_ii the_at house_nn1 ,1996,location_out,house,mile,be
+be_vbdz no_at answer_nn1 from_ii the_at house_nn1 ,1996,location_out,house,answer,be
+have_vhz a_at1 house_nn1 on_ii a_at1 mountain_nn1 ,1996,locatum_on,house,mountain,have
+approach_vvi the_at house_nn1 from_ii the_at rear_nn1_jj ,1996,locatum_out,house,rear,approach
+hear_vv0 his_appge movement_nn2 through_ii the_at house_nn1 ,1997,instrument,house,movement,hear
+sell_vvz thing_nn2 from_ii the_at house_nn1 ,1997,location_out,house,thing,sell
+hang_vvi sign_nn2 on_ii their_appge house_nn2 ,1997,location_on,house,sign,hang
+drop_vvn a_at1 bomb_nn1 on_ii the_at house_nn1 ,1997,location_on,house,bomb,drop
+jj_vvd chicken_nn1 with_iw the_at house_nn1 ,1997,instrument,house,chicken,jj
+lose_vvi money_nn1 on_ii a_at1 house_nn1 ,1998,location_on,house,money,lose
+suck_vvd_vvn warmth_nn1 from_ii the_at house_nn1 ,1998,location_out,house,warmth,suck
+warrant_vv0 impeachment_nn1 by_ii the_at house_nn1 ,1998,instrument,house,impeachment,warrant
+put_vvi an_at1 addition_nn1 onto_ii their_appge house_nn1 ,1998,location_on,house,addition,put
+write_vv0 a_at1 check_nn1 on_ii the_at house_nn1 ,1998,location_on,house,check,write
+sit_vvg the_at house_nn1 on_ii your_appge lot_nn1 ,1999,locatum_on,house,lot,sit
+bustle_vvz fanny_nn1_jj_np1 through_ii the_at house_nn1 ,1999,instrument,house,fanny,bustle
+get_vvi insurance_nn1 on_ii a_at1 house_nn1 ,1999,location_on,house,insurance,get
+see_vvi her_appge house_nn1 from_ii the_at street_nn1 ,1999,locatum_out,house,street,see
+buy_vvi a_at1 house_nn1 on_ii the_at inglenook_np1 ,2000,locatum_on,house,inglenook,buy
+unnerve_vvg problem_nn2 with_iw the_at house_nn1 ,2000,instrument,house,problem,unnerve
+leave_vvg the_at house_nn1 on_ii the_at morning_nnt2 ,2000,locatum_on,house,morning,leave
+light_vvi our_appge way_nn1 through_ii the_at house_nn1 ,2000,instrument,house,way,light
+lift_vvg the_at house_nn2 from_ii their_appge brace_nn2 ,2000,locatum_out,house,brace,lift
+contact_vv0 your_appge representative_nn1_jj via_ii the_at house_nn1 ,2000,instrument,house,representative,contact
+shoot_vvd the_at bird_nn1 on_ii the_at house_nn1 ,2000,location_on,house,bird,shoot
+build_vv0 an_at1 addition_nn1 onto_ii the_at house_nn1 ,2001,location_on,house,addition,build
+ii_vvg the_at confrontation_nn1 with_iw the_at house_nn1 ,2001,instrument,house,confrontation,ii
+make_vvi payment_nn2 on_ii your_appge house_nn1 ,2001,location_on,house,payment,make
+pay_vvn the_at mortgage_nn1 on_ii the_at house_nn1 ,2001,location_on,house,mortgage,pay
+hear_vvz a_at1 house_nn1 on_ii his_appge street_nn1 ,2001,locatum_on,house,street,hear
+put_vvi the_at house_nn1 on_ii the_at market_nn1 ,2001,locatum_on,house,market,put
+contain_vvg information_nn1 on_ii the_at house_nn1 ,2001,location_on,house,information,contain
+be_vbdz no_at door_nn1 from_ii the_at house_nn1 ,2001,location_out,house,door,be
+list_vvg_nn1 agreement_nn1 on_ii the_at house_nn1 ,2002,location_on,house,agreement,list
+build_vvi a_at1 house_nn1 on_ii the_at island_nn1 ,2002,locatum_on,house,island,build
+feel_vvg my_appge way_nn1 through_ii a_at1 house_nn1 ,2002,instrument,house,way,feel
+screen_vvd_vvn the_at house_nn1 from_ii the_at street_nn1 ,2002,locatum_out,house,street,screen
+rank_vvg_nn1 democrat_nn1 on_ii the_at house_nn1 ,2003,location_on,house,democrat,rank
+be_vbi waxman_nn1_np1 on_ii the_at house_nn1 ,2003,location_on,house,waxman,be
+have_vhi no_at spy_nn2 from_ii the_at house_nn1 ,2003,location_out,house,spy,have
+make_vvg his_appge way_nn1 from_ii the_at house_nn1 ,2003,location_out,house,way,make
+be_vbdz no_at sign_nn1 on_ii the_at house_nn1 ,2004,location_on,house,sign,be
+build_vvd the_at trail_nn1 from_ii his_appge house_nn1 ,2004,location_out,house,trail,build
+put_vvn a_at1 contract_nn1 on_ii a_at1 house_nn1 ,2004,location_on,house,contract,put
+own_vvd_vvn a_at1 house_nn1 on_ii the_at lake_nn1 ,2004,locatum_on,house,lake,own
+tire_vv0 track_nn2 from_ii his_appge house_nn1 ,2004,location_out,house,track,tire
+leave_vvz his_appge house_nn1 on_ii the_at corner_nn1 ,2004,locatum_on,house,corner,leave
+keep_vvi tab_nn2 on_ii my_appge house_nn1 ,2004,location_on,house,tab,keep
+have_vhd drink_nn2 on_ii the_at house_nn1 ,2005,location_on,house,drink,have
+do_vdd a_at1 project_nn1 on_ii the_at house_nn1 ,2005,location_on,house,project,do
+catch_vvd_vvn his_appge attention_nn1 as_ii_csa the_at house_nn1 ,2005,agent,house,attention,catch
+ban_vv0 alcohol_nn1 from_ii their_appge house_nn2 ,2005,location_out,house,alcohol,ban
+enter_vvz the_at house_nn1 from_ii the_at back_nn1 ,2005,locatum_out,house,back,enter
+leave_vvd a_at1 message_nn1 on_ii our_appge house_nn1 ,2005,location_on,house,message,leave
+bring_vvd tony_np1 by_ii the_at house_nn1 ,2005,instrument,house,tony,bring
+call_vvn marilyn_np1 on_ii the_at house_nn1 ,2005,location_on,house,marilyn,call
+have_vh0 the_at bottle_nn1 on_ii the_at house_nn1 ,2005,location_on,house,bottle,have
+be_vbdz a_at1 rock_nn1 with_iw a_at1 house_nn1 ,2005,instrument,house,rock,be
+find_vvi her_appge father_nn1 with_iw a_at1 house_nn1 ,2006,instrument,house,father,find
+put_vvd_vv0_vvn the_at house_nn1 on_ii the_at market_nn1 ,2006,locatum_on,house,market,put
+seek_vvd support_nn1_vv0 from_ii the_at house_nn1 ,2006,location_out,house,support,seek
+build_vvd a_at1 house_nn1 on_ii his_appge grandmother_nn1 ,2006,locatum_on,house,grandmother,build
+remove_vvi the_at mirror_nn2 from_ii the_at house_nn1 ,2006,location_out,house,mirror,remove
+reach_vvi the_at house_nn1 on_ii the_at corner_nn1 ,2006,locatum_on,house,corner,reach
+sell_vvd_vvn the_at couple_nn1 on_ii the_at house_nn1 ,2007,location_on,house,couple,sell
+inspect_vv0 the_at house_nn1 from_ii the_at attic_nn1 ,2007,locatum_out,house,attic,inspect
+put_vvi battlement_nn2 on_ii their_appge house_nn2 ,2007,location_on,house,battlement,put
+go_vvg piggyback_nn1 on_ii a_at1 house_nn1 ,2007,location_on,house,piggyback,go
+lead_vvi a_at1 fight_nn1 on_ii the_at house_nn1 ,2007,location_on,house,fight,lead
+see_vvn every_at1 day_nnt1 from_ii the_at house_nn1 ,2007,location_out,house,day,see
+haul_vvg furniture_nn1 from_ii the_at house_nn1 ,2008,location_out,house,furniture,haul
+remove_vvd the_at hate_nn1 from_ii our_appge house_nn1 ,2009,location_out,house,hate,remove
+pass_vvd wednesday_npd1 by_ii the_at house_nn1 ,2009,instrument,house,wednesday,pass
+be_vbz a_at1 levy_nn1 on_ii the_at wealth_nn1 ,1827,locatum_on,levy,wealth,be
+exclude_vvi art_nn1 by_ii a_at1 levy_nn1 ,1894,instrument,levy,art,exclude
+involve_vvz a_at1 levy_nn1 on_ii the_at pay_nn1 ,1931,locatum_on,levy,pay,involve
+attack_vvi the_at levy_nn1 from_ii every_at1 angle_nn1 ,1960,locatum_out,levy,angle,attack
+empty_vvi your_appge pocket_nn2 on_ii the_at match_nn1 ,1852,location_on,match,pocket,empty
+light_vvd a_at1 cigar_nn1 with_iw a_at1 match_nn1 ,1853,instrument,match,cigar,light
+strike_vvd a_at1 light_nn1_jj with_iw a_at1 match_nn1 ,1859,instrument,match,light,strike
+find_vvi fault_nn1 with_iw the_at match_nn1 ,1860,instrument,match,fault,find
+take_vvd a_at1 match_nn1 from_ii his_appge pocket_nn1 ,1866,locatum_out,match,pocket,take
+be_vbdr match_nn2 on_ii the_at bureau_nn1 ,1867,locatum_on,match,bureau,be
+regard_vvi the_at decision_nn1 as_ii a_at1 match_nn1 ,1868,agent,match,decision,regard
+take_vvd a_at1 match_nn1 from_ii his_appge pocket_nn1 ,1871,locatum_out,match,pocket,take
+strike_vvd the_at match_nn1 from_ii yer_appge hand_nn1 ,1871,locatum_out,match,hand,strike
+scratch_vvg_nn1 match_nn2_vvz on_ii his_appge nose_nn1 ,1874,locatum_on,match,nose,scratch
+snatch_vvd_vvn the_at match_nn1 from_ii the_at hand_nn1 ,1874,locatum_out,match,hand,snatch
+strike_vvd a_at1 match_nn1 on_ii his_appge coat_nn1 ,1878,locatum_on,match,coat,strike
+get_vvz a_at1 match_nn1 from_ii his_appge pocket_nn1 ,1879,locatum_out,match,pocket,get
+strike_vvd_vvn a_at1 match_nn1 on_ii his_appge trouser_nn2 ,1882,locatum_on,match,trouser,strike
+be_vbr match_nn2 on_ii the_at mantelpiece_nn1 ,1883,locatum_on,match,mantelpiece,be
+strike_vvg a_at1 match_nn1 on_ii his_appge thigh_nn1 ,1884,locatum_on,match,thigh,strike
+strike_vvi a_at1 match_nn1 on_ii the_at hearth_nn1 ,1888,locatum_on,match,hearth,strike
+take_vvd a_at1 match_nn1 from_ii his_appge pocket_nn1 ,1896,locatum_out,match,pocket,take
+take_vvd a_at1 match_nn1 from_ii his_appge pocket_nn1 ,1896,locatum_out,match,pocket,take
+take_vvg a_at1 match_nn1 from_ii the_at china_nn1 ,1896,locatum_out,match,china,take
+dry_vvg the_at match_nn2 on_ii her_appge breast_nn1 ,1903,locatum_on,match,breast,dry
+hinder_vvi her_appge sister_nn1 from_ii the_at match_nn1 ,1905,location_out,match,sister,hinder
+scratch_vvg_nn1 match_nn1_vv0 on_ii the_at plaster_nn1 ,1907,locatum_on,match,plaster,scratch
+strike_vvg the_at match_nn1 on_ii his_appge heel_nn1 ,1911,locatum_on,match,heel,strike
+strike_vvg a_at1 match_nn1 on_ii the_at underside_nn1 ,1913,locatum_on,match,underside,strike
+take_vvd a_at1 match_nn1 from_ii his_appge pocket_nn1 ,1913,locatum_out,match,pocket,take
+strike_vvd a_at1 match_nn1 on_ii the_at face_nn1 ,1913,locatum_on,match,face,strike
+take_vvd a_at1 match_nn1 from_ii his_appge pocket_nn1 ,1915,locatum_out,match,pocket,take
+burn_vvi my_appge hand_nn1 with_iw a_at1 match_nn1 ,1917,instrument,match,hand,burn
+strike_vv0 a_at1 match_nn1 on_ii my_appge boot_nn1 ,1917,locatum_on,match,boot,strike
+take_vvd match_nn2 from_ii his_appge pocket_nn1 ,1918,locatum_out,match,pocket,take
+favor_vvd the_at match_nn1 from_ii the_at start_nn1 ,1920,locatum_out,match,start,favor
+extract_vvd a_at1 match_nn1 from_ii the_at tin_nn1 ,1920,locatum_out,match,tin,extract
+draw_vvd a_at1 match_nn1 from_ii his_appge pocket_nn1 ,1921,locatum_out,match,pocket,draw
+take_vvi the_at match_nn2 from_ii his_appge hand_nn2 ,1921,locatum_out,match,hand,take
+take_vvi the_at match_nn2 from_ii my_appge pocket_nn1 ,1922,locatum_out,match,pocket,take
+be_vbz match_nn2 on_ii the_at stand_nn1 ,1922,locatum_on,match,stand,be
+strike_vvz the_at match_nn1 on_ii the_at arm_nn1 ,1924,locatum_on,match,arm,strike
+take_vvd a_at1 match_nn1 from_ii his_appge shirt_nn1 ,1925,locatum_out,match,shirt,take
+pick_vvd_vvn a_at1 match_nn1 from_ii her_appge_ppho1 pucker_nn1_vvg ,1927,locatum_out,match,pucker,pick
+get_vvg a_at1 match_nn1 from_ii the_at mantelpiece_nn1 ,1927,locatum_out,match,mantelpiece,get
+take_vvz a_at1 match_nn1 from_ii an_at1 ash_nn1 ,1930,locatum_out,match,ash,take
+be_vbdr match_nn2 on_ii his_appge bureau_nn1 ,1930,locatum_on,match,bureau,be
+strike_vvd_vvn a_at1 match_nn1 on_ii his_appge thumbnail_nn1 ,1931,locatum_on,match,thumbnail,strike
+throw_vvd the_at match_nn1 from_ii his_appge cigarette_nn1 ,1932,locatum_out,match,cigarette,throw
+strike_vv0_nn1 a_at1 match_nn1 on_ii the_at brick_nn2 ,1935,locatum_on,match,brick,strike
+strike_vvg a_at1 match_nn1 on_ii his_appge slipper_nn1 ,1938,locatum_on,match,slipper,strike
+scratch_vvd a_at1 match_nn1 on_ii his_appge box_nn1 ,1938,locatum_on,match,box,scratch
+strike_vvd a_at1 match_nn1 on_ii his_appge thumbnail_nn1 ,1940,locatum_on,match,thumbnail,strike
+throw_vvg the_at match_nn1 on_ii the_at floor_nn1 ,1941,locatum_on,match,floor,throw
+take_vvd a_at1 match_nn1 from_ii his_appge pocket_nn1 ,1942,locatum_out,match,pocket,take
+pull_vvd a_at1 match_nn1 from_ii his_appge pocket_nn1 ,1942,locatum_out,match,pocket,pull
+scratch_vvd a_at1 match_nn1 on_ii his_appge thumbnail_nn1 ,1943,locatum_on,match,thumbnail,scratch
+strike_vvd a_at1 match_nn1 on_ii the_at chimney_nn1 ,1944,locatum_on,match,chimney,strike
+fling_vvd the_at match_nn1 on_ii the_at floor_nn1 ,1945,locatum_on,match,floor,fling
+take_vvz match_nn1 from_ii his_appge pocket_nn1 ,1946,locatum_out,match,pocket,take
+scratch_vvd a_at1 match_nn1 on_ii his_appge shoe_nn1 ,1947,locatum_on,match,shoe,scratch
+strike_vvd a_at1 match_nn1 on_ii his_appge thigh_nn1 ,1947,locatum_on,match,thigh,strike
+have_vhd trouble_nn1 with_iw their_appge match_nn2 ,1948,instrument,match,trouble,have
+throw_vvd the_at match_nn1 on_ii the_at floor_nn1 ,1948,locatum_on,match,floor,throw
+take_vvd a_at1 match_nn1 from_ii the_at box_nn1 ,1949,locatum_out,match,box,take
+take_vvz a_at1 match_nn1 from_ii the_at table_nn1 ,1949,locatum_out,match,table,take
+strike_vvz a_at1 match_nn1 on_ii the_at poster_nn1 ,1949,locatum_on,match,poster,strike
+shield_vvd the_at light_nn1_jj from_ii a_at1 match_nn1 ,1950,location_out,match,light,shield
+drop_vvd_vvn the_at match_nn1 on_ii the_at floor_nn1 ,1951,locatum_on,match,floor,drop
+pull_vvd a_at1 match_nn1 from_ii his_appge pocket_nn1 ,1952,locatum_out,match,pocket,pull
+drop_vvz the_at match_nn1 on_ii the_at floor_nn1 ,1952,locatum_on,match,floor,drop
+pick_vvd a_at1 match_nn1 from_ii his_appge block_nn1 ,1952,locatum_out,match,block,pick
+protect_vvi the_at match_nn1 from_ii the_at eye_nn1 ,1954,locatum_out,match,eye,protect
+sharpen_vv0 their_appge tooth_nn2 on_ii the_at match_nn2 ,1954,location_on,match,tooth,sharpen
+set_vvd_vv0_vvn his_appge foot_nn1 on_ii the_at match_nn1 ,1955,location_on,match,foot,set
+take_vvg a_at1 match_nn1 from_ii the_at aussie_nn2 ,1955,locatum_out,match,aussie,take
+pick_vvd his_appge tooth_nn2 with_iw a_at1 match_nn1 ,1956,instrument,match,tooth,pick
+play_vvg the_at match_nn1 from_ii a_at1 clubhouse_nn1 ,1957,locatum_out,match,clubhouse,play
+light_vvi a_at1 cigarette_nn1 from_ii a_at1 match_nn1 ,1959,location_out,match,cigarette,light
+would_vm a_at1 gardener_nn1 be_vbi a_at1 match_nn1 ,1960,goal,match,gardener,would
+lay_vvd_vvn the_at match_nn1 on_ii the_at edge_nn1 ,1960,locatum_on,match,edge,lay
+be_vbn bet_nn1 on_ii the_at match_nn1 ,1962,location_on,match,bet,be
+strike_vvd a_at1 match_nn1 on_ii his_appge shoe_nn1 ,1962,locatum_on,match,shoe,strike
+snap_vvz the_at mainmast_nn1 like_ii a_at1 match_nn1 ,1963,agent,match,mainmast,snap
+light_vvd_vvn its_appge fuse_nn1 with_iw a_at1 match_nn1 ,1964,instrument,match,fuse,light
+pop_vvd a_at1 match_nn1 on_ii the_at dash_nn1 ,1965,locatum_on,match,dash,pop
+break_vvd his_appge hand_nn1 like_ii a_at1 match_nn1 ,1965,agent,match,hand,break
+strike_vv0 a_at1 match_nn1 on_ii his_appge thumbnail_nn1 ,1969,locatum_on,match,thumbnail,strike
+strike_vvz a_at1 match_nn1 on_ii his_appge thumbnail_nn1 ,1969,locatum_on,match,thumbnail,strike
+strike_vvz a_at1 match_nn1 on_ii a_at1 street_nn1 ,1973,locatum_on,match,street,strike
+make_vvn a_at1 church_nn1 with_iw his_appge match_nn2 ,1978,instrument,match,church,make
+pout_vvi his_appge way_nn1 through_ii the_at match_nn1 ,1978,instrument,match,way,pout
+take_vvz the_at match_nn1 from_ii the_at sugar_nn1 ,1979,locatum_out,match,sugar,take
+take_vvz the_at match_nn1 from_ii the_at sugar_nn1 ,1979,locatum_out,match,sugar,take
+strike_vvd_vvn a_at1 match_nn1 on_ii the_at seat_nn1 ,1982,locatum_on,match,seat,strike
+throw_vvn a_at1 match_nn1 onto_ii a_at1 pile_nn1 ,1982,locatum_on,match,pile,throw
+strike_vvd_vvn a_at1 match_nn1 on_ii his_appge pant_nn2 ,1983,locatum_on,match,pant,strike
+get_vvz match_nn2 from_ii the_at table_nn1 ,1986,locatum_out,match,table,get
+strike_vvi a_at1 match_nn1 on_ii a_at1 girl_nn1 ,1987,locatum_on,match,girl,strike
+force_vvd_vvn her_appge withdrawal_nn1 from_ii her_appge match_nn1 ,1989,location_out,match,withdrawal,force
+strike_vvg the_at match_nn1 on_ii her_appge boot_nn1 ,1997,locatum_on,match,boot,strike
+find_vvz the_at candelero_nn1 with_iw the_at match_nn2 ,1998,instrument,match,candelero,find
+strike_vvd_vvn a_at1 match_nn1 on_ii the_at underside_nn1 ,1999,locatum_on,match,underside,strike
+say_vvd dryel_np1 be_vbdz no_at match_nn1 ,2000,goal,match,dryel,say
+get_vvn the_at match_nn2 from_ii my_appge grandmother_nn1 ,2000,locatum_out,match,grandmother,get
+light_vvd the_at cigarette_nn1 with_iw a_at1 match_nn1 ,2002,instrument,match,cigarette,light
+get_vv0 the_at match_nn2 from_ii the_at kitchen_nn1 ,2004,locatum_out,match,kitchen,get
+toss_vvg the_at match_nn1 on_ii the_at fuel_nn1 ,2009,locatum_on,match,fuel,toss
+enter_vvi my_appge mind_nn1 during_ii a_at1 match_nn1 ,2009,duration,match,mind,enter
+get_vvi a_at1 match_nn1 on_ii her_appge print_nn2 ,2009,locatum_on,match,print,get
+have_vh0 match_nn2 on_ii your_appge person_nn1 ,2009,locatum_on,match,person,have
+remove_vvz the_at rubber_nn1_jj from_ii the_at mix_nn1 ,1922,location_out,mix,rubber,remove
+blame_vvz the_at outbreak_nn1 on_ii the_at mix_nn1_vvg ,1955,location_on,mix,outbreak,blame
+twiddle_vvn the_at dial_nn2 on_ii their_appge mix_nn1 ,1976,location_on,mix,dial,twiddle
+trail_vv0_nn1 mix_nn2 from_ii the_at procter_nn1_np1 ,1988,locatum_out,mix,procter,trail
+adjust_vvg the_at carburetor_nn1 on_ii a_at1 mix_nn1 ,1989,location_on,mix,carburetor,adjust
+pluck_vvg pluto_np1 from_ii the_at mix_nn1 ,1999,location_out,mix,pluto,pluck
+stroke_vvg her_appge frond_nn2 with_iw a_at1 mix_nn1 ,2007,instrument,mix,frond,stroke
+eye_vvg lizzie_np1 with_iw a_at1 mix_nn1 ,2009,instrument,mix,lizzie,eye
+gain_vvi intelligence_nn1 from_ii the_at nurse_nn1 ,1834,location_out,nurse,intelligence,gain
+send_vv0 the_at nurse_nn1 from_ii the_at room_nn1 ,1835,locatum_out,nurse,room,send
+disguise_vvi its_appge effect_nn2 from_ii the_at nurse_nn1 ,1839,location_out,nurse,effect,disguise
+spend_vvi the_at afternoon_nnt1 with_iw your_appge nurse_nn1 ,1853,instrument,nurse,afternoon,spend
+get_vvg her_appge child_nn1 from_ii the_at nurse_nn1 ,1862,location_out,nurse,child,get
+seek_vvd a_at1 situation_nn1 as_ii_csa a_at1 nurse_nn1 ,1869,agent,nurse,situation,seek
+try_vvi her_appge power_nn2 as_ii_csa a_at1 nurse_nn1 ,1869,agent,nurse,power,try
+finish_vvi my_appge education_nn1 as_ii_csa a_at1 nurse_nn1 ,1869,agent,nurse,education,finish
+leave_vvd_vvn their_appge marks_nn2 on_ii the_at nurse_nn1 ,1870,location_on,nurse,marks,leave
+cut_vvg your_appge tooth_nn2 on_ii your_appge nurse_nn1 ,1870,location_on,nurse,tooth,cut
+leave_vvi direction_nn2 with_iw your_appge nurse_nn1 ,1871,instrument,nurse,direction,leave
+keep_vvz johnny_np1 with_iw the_at nurse_nn1 ,1872,instrument,nurse,johnny,keep
+play_vvn its_appge part_nn1 as_ii_csa the_at nurse_nn1 ,1877,agent,nurse,part,play
+earn_vvi her_appge_ppho1 living_nn1_vvg_jj as_ii_csa a_at1 nurse_nn1 ,1877,agent,nurse,living,earn
+supersede_vvd grace_np1 as_ii_csa a_at1 nurse_nn1 ,1881,agent,nurse,grace,supersede
+take_vvg her_appge baby_nn1 from_ii the_at nurse_nn1 ,1886,location_out,nurse,baby,take
+regard_vvi his_appge daughter_nn1 as_ii his_appge nurse_nn1 ,1888,agent,nurse,daughter,regard
+meet_vvd the_at nurse_nn1 on_ii the_at stair_nn2 ,1905,locatum_on,nurse,stair,meet
+sow_vvg_nn1 clover_nn1 with_iw a_at1 nurse_nn1 ,1906,instrument,nurse,clover,sow
+touch_vvg his_appge friendship_nn1 with_iw the_at nurse_nn1 ,1909,instrument,nurse,friendship,touch
+be_vbdz a_at1 letter_nn1 from_ii the_at nurse_nn2 ,1915,location_out,nurse,letter,be
+offer_vvi my_appge service_nn2 as_ii_csa a_at1 nurse_nn1 ,1915,agent,nurse,service,offer
+order_vvd the_at nurse_nn1 from_ii the_at room_nn1 ,1915,locatum_out,nurse,room,order
+have_vhd breakfast_nn1 with_iw her_appge nurse_nn1 ,1917,instrument,nurse,breakfast,have
+follow_vvd_vvn the_at nurse_nn1 from_ii the_at room_nn1 ,1918,locatum_out,nurse,room,follow
+be_vbz harrison_np1 with_iw the_at nurse_nn1 ,1920,instrument,nurse,harrison,be
+order_vvd_vvn the_at nurse_nn1 from_ii the_at room_nn1 ,1921,locatum_out,nurse,room,order
+resume_vvi her_appge chair_nn1 as_ii_csa the_at nurse_nn1 ,1927,agent,nurse,chair,resume
+tend_vvd cim_np1_nn1 like_ii a_at1 nurse_nn1 ,1930,agent,nurse,cim,tend
+hear_vvn tale_nn2 from_ii his_appge nurse_nn2 ,1931,location_out,nurse,tale,hear
+be_vbdz a_at1 nurse_nn1 from_ii a_at1 hospital_nn1 ,1933,locatum_out,nurse,hospital,be
+refuse_vvn admittance_nn1 by_ii the_at nurse_nn1 ,1935,instrument,nurse,admittance,refuse
+be_vbz goingto_nn1 be_vbi the_at nurse_nn1 ,1938,goal,nurse,goingto,be
+be_vbdz my_appge duty_nn1 as_ii_csa a_at1 nurse_nn1 ,1942,agent,nurse,duty,be
+get_vvi the_at nurse_nn1 on_ii the_at telephone_nn1 ,1943,locatum_on,nurse,telephone,get
+be_vbdz a_at1 nurse_nn1 on_ii a_at1 hospital_nn1 ,1946,locatum_on,nurse,hospital,be
+take_vvn the_at child_nn1 from_ii his_appge nurse_nn1 ,1946,location_out,nurse,child,take
+be_vbdz no_at word_nn1 from_ii the_at nurse_nn1 ,1951,location_out,nurse,word,be
+be_vbdz a_at1 nurse_nn1 from_ii a_at1 south_nd1 ,1953,locatum_out,nurse,south,be
+shake_vvg hand_nn2 with_iw the_at nurse_nn1 ,1953,instrument,nurse,hand,shake
+spend_vvg a_at1 year_nnt1 as_ii_csa a_at1 nurse_nn1 ,1954,agent,nurse,year,spend
+screw_vvg a_at1 nurse_nn1 on_ii the_at side_nn1 ,1958,locatum_on,nurse,side,screw
+summon_vvg a_at1 nurse_nn1 on_ii the_at floor_nn1 ,1967,locatum_on,nurse,floor,summon
+wear_vvz a_at1 smock_nn1 like_ii the_at nurse_nn1 ,1968,agent,nurse,smock,wear
+operate_vvg_nn1 table_nn1 as_ii_csa the_at nurse_nn1 ,1968,agent,nurse,table,operate
+take_vvd the_at sponge_nn1 from_ii the_at nurse_nn1 ,1970,location_out,nurse,sponge,take
+remember_vv0 a_at1 nurse_nn1 from_ii the_at hospital_nn1 ,1974,locatum_out,nurse,hospital,remember
+say_vvd nurse_nn2 on_ii the_at floor_nn2 ,1976,locatum_on,nurse,floor,say
+put_vvi the_at nurse_nn1 on_ii the_at spot_nn1 ,1977,locatum_on,nurse,spot,put
+have_vhg her_appge supper_nn1 with_iw her_appge nurse_nn1 ,1977,instrument,nurse,supper,have
+give_vvd the_at nurse_nn2 on_ii the_at floor_nn1 ,1977,locatum_on,nurse,floor,give
+work_vvd_vvn night_nnt2 as_ii_csa a_at1 nurse_nn1 ,1978,agent,nurse,night,work
+pay_vv0 the_at nurse_nn1 on_ii the_at way_nn1 ,1978,locatum_on,nurse,way,pay
+have_vhg an_at1 affair_nn1 with_iw his_appge nurse_nn1 ,1984,instrument,nurse,affair,have
+ask_vvg payment_nn1 from_ii a_at1 nurse_nn1 ,1987,location_out,nurse,payment,ask
+diminish_vvi the_at workload_nn1 on_ii the_at nurse_nn2 ,1988,location_on,nurse,workload,diminish
+take_vvn its_appge shape_nn1 from_ii the_at nurse_nn1 ,1992,location_out,nurse,shape,take
+follow_vvd the_at nurse_nn1 from_ii the_at delivery_nn1 ,1995,locatum_out,nurse,delivery,follow
+blend_vvi his_appge murmur_nn2 with_iw my_appge nurse_nn1 ,1998,instrument,nurse,murmur,blend
+get_vvg news_nn1 from_ii the_at nurse_nn2 ,1999,location_out,nurse,news,get
+put_vvz her_appge nurse_nn1 on_ii the_at floor_nn1 ,1999,locatum_on,nurse,floor,put
+have_vhi a_at1 nurse_nn1 on_ii the_at ground_nn2 ,2000,locatum_on,nurse,ground,have
+wake_vvg every_at1 hour_nnt1 as_ii_csa a_at1 nurse_nn1 ,2001,agent,nurse,hour,wake
+spend_vvd lunch_nn1 on_ii the_at nurse_nn1 ,2001,location_on,nurse,lunch,spend
+quit_vvi her_appge job_nn1 as_ii_csa a_at1 nurse_nn1 ,2001,agent,nurse,job,quit
+put_vvd_vv0 her_appge hand_nn1 on_ii the_at nurse_nn1 ,2002,location_on,nurse,hand,put
+say_vvd the_at nurse_nn1 from_ii the_at doorway_nn1 ,2002,locatum_out,nurse,doorway,say
+take_vvd a_at1 job_nn1 as_ii_csa a_at1 nurse_nn1 ,2003,agent,nurse,job,take
+be_vbn the_at case_nn1 with_iw their_appge nurse_nn1 ,2004,instrument,nurse,case,be
+have_vhg an_at1 affair_nn1 with_iw a_at1 nurse_nn1 ,2005,instrument,nurse,affair,have
+accept_vvd the_at cup_nn1 from_ii the_at nurse_nn1 ,2006,location_out,nurse,cup,accept
+stand_vvd jim_np1 with_iw a_at1 nurse_nn1 ,2007,instrument,nurse,jim,stand
+be_vbn my_appge nurse_nn1 from_ii the_at time_nnt1 ,2008,locatum_out,nurse,time,be
+smack_vvg the_at nurse_nn2 on_ii the_at ass_nn1 ,2009,locatum_on,nurse,ass,smack
+suck_vvi the_at poison_nn1 from_ii my_appge hand_nn1 ,1827,locatum_out,poison,hand,suck
+draw_vv0 poison_nn1 from_ii their_appge mother_nn1 ,1833,locatum_out,poison,mother,draw
+steal_vvg a_at1 sweetness_nn1 from_ii the_at poison_nn1 ,1844,location_out,poison,sweetness,steal
+drink_vvd my_appge poison_nn1 from_ii its_appge brim_nn1 ,1859,locatum_out,poison,brim,drink
+put_vvz no_at poison_nn1 on_ii its_appge edge_nn1 ,1863,locatum_on,poison,edge,put
+suck_vvd_vvn the_at poison_nn1 from_ii his_appge wind_nn1 ,1869,locatum_out,poison,wind,suck
+be_vbn poison_nn1 on_ii the_at knife_nn1 ,1871,locatum_on,poison,knife,be
+be_vbdz no_at poison_nn1 on_ii the_at steel_nn1 ,1871,locatum_on,poison,steel,be
+be_vbdz no_at poison_nn1 on_ii the_at blade_nn1 ,1871,locatum_on,poison,blade,be
+draw_vvz the_at poison_nn1 from_ii every_at1 grief_nn1 ,1873,locatum_out,poison,grief,draw
+expel_vvi the_at poison_nn1 from_ii the_at vein_nn2 ,1876,locatum_out,poison,vein,expel
+deposit_vv0 poison_nn1 on_ii the_at spot_nn1 ,1878,locatum_on,poison,spot,deposit
+draw_vv0 the_at poison_nn1 from_ii the_at sting_nn1 ,1880,locatum_out,poison,sting,draw
+give_vvi the_at antidote_nn1 with_iw the_at poison_nn1 ,1887,instrument,poison,antidote,give
+extract_vv0 the_at poison_nn1 from_ii the_at dart_nn1 ,1895,locatum_out,poison,dart,extract
+inoculate_vvd her_appge system_nn1 with_iw the_at poison_nn1 ,1896,instrument,poison,system,inoculate
+expel_vvg the_at poison_nn1 from_ii its_appge fang_nn2 ,1900,locatum_out,poison,fang,expel
+extract_vvi the_at poison_nn1 from_ii her_appge lip_nn2 ,1905,locatum_out,poison,lip,extract
+gain_vvn the_at throne_nn1 by_ii the_at poison_nn1 ,1907,instrument,poison,throne,gain
+jj_vv0 eat_nn1 be_vbz a_at1 poison_nn1 ,1911,goal,poison,eat,jj
+wipe_vvd the_at poison_nn1 from_ii his_appge mouth_nn1 ,1913,locatum_out,poison,mouth,wipe
+fill_vvz the_at soul_nn1 with_iw its_appge poison_nn1 ,1922,instrument,poison,soul,fill
+drink_vv0 poison_nn1 from_ii a_at1 glass_nn1 ,1929,locatum_out,poison,glass,drink
+absorb_vvi the_at poison_nn1 from_ii the_at tonsil_nn2 ,1938,locatum_out,poison,tonsil,absorb
+use_vv0 no_at poison_nn1 on_ii their_appge arrow_nn2 ,1959,locatum_on,poison,arrow,use
+inject_vvz the_at poison_nn1 from_ii her_appge sting_nn1 ,1962,locatum_out,poison,sting,inject
+drain_vvg the_at poison_nn1 from_ii the_at wind_nn1 ,1965,locatum_out,poison,wind,drain
+find_vvi a_at1 path_nn1 through_ii the_at poison_nn1 ,1973,instrument,poison,path,find
+smell_vvi the_at poison_nn1 on_ii their_appge breath_nn2 ,1974,locatum_on,poison,breath,smell
+drain_vvg the_at poison_nn1 from_ii the_at word_nn1 ,1975,locatum_out,poison,word,drain
+take_vvd poison_nn1 on_ii the_at eve_nnt1 ,1979,locatum_on,poison,eve,take
+exorcize_vvi the_at poison_nn2 from_ii his_appge body_nn1 ,1988,locatum_out,poison,body,exorcize
+separate_vv0 the_at person_nn1 from_ii the_at poison_nn1 ,1990,location_out,poison,person,separate
+say_vvz the_at plant_nn1 be_vbz a_at1 poison_nn1 ,1992,goal,poison,plant,say
+purge_vvi the_at poison_nn1 from_ii her_appge system_nn1 ,1997,locatum_out,poison,system,purge
+draw_vvi the_at poison_nn1 from_ii your_appge wound_nn2 ,2001,locatum_out,poison,wound,draw
+put_vv0_vvd poison_nn2 on_ii the_at field_nn2 ,2002,locatum_on,poison,field,put
+inject_vvg venom_nn1 from_ii a_at1 poison_nn1 ,2004,location_out,poison,venom,inject
+relieve_vvd his_appge embarrassment_nn1 by_ii a_at1 precipitate_nn1 ,1824,instrument,precipitate,embarrassment,relieve
+observe_vv0 the_at precipitate_nn1 on_ii the_at bottom_nn1 ,1933,locatum_on,precipitate,bottom,observe
+wash_vv0 the_at precipitate_nn1 on_ii the_at paper_nn1 ,1933,locatum_on,precipitate,paper,wash
+separate_vv0 the_at tannin_nn1 from_ii the_at precipitate_nn1 ,2003,location_out,precipitate,tannin,separate
+pass_vvi a_at1 probe_nn1 from_ii the_at trunk_nn1 ,1910,locatum_out,probe,trunk,pass
+protect_vvn the_at prince_nn1 from_ii her_appge probe_nn1 ,1988,location_out,probe,prince,protect
+send_vvi its_appge probe_nn1 on_ii a_at1 mission_nn1 ,1992,locatum_on,probe,mission,send
+take_vvz the_at probe_nn1 from_ii her_appge hand_nn1 ,1999,locatum_out,probe,hand,take
+keep_vvi pace_nn1 with_iw the_at progress_nn1 ,1817,instrument,progress,pace,keep
+keep_vvi pace_nn1 with_iw the_at progress_nn1 ,1825,instrument,progress,pace,keep
+keep_vvg pace_nn1 with_iw the_at progress_nn1 ,1827,instrument,progress,pace,keep
+keep_vvn pace_nn1 with_iw the_at progress_nn1 ,1828,instrument,progress,pace,keep
+entitle_vvn an_at1 essay_nn1 on_ii the_at progress_nn1 ,1831,location_on,progress,essay,entitle
+harangue_vvi the_at elector_nn2 during_ii the_at progress_nn1 ,1831,duration,progress,elector,harangue
+mean_vv0 its_appge effect_nn2 on_ii the_at progress_nn1 ,1838,location_on,progress,effect,mean
+keep_vvi pace_nn1 with_iw the_at progress_nn1 ,1839,instrument,progress,pace,keep
+remove_vvi a_at1 rival_nn1_jj from_ii their_appge progress_nn1 ,1839,location_out,progress,rival,remove
+keep_vvi pace_nn1 with_iw their_appge progress_nn1 ,1839,instrument,progress,pace,keep
+report_vvi progress_nn1 on_ii the_at nebula_nn2 ,1842,locatum_on,progress,nebula,report
+keep_vvn_vvd pace_nn1 with_iw the_at progress_nn1 ,1845,instrument,progress,pace,keep
+trace_vvi his_appge progress_nn1 from_ii the_at moment_nn1 ,1845,locatum_out,progress,moment,trace
+keep_vv0 pace_nn1 with_iw the_at progress_nn1 ,1845,instrument,progress,pace,keep
+exert_vvi her_appge influence_nn1 on_ii the_at progress_nn1 ,1847,location_on,progress,influence,exert
+keep_vvi pace_nn1 with_iw the_at progress_nn1 ,1847,instrument,progress,pace,keep
+mark_vv0 their_appge progress_nn1 on_ii the_at journey_nn1 ,1851,locatum_on,progress,journey,mark
+jj_vvg influence_nn1 on_ii its_appge progress_nn1 ,1852,location_on,progress,influence,jj
+reach_vvn linlithgow_np1 on_ii his_appge progress_nn1 ,1853,location_on,progress,linlithgow,reach
+keep_vvn pace_nn1 with_iw our_appge progress_nn1 ,1856,instrument,progress,pace,keep
+identify_vvg their_appge aspiration_nn2 with_iw the_at progress_nn1 ,1856,instrument,progress,aspiration,identify
+interweave_vvn his_appge work_nn1 with_iw the_at progress_nn1 ,1858,instrument,progress,work,interweave
+employ_vvi his_appge ability_nn2 during_ii the_at progress_nn1 ,1858,duration,progress,ability,employ
+make_vvn_vvd a_at1 progress_nn1 from_ii the_at top_nn1 ,1858,locatum_out,progress,top,make
+keep_vvn pace_nn1 with_iw the_at progress_nn1 ,1859,instrument,progress,pace,keep
+keep_vvd_vvn pace_nn1 with_iw the_at progress_nn1 ,1860,instrument,progress,pace,keep
+take_vvi the_at initiative_nn1 during_ii the_at progress_nn1 ,1862,duration,progress,initiative,take
+keep_vvi pace_nn1 with_iw the_at progress_nn1 ,1863,instrument,progress,pace,keep
+continue_vvg their_appge misrepresentation_nn2 on_ii the_at progress_nn1 ,1863,location_on,progress,misrepresentation,continue
+agitate_vv0 the_at heart_nn1 during_ii the_at progress_nn1 ,1863,duration,progress,heart,agitate
+remove_vvi the_at obstacle_nn2 from_ii your_appge progress_nn1 ,1864,location_out,progress,obstacle,remove
+keep_vv0 pace_nn1 with_iw the_at progress_nn1 ,1868,instrument,progress,pace,keep
+develop_vvi their_appge character_nn2 with_iw the_at progress_nn1 ,1869,instrument,progress,character,develop
+retain_vvi a_at1 veto_nn1 on_ii the_at progress_nn1 ,1870,location_on,progress,veto,retain
+have_vhg music_nn1 during_ii the_at progress_nn1 ,1876,duration,progress,music,have
+keep_vvi the_at peace_nn1 during_ii the_at progress_nn1 ,1876,duration,progress,peace,keep
+watch_vvd his_appge progress_nn1 on_ii the_at rhine_np1 ,1877,locatum_on,progress,rhine,watch
+keep_vvn pace_nn1 with_iw its_appge progress_nn1 ,1877,instrument,progress,pace,keep
+keep_vvd_vvn pace_nn1 with_iw the_at progress_nn1 ,1879,instrument,progress,pace,keep
+attack_vvd_vvn cooper_np1 during_ii its_appge progress_nn1 ,1882,duration,progress,cooper,attack
+make_vvd progress_nn1 from_ii the_at start_nn1 ,1886,locatum_out,progress,start,make
+make_vvd_vvn article_nn2 on_ii the_at progress_nn1 ,1889,location_on,progress,article,make
+keep_vvi pace_nn1 with_iw the_at progress_nn1 ,1891,instrument,progress,pace,keep
+make_vvz its_appge progress_nn1 from_ii the_at horse_nn1 ,1904,locatum_out,progress,horse,make
+visit_vvd_vvn the_at scene_nn1 during_ii the_at progress_nn1 ,1905,duration,progress,scene,visit
+impede_vvd her_appge progress_nn1 on_ii her_appge voyage_nn1 ,1905,locatum_on,progress,voyage,impede
+shake_vvg the_at ground_nn1 with_iw its_appge progress_nn1 ,1921,instrument,progress,ground,shake
+make_vvi a_at1 report_nn1 on_ii the_at progress_nn1 ,1921,location_on,progress,report,make
+reiterate_vvd his_appge satisfaction_nn1 with_iw the_at progress_nn1 ,1922,instrument,progress,satisfaction,reiterate
+make_vv0 a_at1 report_nn1 on_ii its_appge progress_nn1 ,1925,location_on,progress,report,make
+express_vvg satisfaction_nn1 with_iw the_at progress_nn1 ,1928,instrument,progress,satisfaction,express
+advise_vvi the_at court_nn1 on_ii the_at progress_nn1 ,1929,location_on,progress,court,advise
+make_vvd progress_nn1 on_ii the_at upside_nn1 ,1929,locatum_on,progress,upside,make
+report_vvz progress_nn1 on_ii the_at bridge_nn1 ,1931,locatum_on,progress,bridge,report
+ii_vvg the_at progress_nn1 on_ii the_at chalice_nn1 ,1931,locatum_on,progress,chalice,ii
+halt_vvg their_appge progress_nn1 on_ii the_at upside_nn1 ,1931,locatum_on,progress,upside,halt
+jj_vv0 touch_nn1 with_iw the_at progress_nn1 ,1931,instrument,progress,touch,jj
+see_vvd their_appge progress_nn1 from_ii the_at way_nn1 ,1934,locatum_out,progress,way,see
+watch_vvg their_appge progress_nn1 from_ii his_appge doorway_nn1 ,1936,locatum_out,progress,doorway,watch
+halt_vvi the_at texan_nn1 on_ii his_appge progress_nn1 ,1936,location_on,progress,texan,halt
+make_vvi alteration_nn2 during_ii the_at progress_nn1 ,1937,duration,progress,alteration,make
+disturb_vvi the_at progress_nn1 on_ii the_at pillar_nn1 ,1938,locatum_on,progress,pillar,disturb
+jj_vv0 touch_nn1 with_iw the_at progress_nn1 ,1940,instrument,progress,touch,jj
+claim_vvz_nn2 progress_nn1 on_ii the_at road_nn1 ,1945,locatum_on,progress,road,claim
+report_vvd progress_nn1 on_ii the_at bridge_nn1 ,1945,locatum_on,progress,bridge,report
+call_vvi a_at1 halt_nn1 on_ii the_at progress_nn1 ,1947,location_on,progress,halt,call
+keep_vvn an_at1 eye_nn1 on_ii her_appge progress_nn1 ,1951,location_on,progress,eye,keep
+make_vvd_vvn progress_nn1 on_ii the_at issue_nn1 ,1954,locatum_on,progress,issue,make
+publish_vvi information_nn1 on_ii the_at progress_nn1 ,1954,location_on,progress,information,publish
+keep_vvn pace_nn1 with_iw the_at progress_nn1 ,1956,instrument,progress,pace,keep
+check_vvi progress_nn1 on_ii the_at runway_nn1 ,1956,locatum_on,progress,runway,check
+publish_vvd_vvn a_at1 report_nn1 on_ii the_at progress_nn1 ,1960,location_on,progress,report,publish
+keep_vvi an_at1 eye_nn1 on_ii your_appge progress_nn1 ,1960,location_on,progress,eye,keep
+keep_vvi tab_nn2 on_ii the_at progress_nn1 ,1963,location_on,progress,tab,keep
+jj_vvn study_nn2 on_ii the_at progress_nn1 ,1971,location_on,progress,study,jj
+jj_vvg progress_nn1 on_ii the_at issue_nn2 ,1976,locatum_on,progress,issue,jj
+stimulate_vvi progress_nn1 on_ii the_at road_nn1 ,1977,locatum_on,progress,road,stimulate
+make_vvg progress_nn1 on_ii an_at1 agreement_nn1 ,1978,locatum_on,progress,agreement,make
+connote_vvi progress_nn1 on_ii his_appge part_nn1 ,1980,locatum_on,progress,part,connote
+hamper_vvi progress_nn1 on_ii the_at president_nn1 ,1985,locatum_on,progress,president,hamper
+slow_vvi progress_nn1 on_ii the_at peace_nn1 ,1987,locatum_on,progress,peace,slow
+hold_vvi hearing_nn2 on_ii the_at progress_nn1 ,1989,location_on,progress,hearing,hold
+show_vvg the_at work_nn1 during_ii its_appge progress_nn1 ,1990,duration,progress,work,show
+see_vvi the_at work_nn1 during_ii its_appge progress_nn1 ,1990,duration,progress,work,see
+update_vvi participant_nn2 on_ii the_at progress_nn1 ,1992,location_on,progress,participant,update
+report_vvd_vvn her_appge progress_nn1 on_ii the_at case_nn2 ,1993,locatum_on,progress,case,report
+be_vbdz no_at progress_nn1 on_ii a_at1 settlement_nn1 ,1993,locatum_on,progress,settlement,be
+follow_vvi the_at queen_nn1 on_ii her_appge progress_nn1 ,1993,location_on,progress,queen,follow
+have_vhi no_at effect_nn1 on_ii our_appge progress_nn1 ,1993,location_on,progress,effect,have
+make_vvd progress_nn1 on_ii a_at1 number_nn1 ,1993,locatum_on,progress,number,make
+match_vvd his_appge progress_nn1 on_ii my_appge side_nn1 ,1993,locatum_on,progress,side,match
+follow_vvn his_appge progress_nn1 on_ii the_at monitor_nn2 ,1996,locatum_on,progress,monitor,follow
+send_vvd video_nn2 on_ii the_at progress_nn1 ,1997,location_on,progress,video,send
+mark_vvg your_appge progress_nn1 on_ii the_at map_nn1 ,1997,locatum_on,progress,map,mark
+follow_vv0 their_appge progress_nn1 on_ii the_at internet_nn1_np1 ,2001,locatum_on,progress,internet,follow
+need_vv0 progress_nn1 on_ii the_at archive_nn2 ,2001,locatum_on,progress,archive,need
+keep_vv0 an_at1 eye_nn1 on_ii the_at progress_nn1 ,2002,location_on,progress,eye,keep
+make_vvn progress_nn1 on_ii his_appge plan_nn1 ,2004,locatum_on,progress,plan,make
+observe_vvi his_appge progress_nn1 on_ii the_at painting_nn1 ,2005,locatum_on,progress,painting,observe
+track_vvi progress_nn1 on_ii the_at ground_nn1 ,2005,locatum_on,progress,ground,track
+see_vvi a_at1 report_nn1 on_ii your_appge progress_nn1 ,2008,location_on,progress,report,see
+recite_vvd_vvn quote_nn2_vvz from_ii the_at testimony_nn1 ,1953,locatum_out,quote,testimony,recite
+be_vbz a_at1 quote_nn1 from_ii the_at talmud_np1 ,1963,locatum_out,quote,talmud,be
+take_vvz its_appge name_nn1 from_ii a_at1 quote_nn1 ,1970,location_out,quote,name,take
+be_vbdz a_at1 quote_nn1 from_ii the_at shaw_np1 ,1975,locatum_out,quote,shaw,be
+be_vbz a_at1 play_nn1 on_ii a_at1 quote_nn1 ,1990,location_on,quote,play,be
+title_vvn the_at book_nn1 by_ii the_at quote_nn1_vv0 ,1993,instrument,quote,book,title
+be_vbdz a_at1 quote_nn1 from_ii the_at mother_nn1 ,1993,locatum_out,quote,mother,be
+read_vvg a_at1 quote_nn1 from_ii the_at book_nn1 ,1993,locatum_out,quote,book,read
+invent_vvd_vvn quote_nn2 from_ii the_at therapist_nn1 ,1994,locatum_out,quote,therapist,invent
+establish_vvi a_at1 connection_nn1 with_iw the_at quote_nn1 ,1997,instrument,quote,connection,establish
+answer_vvd every_at1 question_nn1 with_iw a_at1 quote_nn1 ,2002,instrument,quote,question,answer
+contain_vvd quote_nn2 from_ii the_at upanishads_np2 ,2002,locatum_out,quote,upanishads,contain
+read_vvd_vv0 a_at1 quote_nn1 from_ii the_at artist_nn1 ,2003,locatum_out,quote,artist,read
+double_vvd the_at quote_nn1 on_ii our_appge retainer_nn1 ,2005,locatum_on,quote,retainer,double
+use_vvg quote_nn2_vvz from_ii the_at koran_nn1 ,2007,locatum_out,quote,koran,use
+have_vhd a_at1 quote_nn1 from_ii the_at movie_nn1 ,2009,locatum_out,quote,movie,have
+finish_vvn his_appge repair_nn2 on_ii the_at boat_nn1 ,1836,locatum_on,repair,boat,finish
+complete_vvn the_at repair_nn2 on_ii the_at steering_nn1 ,1891,locatum_on,repair,steering,complete
+make_vvg repair_nn2_vvz on_ii the_at hill_nn1 ,1910,locatum_on,repair,hill,make
+complete_vvd the_at repair_nn2 on_ii the_at building_nn2 ,1915,locatum_on,repair,building,complete
+be_vbdz mile_nnu2 from_ii the_at repair_nn1 ,1919,location_out,repair,mile,be
+need_vv0 guam_np1 as_ii_csa a_at1 repair_nn1 ,1939,agent,repair,guam,need
+make_vvn repair_nn2_vvz on_ii his_appge hotel_nn1 ,1940,locatum_on,repair,hotel,make
+begin_vvd repair_nn2 on_ii the_at harbor_nn1 ,1944,locatum_on,repair,harbor,begin
+finish_vvi repair_nn2 on_ii her_appge car_nn1 ,1959,locatum_on,repair,car,finish
+make_vvi repair_nn2 on_ii the_at building_nn1 ,1962,locatum_on,repair,building,make
+make_vvg repair_nn2_vvz on_ii the_at stern_nn1_jj ,1967,locatum_on,repair,stern,make
+finish_vvi the_at repair_nn2 on_ii the_at wagon_nn1 ,1993,locatum_on,repair,wagon,finish
+complete_vv0 repair_nn2 on_ii the_at hull_nn1 ,2003,locatum_on,repair,hull,complete
+make_vvi repair_nn2 on_ii the_at roll_nn1 ,2004,locatum_on,repair,roll,make
+do_vdd no_at repair_nn2 on_ii their_appge property_nn2 ,2005,locatum_on,repair,property,do
+avoid_vvg their_appge shift_nn2 on_ii the_at hull_nn1 ,1994,locatum_on,shift,hull,avoid
+leave_vvd_vvn the_at city_nn1 during_ii the_at strike_nn1 ,1887,duration,strike,city,leave
+remove_vvg strike_nn2_vvz from_ii the_at law_nn1 ,1897,locatum_out,strike,law,remove
+have_vhg no_at connection_nn1 with_iw the_at strike_nn1 ,1905,instrument,strike,connection,have
+have_vhd no_at connection_nn1 with_iw the_at strike_nn1 ,1905,instrument,strike,connection,have
+take_vvi vote_nn2 on_ii a_at1 strike_nn1 ,1915,location_on,strike,vote,take
+have_vhd a_at1 strike_nn1 on_ii its_appge hand_nn2 ,1916,locatum_on,strike,hand,have
+threaten_vvd_vvn the_at authority_nn2 with_iw a_at1 strike_nn1 ,1919,instrument,strike,authority,threaten
+end_vvi the_at strike_nn1 on_ii the_at brooklyn_np1 ,1920,locatum_on,strike,brooklyn,end
+have_vhz a_at1 strike_nn1 on_ii its_appge hand_nn2 ,1921,locatum_on,strike,hand,have
+handle_vvn the_at strike_nn1 on_ii the_at basis_nn1 ,1921,locatum_on,strike,basis,handle
+protect_vvi its_appge property_nn1 during_ii the_at strike_nn1 ,1924,duration,strike,property,protect
+express_vvi their_appge sentiment_nn2 on_ii the_at strike_nn1 ,1926,location_on,strike,sentiment,express
+be_vbz the_at news_nn1 from_ii the_at strike_nn1 ,1937,location_out,strike,news,be
+defend_vvi the_at premier_nn1_jj on_ii the_at strike_nn1 ,1938,location_on,strike,premier,defend
+denounce_vvd their_appge action_nn1 as_ii_csa a_at1 strike_nn1 ,1941,agent,strike,action,denounce
+operate_vvi the_at bus_nn2 during_ii the_at strike_nn1 ,1941,duration,strike,bus,operate
+operate_vvi bus_nn2 during_ii the_at strike_nn1 ,1941,duration,strike,bus,operate
+call_vvg a_at1 strike_nn1 on_ii a_at1 movie_nn1 ,1944,locatum_on,strike,movie,call
+settle_vvi its_appge strike_nn1 on_ii the_at basis_nn1 ,1946,locatum_on,strike,basis,settle
+give_vvn a_at1 jolt_nn1 by_ii the_at strike_nn1 ,1946,instrument,strike,jolt,give
+lose_vvi its_appge efficacy_nn1 as_ii_csa a_at1 strike_nn1 ,1947,agent,strike,efficacy,lose
+reach_vvi their_appge destination_nn1 by_ii the_at strike_nn1 ,1948,instrument,strike,destination,reach
+get_vvi a_at1 strike_nn1 on_ii the_at way_nn1 ,1950,locatum_on,strike,way,get
+hold_vvn discussion_nn2 on_ii the_at strike_nn1 ,1955,location_on,strike,discussion,hold
+protest_vvd_vvn the_at action_nn1 by_ii a_at1 strike_nn1 ,1955,instrument,strike,action,protest
+keep_vvg an_at1 eye_nn1 on_ii the_at strike_nn1 ,1956,location_on,strike,eye,keep
+conduct_vvi the_at strike_nn1 from_ii a_at1 cell_nn1 ,1963,locatum_out,strike,cell,conduct
+be_vbg a_at1 strike_nn1 on_ii the_at ship_nn1 ,1965,locatum_on,strike,ship,be
+put_vvd_vv0 the_at loss_nn1 from_ii the_at strike_nn1 ,1968,location_out,strike,loss,put
+present_vvd the_at pitcher_nn1 with_iw a_at1 strike_nn1 ,1973,instrument,strike,pitcher,present
+get_vvg service_nn1 during_ii the_at strike_nn1 ,1976,duration,strike,service,get
+maintain_vvg production_nn1 during_ii the_at strike_nn1 ,1983,duration,strike,production,maintain
+send_vvi a_at1 hawkeye_nn1 with_iw the_at strike_nn1 ,1986,instrument,strike,hawkeye,send
+change_vvn its_appge name_nn1 from_ii the_at strike_nn1 ,1987,location_out,strike,name,change
+take_vv0 job_nn2 during_ii the_at strike_nn1 ,1988,duration,strike,job,take
+break_vvd his_appge silence_nn1 on_ii the_at strike_nn2 ,1988,location_on,strike,silence,break
+cripple_vvd_vvn the_at carrier_nn1 with_iw a_at1 strike_nn1 ,1989,instrument,strike,carrier,cripple
+take_vvz no_at position_nn1 on_ii the_at strike_nn1 ,1996,location_on,strike,position,take
+launch_vvi a_at1 strike_nn1 on_ii the_at town_nn1 ,2004,locatum_on,strike,town,launch
+fasten_vv0 the_at crime_nn1 on_ii the_at suspect_nn2 ,1920,location_on,suspect,crime,fasten
+make_vvz a_at1 contact_nn1 with_iw the_at suspect_nn1 ,1933,instrument,suspect,contact,make
+welcome_vvi the_at man_nn1 as_ii_csa a_at1 suspect_nn1 ,1954,agent,suspect,man,welcome
+remain_vvi suspect_nn1_vv0 on_ii the_at continent_nn1 ,1962,locatum_on,suspect,continent,remain
+receive_vvn flyer_nn2 on_ii the_at suspect_nn2 ,1970,location_on,suspect,flyer,receive
+get_vvi a_at1 confession_nn1 from_ii a_at1 suspect_nn1 ,1971,location_out,suspect,confession,get
+view_vvi the_at defendant_nn1 as_ii_csa a_at1 suspect_nn1 ,1989,agent,suspect,defendant,view
+traffic_vvg_nn1 child_nn2 as_ii_csa the_at suspect_nn2 ,1993,agent,suspect,child,traffic
+move_vvd_vvn a_at1 trailer_nn1 onto_ii the_at suspect_nn1 ,1998,location_on,suspect,trailer,move
+record_vvi a_at1 statement_nn1 from_ii the_at suspect_nn1 ,2000,location_out,suspect,statement,record
+get_vvi statement_nn2 from_ii the_at suspect_nn1 ,2002,location_out,suspect,statement,get
+bluff_vv0 their_appge way_nn1 with_iw a_at1 suspect_nn1 ,2003,instrument,suspect,way,bluff
+lock_vvn eye_nn2 with_iw her_appge suspect_nn1 ,2005,instrument,suspect,eye,lock
+include_vvn davis_np1 as_ii_csa a_at1 suspect_nn1 ,2006,agent,suspect,davis,include
+throw_vvg the_at thrust_nn1 on_ii the_at tenon_nn1 ,1853,locatum_on,thrust,tenon,throw
+do_vdz thrust_nn1 out_rp her_appge horn_nn2 ,1888,locatum_out,thrust,horn,do
+open_vvd the_at envelope_nn1 with_iw a_at1 thrust_nn1 ,1952,instrument,thrust,envelope,open
+undertake_vv0 an_at1 engine_nn1 with_iw a_at1 thrust_nn1 ,1957,instrument,thrust,engine,undertake
+combine_vvi the_at thrust_nn1 from_ii the_at pole_nn2 ,1959,locatum_out,thrust,pole,combine
+demand_vv0_nn1 booster_nn2 with_iw a_at1 thrust_nn1 ,1964,instrument,thrust,booster,demand
+place_vv0 your_appge finger_nn1 on_ii the_at trigger_nn1 ,1832,location_on,trigger,finger,place
+remove_vvd_vvn his_appge finger_nn1 from_ii the_at trigger_nn1 ,1867,location_out,trigger,finger,remove
+keep_vvg his_appge finger_nn1 on_ii the_at trigger_nn1 ,1889,location_on,trigger,finger,keep
+put_vvz his_appge finger_nn1 on_ii the_at trigger_nn1 ,1894,location_on,trigger,finger,put
+put_vvz his_appge finger_nn1 on_ii the_at trigger_nn1 ,1894,location_on,trigger,finger,put
+keep_vvg his_appge finger_nn1 on_ii the_at trigger_nn1 ,1913,location_on,trigger,finger,keep
+be_vbdz the_at matter_nn1 with_iw his_appge trigger_nn1 ,1921,instrument,trigger,matter,be
+close_vvn my_appge hand_nn1 on_ii the_at trigger_nn1 ,1922,location_on,trigger,hand,close
+spin_vvd the_at weapon_nn1 on_ii the_at trigger_nn1 ,1922,location_on,trigger,weapon,spin
+tell_vvd my_appge finger_nn1 on_ii the_at trigger_nn1 ,1933,location_on,trigger,finger,tell
+pull_vvd the_at trigger_nn1 on_ii his_appge musket_nn1 ,1937,locatum_on,trigger,musket,pull
+see_vvn his_appge hand_nn1 on_ii the_at trigger_nn1 ,1940,location_on,trigger,hand,see
+pull_vvd the_at trigger_nn1 on_ii the_at gun_nn1 ,1942,locatum_on,trigger,gun,pull
+pull_vvd the_at trigger_nn1 on_ii the_at gun_nn1 ,1942,locatum_on,trigger,gun,pull
+keep_vvd his_appge finger_nn1 on_ii the_at trigger_nn1 ,1944,location_on,trigger,finger,keep
+release_vvd his_appge finger_nn1 from_ii the_at trigger_nn1 ,1944,location_out,trigger,finger,release
+tighten_vvd his_appge finger_nn1 on_ii the_at trigger_nn1 ,1948,location_on,trigger,finger,tighten
+spin_vvg a_at1 gun_nn1 by_ii a_at1 trigger_nn1 ,1949,instrument,trigger,gun,spin
+pull_vvd the_at trigger_nn1 from_ii the_at hip_nn1 ,1951,locatum_out,trigger,hip,pull
+curl_vvd his_appge finger_nn1 on_ii the_at trigger_nn1 ,1959,location_on,trigger,finger,curl
+keep_vv0 her_appge finger_nn1 from_ii the_at trigger_nn1 ,1963,location_out,trigger,finger,keep
+slide_vvd his_appge finger_nn1 through_ii the_at trigger_nn1 ,1969,instrument,trigger,finger,slide
+rest_vvd his_appge fingertip_nn1 on_ii the_at trigger_nn1 ,1976,location_on,trigger,fingertip,rest
+keep_vvd his_appge finger_nn1 on_ii the_at trigger_nn1 ,1978,location_on,trigger,finger,keep
+pull_vvi the_at trigger_nn1 on_ii his_appge heater_nn1 ,1984,locatum_on,trigger,heater,pull
+cock_vvg the_at trigger_nn1 on_ii the_at gun_nn1 ,1990,locatum_on,trigger,gun,cock
+put_vvd_vv0_vvn your_appge finger_nn1 on_ii the_at trigger_nn1 ,1992,location_on,trigger,finger,put
+release_vvz the_at trigger_nn1 on_ii the_at hose_nn1 ,1993,locatum_on,trigger,hose,release
+pull_vvz the_at trigger_nn1 on_ii a_at1 man_nn1 ,1994,locatum_on,trigger,man,pull
+pull_vvz the_at trigger_nn1 on_ii the_at riot_nn1 ,1995,locatum_on,trigger,riot,pull
+get_vvn my_appge finger_nn2 on_ii the_at trigger_nn1 ,1996,location_on,trigger,finger,get
+close_vvd his_appge finger_nn1 on_ii the_at trigger_nn1 ,2000,location_on,trigger,finger,close
+jj_vvd pressure_nn1 on_ii the_at trigger_nn1 ,2001,location_on,trigger,pressure,jj
+pull_vvd the_at trigger_nn1 on_ii the_at parking_nn1 ,2001,locatum_on,trigger,parking,pull
+pull_vvd the_at trigger_nn1 on_ii the_at derringer_nn1 ,2002,locatum_on,trigger,derringer,pull
+slip_vvz his_appge finger_nn1 through_ii the_at trigger_nn1 ,2004,instrument,trigger,finger,slip
+pull_vv0 the_at trigger_nn1 on_ii a_at1 gun_nn1 ,2005,locatum_on,trigger,gun,pull
+finger_vvd the_at trigger_nn1 on_ii the_at pulse_nn1 ,2006,locatum_on,trigger,pulse,finger
+raise_vvi money_nn1 on_ii the_at trust_nn1 ,1827,location_on,trust,money,raise
+regard_vvi his_appge fortune_nn1 as_ii a_at1 trust_nn1 ,1830,agent,trust,fortune,regard
+destroy_vvi distrust_nn1_vv0 by_ii his_appge trust_nn1 ,1844,instrument,trust,distrust,destroy
+imply_vvz trust_nn1 on_ii their_appge part_nn1 ,1858,locatum_on,trust,part,imply
+hold_vvz his_appge wealth_nn1 as_ii_csa a_at1 trust_nn1 ,1875,agent,trust,wealth,hold
+betray_vvi his_appge trust_nn1 on_ii the_at field_nn1 ,1889,locatum_on,trust,field,betray
+awd_vv0_nn1 administration_nn1 be_vbz a_at1 trust_nn1 ,1890,goal,trust,administration,awd
+learn_vvn trust_nn1_vv0 from_ii her_appge husband_nn1 ,1893,locatum_out,trust,husband,learn
+find_vvi fault_nn1 with_iw a_at1 trust_nn1 ,1897,instrument,trust,fault,find
+change_vvi our_appge position_nn1 on_ii the_at trust_nn1 ,1904,location_on,trust,position,change
+review_vvi his_appge connection_nn1 with_iw the_at trust_nn1 ,1905,instrument,trust,connection,review
+take_vvg security_nn2 from_ii its_appge trust_nn1 ,1907,location_out,trust,security,take
+regard_vv0 their_appge post_nn2 as_ii a_at1 trust_nn1 ,1908,agent,trust,post,regard
+make_vvd no_at attack_nn1 on_ii the_at trust_nn1 ,1908,location_on,trust,attack,make
+get_vvi the_at collateral_nn1 from_ii the_at trust_nn1 ,1909,location_out,trust,collateral,get
+denounce_vvg attack_nn2 on_ii the_at trust_nn2 ,1914,location_on,trust,attack,denounce
+have_vh0 a_at1 trust_nn1 from_ii our_appge maker_nn1 ,1935,locatum_out,trust,maker,have
+be_vbdz a_at1 participant_nn1 with_iw the_at trust_nn1 ,1936,instrument,trust,participant,be
+hold_vvz the_at land_nn1 as_ii_csa a_at1 trust_nn1 ,1958,agent,trust,land,hold
+regard_vvi the_at vote_nn1 as_ii a_at1 trust_nn1 ,1967,agent,trust,vote,regard
+take_vvi trust_nn1_vv0 from_ii the_at kindness_nn1 ,1972,locatum_out,trust,kindness,take
+pay_vvd a_at1 tax_nn1 on_ii the_at trust_nn1 ,1974,location_on,trust,tax,pay
+borrow_vvi an_at1 advance_nn1 on_ii my_appge trust_nn1 ,1982,location_on,trust,advance,borrow
+regard_vvz knowledge_nn1 as_ii a_at1 trust_nn1 ,1990,agent,trust,knowledge,regard
+yank_vvd the_at allowance_nn1 from_ii my_appge trust_nn1 ,1993,location_out,trust,allowance,yank
+receive_vvi income_nn1 from_ii the_at trust_nn1 ,2000,location_out,trust,income,receive
+have_vhi an_at1 impact_nn1 on_ii the_at trust_nn1 ,2002,location_on,trust,impact,have
+take_vvd a_at1 drink_nn1 as_ii_csa the_at urge_nn1 ,1946,agent,urge,drink,take
+must_vm knowledge_nn1 be_vbi the_at urge_nn1 ,1973,goal,urge,knowledge,must
+lose_vvd her_appge_ppho1 fight_nn1 with_iw the_at urge_nn1 ,2009,instrument,urge,fight,lose
+take_vvd a_at1 venture_nn1 on_ii the_at spar_nn1 ,1857,locatum_on,venture,spar,take
+dare_vvn_vvd venture_nn1_vv0 from_ii her_appge room_nn1 ,1860,locatum_out,venture,room,dare
+stake_vvi my_appge future_nn1_jj on_ii a_at1 venture_nn1 ,1863,location_on,venture,future,stake
+receive_vvd_vvn no_at profit_nn2 on_ii their_appge venture_nn2 ,1881,location_on,venture,profit,receive
+sustain_vvg injury_nn1 from_ii the_at venture_nn1 ,1895,location_out,venture,injury,sustain
+make_vvi a_at1 profit_nn1 on_ii their_appge venture_nn2 ,1950,location_on,venture,profit,make
+pursue_vvi life_nn1 as_ii_csa a_at1 venture_nn1 ,1992,agent,venture,life,pursue
+accompany_vvd the_at expedition_nn1 as_ii_csa a_at1 volunteer_nn1 ,1820,agent,volunteer,expedition,accompany
+offer_vvd his_appge service_nn2 as_ii_csa a_at1 volunteer_nn1 ,1837,agent,volunteer,service,offer
+make_vvd_vvn his_appge appearance_nn1 as_ii_csa a_at1 volunteer_nn1 ,1844,agent,volunteer,appearance,make
+join_vvi the_at expedition_nn1 as_ii_csa a_at1 volunteer_nn1 ,1857,agent,volunteer,expedition,join
+enter_vvi the_at army_nn1 as_ii_csa a_at1 volunteer_nn1 ,1864,agent,volunteer,army,enter
+be_vbdr volunteer_nn2 from_ii our_appge number_nn1 ,1865,locatum_out,volunteer,number,be
+join_vvn the_at gang_nn1 as_ii_csa a_at1 volunteer_nn1 ,1877,agent,volunteer,gang,join
+join_vvd the_at expedition_nn1 as_ii_csa a_at1 volunteer_nn1 ,1888,agent,volunteer,expedition,join
+offer_vvi my_appge service_nn2 as_ii_csa a_at1 volunteer_nn1 ,1892,agent,volunteer,service,offer
+enter_vvi the_at competition_nn1 as_ii_csa a_at1 volunteer_nn1 ,1893,agent,volunteer,competition,enter
+accompany_vvi the_at party_nn1 as_ii_csa a_at1 volunteer_nn1 ,1895,agent,volunteer,party,accompany
+be_vbdr man_nn2 from_ii the_at volunteer_nn2 ,1898,location_out,volunteer,man,be
+send_vvi volunteer_nn2 from_ii the_at washington_np1 ,1898,locatum_out,volunteer,washington,send
+accompany_vvi his_appge son_nn1 as_ii_csa a_at1 volunteer_nn1 ,1900,agent,volunteer,son,accompany
+sing_vvn every_at1 sunday_npd1 by_ii a_at1 volunteer_nn1 ,1901,instrument,volunteer,sunday,sing
+fill_vv0 their_appge place_nn2 from_ii the_at volunteer_nn1 ,1919,location_out,volunteer,place,fill
+advocate_vvg dependence_nn1 on_ii a_at1 volunteer_nn1 ,1920,location_on,volunteer,dependence,advocate
+describe_vvi his_appge experience_nn2 as_ii a_at1 volunteer_nn1 ,1939,agent,volunteer,experience,describe
+join_vvi the_at army_nn1 as_ii_csa a_at1 volunteer_nn1 ,1942,agent,volunteer,army,join
+get_vv0 their_appge man_nn2 by_ii the_at volunteer_nn1 ,1945,instrument,volunteer,man,get
+recruit_vvi volunteer_nn2 on_ii the_at basis_nn1 ,1965,locatum_on,volunteer,basis,recruit
+be_vbr volunteer_nn2 from_ii the_at business_nn1 ,1972,locatum_out,volunteer,business,be
+work_vvd the_at tournament_nn1 as_ii_csa a_at1 volunteer_nn1 ,1996,agent,volunteer,tournament,work
+formalize_vvi the_at contract_nn1 with_iw the_at volunteer_nn2 ,2000,instrument,volunteer,contract,formalize
+send_vvn a_at1 volunteer_nn1 from_ii his_appge church_nn1 ,2000,locatum_out,volunteer,church,send
+receive_vvd_vvn his_appge wage_nn2 from_ii the_at merchant_nn1 ,1881,locatum_out,wage,merchant,receive
+receive_vv0 no_at wage_nn2 from_ii their_appge employer_nn1 ,1886,locatum_out,wage,employer,receive
+earn_vv0 wage_nn2 from_ii the_at lottery_nn1 ,1892,locatum_out,wage,lottery,earn
+receive_vvg her_appge wage_nn2 from_ii the_at milliner_nn1 ,1897,locatum_out,wage,milliner,receive
+draw_vvg his_appge wage_nn2 from_ii his_appge pocket_nn1 ,1909,locatum_out,wage,pocket,draw
+collect_vvi statistics_nn on_ii the_at wage_nn2 ,1912,location_on,wage,statistics,collect
+double_vvd his_appge wage_nn2 on_ii the_at spot_nn1 ,1912,locatum_on,wage,spot,double
+separate_vvi sailor_nn2 from_ii their_appge wage_nn2 ,1915,location_out,wage,sailor,separate
+raise_vvg_nn1 wage_nn2 from_ii an_at1 average_nn1 ,1926,locatum_out,wage,average,raise
+adjust_vvi wage_nn2 on_ii the_at basis_nn1 ,1932,locatum_on,wage,basis,adjust
+measure_vvg their_appge effect_nn2 as_ii_csa a_at1 wage_nn1 ,1932,agent,wage,effect,measure
+bind_vvi the_at party_nn1 on_ii the_at wage_nn2 ,1939,location_on,wage,party,bind
+deduct_vvn his_appge rent_nn1 from_ii his_appge wage_nn2 ,1940,location_out,wage,rent,deduct
+negotiate_vvi wage_nn2 on_ii the_at basis_nn1 ,1945,locatum_on,wage,basis,negotiate
+set_vv0_vvd their_appge wage_nn2 on_ii the_at basis_nn1 ,1946,locatum_on,wage,basis,set
+provide_vvi a_at1 solution_nn1 through_ii the_at wage_nn1 ,1946,instrument,wage,solution,provide
+announce_vv0 an_at1 agreement_nn1 on_ii a_at1 wage_nn1 ,1946,location_on,wage,agreement,announce
+fill_vvi vacancy_nn2 on_ii the_at wage_nn1 ,1952,location_on,wage,vacancy,fill
+be_vbi no_at deduction_nn1 from_ii your_appge wage_nn2 ,1961,location_out,wage,deduction,be
+pay_vvd_vvn wage_nn2 on_ii a_at1 par_nn1 ,1965,locatum_on,wage,par,pay
+ii_vvg yield_nn2 on_ii their_appge stock_nn1 ,1928,locatum_on,yield,stock,ii
+increase_vvd the_at yield_nn1 from_ii their_appge weapon_nn2 ,1960,locatum_out,yield,weapon,increase
+jj_vvn yield_nn1 from_ii the_at cotton_nn1 ,1968,locatum_out,yield,cotton,jj
+seek_vvg profit_nn1 from_ii a_at1 yield_nn1 ,1971,location_out,yield,profit,seek
+hold_vv0 a_at1 stock_nn1 with_iw a_at1 yield_nn1_vv0 ,1984,instrument,yield,stock,hold
