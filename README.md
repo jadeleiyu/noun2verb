@@ -9,9 +9,7 @@ The directory is organized as follows:
       eng_adult.csv: denominal verb usages by adults in modern English
       eng_children.csv: denominal verb usages by children in modern English
       chn.csv: denominal verb usages in modern mandarin Chinese
-      eng_hist.csv: English denominal verb usages in history (from 1800 to present)
-      
-  results/: cached results to produce all figures and tables in the paper
+      eng_hist.csv: English denominal verb usages in history (from 1800 to present)     
   
   plots/: saved plots directory
   
