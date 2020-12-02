@@ -1,0 +1,29 @@
+denominal_verb,object,relation class,novelty,source,candidate_verb_0,candidate_verb_1,candidate_verb_2,denominal_utterance,paraphrase_utterance
+scale,cheese,instrument,,children,bring,weigh,take,Could you scale some cheese for me?,Could you __ some cheese with (kitchen) scale for me?
+button,calculator,instrument,,children,hit,click,play,I buttoned the calculator.,I __ the button of the calculator.
+broom,sister,instrument,,children,hit,reach,play,"Do not broom sister, mommy!","Do not __ sister with the broom, mommy! "
+broom,mess,instrument,,children,sweep,clean,remove,You need to broom the mess in your bedroom.,You need to __ the mess in your room with broom.
+nipple,baby,instrument,,children,feed,provide,send,She nippled her baby.,She __ her baby with her nipples.
+key,door,instrument,,children,lock,open,receive,I forgot to key the door!,I forgot to __ the door with keys!
+gun,mother,instrument,,children,shoot,play,kill,The young man gunned his mother.,The young man __ his mother with a gun.
+needle,pants,instrument,,children,pierce,knit,pin,The pants need to be needled.,The pants need to be __ with needles.
+string,cowboy hat,instrument,,children,fasten,bundle,loose,Mom stringed the cowboy hat on my head.,Mom __ the string of the cowboy hat on my head.
+plier out,spaghetti,instrument,,children,hold,cook,eat,Mom pliered out the spaghetti.,Mom __  out the spaghetti with a pair of pliers.
+hatchet,sticks,instrument,,children,cut,truncate,see,I hatcheted some sticks.,I __ some sticks with a hatchet.
+paper,me,instrument,,children,cut,hurt,need,I was papered and it hurts.,I was __ by papers and it hurts.
+shoolace,boots,instrument,,children,loose,pull,fasten,Mom shoolaced the boots for me.,Mom __ the shoolace of the boots for me.
+seal-belt,myself,instrument,,children,fasten,set,loose,This time I will seal-belt myself!,This time I will __ the seal-belt by myself!
+stick,ball,instrument,,children,play,snap,move,I'm sticking the ball and now it goes really fast.,I'm __ the ball with a stick and now it goes really fast.
+trouser,kids,locatum_on,,children,wear,put,give,Mommy trousers me every morning.,Mommy __ trousers on me every morning.
+dust,nightgown,locatum_on,,children,clean,get,gather,My nightgown is dusted.,My nightgown __ dust on it.
+cracker,soup,locatum_on,,children,add,put,drop,I am crackering my soup.,I am __ crackers in my soup.
+soap,car,locatum_on,,children,wash,clean,drive,Dad went to soap his car.,Dad went to __ his car with soaps.
+bead,playdough,locatum_on,,children,fill,play,allow,I think I can bead the playdough.,I think I can __ the playdough into bead-like shapes.
+chocolate,milk,locatum_on,,children,add,season,drink,Will you chocolate my milk?,Will you __ some chocolate into my milk?
+shirt,man,locatum_on,,children,put,wear,dress,I'm shirting my doll.,I am __ shirt on my doll.
+basket,apples,location_on,,children,bring,hold,take,I'm going to basket these apples.,I am going to __ these apples into the basket.
+towel,body,location_on,,children,wipe,clean,smell,"Towel me, mommy.","__ me with towels, mommy."
+cement,truck,goal,,children,add,pour,convey,That truck is cementing.,That truck is __ out cementings.
+dogear,hair,goal,,children,rub,cut,smooth,I don't want to get my hair dogeared.,I don't want to have my hairs __ into the shape of dogears.
+monster,towel,agent,,children,twist,stand,fold,I monstered that towel.,I __ the towel into a monster-like shape.
+governess,us,agent,,children,rule,govern,serve,When is she going to governess us?,When is she going to __ us as a governess?
