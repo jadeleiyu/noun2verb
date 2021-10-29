@@ -1,0 +1,95 @@
+<QuestionForm xmlns='http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2017-11-06/QuestionForm.xsd'>
+  <Question>
+      <QuestionIdentifier>q1</QuestionIdentifier>
+      <DisplayName>Q1</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+        <Text> Which phrase below is an informal expression for “go to bed”? </Text>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>1a</SelectionIdentifier>
+              <Text>beat the sack</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>1b</SelectionIdentifier>
+              <Text>hit the sack</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>1c</SelectionIdentifier>
+              <Text>hit the bed</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>1d</SelectionIdentifier>
+              <Text>roll the sheet</Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+  </Question>
+  <Question>
+      <QuestionIdentifier>q2</QuestionIdentifier>
+      <DisplayName>Q2</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+        <Text> Which phrase below means “being extremely impressed by something”?</Text>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>2a</SelectionIdentifier>
+              <Text>bite someone off</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>2b</SelectionIdentifier>
+              <Text>blow someone away</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>2c</SelectionIdentifier>
+              <Text>blow someone off</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>2d</SelectionIdentifier>
+              <Text>bite something back</Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+  </Question>
+<Question>
+  <QuestionIdentifier>q3</QuestionIdentifier>
+  <DisplayName>Q3</DisplayName>
+  <IsRequired>true</IsRequired>
+  <QuestionContent>
+    <Text> Which phrase below can be used to express things/events that are "uncertain" or "undecided"?</Text>
+  </QuestionContent>
+  <AnswerSpecification>
+    <SelectionAnswer>
+      <StyleSuggestion>radiobutton</StyleSuggestion>
+      <Selections>
+        <Selection>
+          <SelectionIdentifier>3a</SelectionIdentifier>
+          <Text>the jury is in</Text>
+        </Selection>
+        <Selection>
+          <SelectionIdentifier>3b</SelectionIdentifier>
+          <Text>fly in the wind</Text>
+        </Selection>
+        <Selection>
+          <SelectionIdentifier>3c</SelectionIdentifier>
+          <Text>up in the air</Text>
+        </Selection>
+        <Selection>
+          <SelectionIdentifier>3d</SelectionIdentifier>
+          <Text>the door is closed</Text>
+        </Selection>
+      </Selections>
+    </SelectionAnswer>
+  </AnswerSpecification>
+</Question>
+</QuestionForm>

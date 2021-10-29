@@ -1,0 +1,109 @@
+<HTMLQuestion xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2011-11-11/HTMLQuestion.xsd">
+  <HTMLContent><![CDATA[
+<!DOCTYPE html>
+<html>
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+<crowd-instructions>
+    <link-text>
+        Click here for full instructions and examples.
+    </link-text>
+    <detailed-instructions>
+    <p>
+        In English, a denominal verb is formed by turning a noun into verb use. For example, denominal verbs are cases like "to dust" (which means "to clean the dust"), or "to google" (which means "to search something on Google").
+    </p>
+    <p>
+        In this survey, you will annotate the meaning of denominal verbs by choosing alternative verbs that are appropriate substitutes of the denominal verbs.
+        If none of the given alternative verbs is a good substitute, you will be expected to suggest an good alternative verb (in present tense) by typing into the box.
+    </p>
+    <p> Choices of alternative verbs are given in their present tense, and you don't need to transform them into correct tense during this survey.</p>
+    <p>
+        Click on "Examples" to see sample questions and answers.
+    </p>
+    </detailed-instructions>
+    <positive-example>
+     <p>Given the following sentence: </p>
+     <p>"The boy biked to school"</p>
+     <p> You will be asked to check all verbs that you think are appropriate substitutes for the denominal verb "biked" in the query sentence,
+     such that the paraphrased sentence would read as:
+     <p> "The boy (your verb choice in past tense) the bike to school"</p>
+     <p> In this case, the three verb choices are:</p>
+     <p>a. ride</p>
+     <p>b. go</p>
+     <p>c. take</p>
+     <p>You can check as many verbs as you'd like as long as the meaning of the paraphrased sentence is equivalent to the original query sentence. </p>
+     <p>In this case, the appropriate choice would be "ride" (even though in some cases, there might be multiple correct choices). </p>
+     <p>If you think none of the verbs applies, then you will be prompted to type a verb that you think best serves as the substitute.</p>
+     </positive-example>
+
+     <negative-example>
+     <p> Consider another example:</p>
+     <p>"I milked the cow."</p>
+     <p>With the following incomplete paraphrase:</p>
+     <p>"I (your verb choice in past tense)" milk from/out of the cow.</p>
+     <p>Suppose you are given three choices to fill the blank above:</p>
+     <p>a. drink</p>
+     <p>b. see</p>
+     <p>c. want</p>
+     <p>In this case, none of the three candidate verbs serves as a good substitution because the paraphrased sentence would not express the equivalent meaning to the query sentence. So you could type in an alternative verb (in present tense), such as "draw".
+     Since "I drew milk from/out of the cow" is a good paraphrase that is equivalent to the original query sentence "I milked the cow".</p>
+     </negative-example>
+
+    <short-summary>
+        Click on "Detailed instructions" and "Examples" for guidance.
+    </short-summary>
+</crowd-instructions>
+  <!-- Multiple Checkboxes -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="checkboxes"></label>
+  <p>Given the following query sentence:</p>
+  <p>"${denominal_utterance}"</p>
+  <p>Check all verbs that you think are appropriate substitutes for the denominal verb "${denominal_verb}"
+  in the query sentence above (ignore the tense of the verb), such that the paraphrased sentence would read as:</p>
+  <p> "${paraphrase_utterance}" </p>
+  <div class="col-md-4">
+  <div class="checkbox">
+    <label for="checkboxes-0">
+      <input type="checkbox" name="checkboxes" id="checkboxes-0" value="1">
+      ${candidate_verb_0}
+    </label>
+	</div>
+  <div class="checkbox">
+    <label for="checkboxes-1">
+      <input type="checkbox" name="checkboxes" id="checkboxes-1" value="2">
+      ${candidate_verb_1}
+    </label>
+	</div>
+	<div class="checkbox">
+    <label for="checkboxes-2">
+      <input type="checkbox" name="checkboxes" id="checkboxes-2" value="3">
+      ${candidate_verb_2}
+    </label>
+	</div>
+
+
+	<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput">
+      If none of the above verbs is a good substitute, please suggest an alternative verb (in present tense) by typing into the box below:
+    </label>
+  <div class="col-md-4">
+  <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md">
+  </div>
+</div>
+
+  </div>
+</div>
+
+</crowd-form>
+      </html>
+]]>
+  </HTMLContent>
+  <FrameHeight>0</FrameHeight>
+</HTMLQuestion>
