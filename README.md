@@ -1,4 +1,6 @@
-This repository contains all implementation code, data and analysis results for the paper "How nouns surface as verbs: Probabilistic frame semantics for word class conversion".
+This repository contains all implementation code, data and analysis results for the following paper:
+
+Yu, L. and Xu, Y. (to appear) Noun2Verb: Probabilistic frame semantics for word class conversion. Computational Linguistics.
 
 The directory is organized as follows:
 
